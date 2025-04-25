@@ -1,0 +1,713 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Apowersoft LangName="日本語">
+
+	<item name="recordingSound">スクリーンオーディオ録音</item>
+
+	<item name="deviceNotFound">デバイスが見つかりません。デバイスが同じネットワーク上にあることを確認してください。</item>
+	<item name="deviceNotFoundTips">または、#QRコード/パスキーを使ってスクリーンミラーリングを試みてください。</item>
+
+	<item name="bonjourServiceAbnormal">Bonjourサービスに異常が検出されました。これにより、Airplayの使用やスクリーンミラーリングの検索ができなくなる可能性があります。解決策が必要な場合は、オンラインカスタマーサービスにご連絡ください。</item>
+	<item name="contactCustomerService">連絡する</item>
+	<item name="ignore">無視する</item>
+
+	<item name="minimalMode">ミニマリスト</item>
+	<item name="minimalModeKey">ホットキー: </item>
+	<item name="minimalModeTips">ミニマリストモードに移行・終了</item>
+	
+	<item name="blackBars">黒いバー</item>
+	<item name="blackBarsHover">画面上の黒いバーを削除または復元するにはクリックしてください</item>
+	
+	<item name="antiControlAndroid">Androidを制御</item>
+	<item name="freeTrial">無料試し</item>
+
+	<item name="usbDebuggingTips">USB接続で#Androidを制御#</item>
+	<item name="easyAndroidControlFromPC">PCでAndroidスマホを簡単にコントロール</item>
+
+	<item name="connectAndroidViaUSB">AndroidをUSB経由でPCに接続し、USBデバッグを有効にします。</item>
+	<item name="howToEnableUSBDebugging">AndroidでUSBデバッグを有効にするには？</item>
+	<item name="startControlButton">開始</item>
+	<item name="openUSBDebuggingButton">コントロール中</item>
+
+	<item name="antiControlTrialInProgress">トライアル終了:</item>
+	<item name="upgrade">アップグレード</item>
+
+	<item name="antiControlTips">コントロール</item>
+
+	<item name="enableUSBDebugging">USBデバッグを有効にします</item>
+
+	<item name="openDeveloperOptions">開発者向けオプションを有効にします</item>
+	<item name="activateDeveloperMode">「設定」→「情報」にアクセスして、「システムバージョン」を7回タップします。</item>
+
+	<item name="openUSBDebugging">USBデバッグを有効にします</item>
+	<item name="enterDeveloperOptions">「設定」→「開発者向けオプション」に移動して、「USBデバッグ」を有効にします。「USBデバッグ（セキュリティ設定）」がある場合は、それも有効にする必要があります。</item>
+
+	<item name="completeSettings">完了</item>
+
+	<item name="startScreenSharing">スマホで[今すぐ開始]をタップして実行...</item>
+	<item name="noRecordingWhenLive">モバイル画面はPCにミラーリングされるだけで、録画されることはありません。</item>
+	
+	<item name="loginTryTips">無料お試し</item>
+	<item name="loginButton">ログイン</item>
+	<item name="hdButtonHover4">解像度を調整</item>
+
+	<item name="hdTryTips">#解像度を試す</item>
+
+	<item name="optionTry">試す</item>
+
+	<item name="hdButtonHover5">解像度をアップグレード</item>
+
+	<item name="hdTryOverTips">HDお試し終了</item>
+	<item name="hdTryOverButton">アップグレード</item>
+
+	<item name="ConnectQuestion1">接続失敗、別の接続方法を試すかまたは#解決策#をご参照ください</item>
+
+	<item name="PCHotspot2">ホットスポットでネットワークに接続</item>
+	<item name="PCHotspot3">ミラーリングを再試行してください</item>
+
+	<item name="ConnectInvalid">接続失敗、ミラーリングコードまたはネットワークを確認してください。</item>
+	<item name="ConnectHelp">#解決策#をご参照または#ヘルプセンター#にお問い合わせください</item>
+	<item name="ConnectHelp1">接続に失敗しましたか？</item>
+
+	<item name="ManualCheck5">両端のアプリを再起動</item>
+
+	<item name="PCHotspot">ホットスポットを利用</item>
+	<item name="HotspotButton">今すぐ有効にする</item>
+	<item name="PCHotspot1">ホットスポットを有効にしてネットワークを共有</item>
+
+	<item name="SwitchTips1">共有または拡張</item>
+	<item name="SwitchTips2">ここで拡張画面モードに切り替えます。</item>
+	<item name="ConfirmButton">了解</item>
+	
+	<item name="Remote1">#PC遠隔操作# ｜柔軟な接続</item>
+	<item name="RemoteDesc">どこでも作業効率UP</item>
+
+	<item name="RemoteDesktop">リモートデスクトップ</item>
+	<item name="limitFree">無料お試し</item>
+
+	<item name="chooseDevice">私のデバイス</item>
+	<item name="noHistory">記録なし</item>
+	<item name="addDevice">接続デバイスを追加してください</item>
+	<item name="addDeviceBtn">+ デバイスを追加</item>
+	<item name="myCode">私のミラーリングコード</item>
+	<item name="unlockRefresh">ミラーリングコードはロックされているので、ご注意ください。</item>
+	<item name="lockPrivacy">ミラーリングコードのロックは解除され、アプリが起動するたびに更新されます。</item>
+	<item name="myQRCode">私のQRコード</item>
+	<item name="scanQRCode">モバイルアプリでこのコードをスキャンしてください。</item>
+
+	<item name="changeName">デバイス名を変更</item>
+	<item name="changeNameHover">変更</item>
+
+	<item name="Save">保存</item>
+	<item name="Cancel">キャンセル</item>
+	<item name="noNetwork">ネットワーク未接続、ご確認ください</item>
+
+	<item name="back">戻る</item>
+	<item name="deviceCode">ミラーリングコード</item>
+	<item name="inputDeviceCode">接続したいデバイスのミラーリングコードを入力してください。</item>
+
+	<item name="chooseShareContent">画面共有</item>
+
+	<item name="reconnect">接続が無効です。再接続してください。</item>
+
+	<item name="shareMyScreen">画面を共有</item>
+	<item name="shareMyScreen1">PC画面を他のデバイスと共有</item>
+	<item name="getOtherScreen">画面を受信</item>
+	<item name="getOtherScreen1">PCに他のデバイスの画面を表示</item>
+	<item name="expandMyScreen">画面を拡張</item>
+	<item name="expandMyScreen1">デバイスを第二画面として利用</item>
+	
+	<item name="castScreen">画面</item>
+	<item name="showCursor">カーソルを表示</item>
+	<item name="mobileShowPCHide">モバイルのみ表示</item>
+	<item name="allHide">すべて隠す</item>
+	<item name="allShow">すべて表示</item>
+	
+	<item name="allowControlPrompt">制御可能</item>
+	<item name="controlledPrompt">他のデバイスから私のPCをコントロールできます。</item>
+	<item name="soundSharePrompt">PC音声</item>
+	<item name="upgradeButton">プロ</item>
+	<item name="pcReceiveQuality">PCに表示される画面</item>
+	<item name="loginTrail">無料お試し</item>
+
+	<item name="Other">オプション</item>
+	<item name="fullScreen">フルスクリーン</item>
+	<item name="maximizeWindow">最大化</item>
+
+	<item name="hdButton1">HDお試し</item>
+	<item name="hdButton2">HDにアップグレード</item>
+	<item name="hdButtonHover1">ログインしてHD画質を楽しめます。</item>
+	<item name="hdButtonHover2">HD画質に切り替えます。</item>
+	<item name="hdButtonHover3">HD画質を楽しめるにはアップグレードしてください。</item>
+
+	<item name="hdButton">HD</item>
+	<item name="hdButtonHover">プレミアム機能</item>
+	<item name="goVipNow">プレミアム</item>
+	<item name="moreThanHd">HD画質及びもっと多くのプレミアム機能が楽しめる！</item>
+	<item name="goVipButton">アップグレード</item>
+
+	<item name="slogan">画面ミラーリング専門家</item>
+	<item name="openForUse">今すぐ開始</item>
+
+	<item name="equityPage">会員特典</item>
+	<item name="equityIntro">スマホ/PC/TVでのクロスプラットフォーム</item>
+	<item name="moreEquity">#詳しく#</item>
+	<item name="contactSales">SDKサービスについて、#こちらにお問い合わせ#ください</item>
+
+	<item name="AirCast1">#リモートキャスト#</item>
+	<item name="AirCastDesc">異なるネットワーク、遠距離での画面共有</item>
+	<item name="Drawing1">#お絵かき# - 創造、シェア</item>
+	<item name="DrawingDesc">フルキャンバスホワイトボード、スポットライト</item>
+
+	<item name="workSpeace">ワークスペース</item>
+	<item name="sidebar">サイドバー</item>
+	<item name="moreHelp">ガイド</item>
+
+	<item name="ownCodehelp">接続するデバイスのミラーリングコードを入力</item>
+	
+	<item name="sale">セール</item>
+
+	<item name="PcToOther">動き(PCを他にミラーリング)</item>
+	<item name="CodeRate">ビットレート：</item>
+	<item name="CodeRate2M">2M</item>
+	<item name="CodeRate4M">4M</item>
+	<item name="CodeRate6M">6M</item>
+	<item name="CodeRate8M">8M</item>
+	<item name="Fps">フレームレート：</item>
+	<item name="Fps30">30fps</item>
+	<item name="Fps60">60fps</item>
+
+	<item name="sharedContentSelect">#共有画面#を選択</item>
+	<item name="screen">スクリーン</item>
+	<item name="allScreenContent">スクリーン全体を共有します</item>
+	<item name="window">ウィンドウズ</item>
+	<item name="upgradePro">プレミアム</item>
+	<item name="privateScreenSharing">特定のアプリケーションを共有します</item>
+	<item name="share">共有</item>
+
+	<item name="sharingTo">に画面共有中</item>
+	<item name="sharingToLocal">から画面共有中</item>
+	<item name="disconnect">接続を切る</item>
+	<item name="startMirror">ミラーリング開始</item>
+	<item name="shareScreenToPc">からあなたに画面を共有します</item>
+	<item name="refuse">拒否</item>
+	<item name="agree">同意</item>
+
+	<item name="shareScreenRefusedNotify">応答しない場合は、共有を終了するか、画面を明るくしてみてください。</item>
+	<item name="screenMirroring">LetsView[ミラーリング]</item>
+
+	<item name="MyCode">私のミラーリングコード</item>
+	<item name="UsingHelp">使用方法</item>
+	<item name="ConnectCodeTips1">接続したいデバイスでミラーリングコードを確認します。</item>
+	<item name="ConnectCodeTips2">ミラーリングコードを入力</item>
+	<item name="ConnectCodeTips3">注：自分のデバイスのミラーリングコードは入力しないでください。</item>
+	<item name="ConnectQRcodeTips1">スマホアプリを使ってスキャンすれば、接続できます。</item>
+	<item name="ConnectQRcodeTips2">*アプリをダウンロード*</item>
+	<item name="ConnectQRcodeTips3">スキャンしてダウンロード</item>
+	<item name="ConnectTipsClose">今後表示しない</item>
+	<item name="UpgradeNewVersion">バージョンアップ</item>
+	<item name="IsNewVersion">最新版</item>
+	<item name="ContactUs">お問い合わせ</item>
+	<item name="NotLoggedIn">ログイン</item>
+
+	<item name="SD">SD</item>
+	<item name="HD">HD</item>
+	<item name="Live">FHD</item>
+	
+	<item name="OpenPageSlogan2">画面ミラーリングの専門家になる</item>
+
+	<item name="OpenPageSlogan5">画面ミラーリングを超える</item>
+	<item name="OpenPageSlogan6">私たちはAIを搭載している...</item>
+	<item name="OpenWorkspace">今すぐ始める</item>
+	<item name="SettingChange">設定変更</item>
+	
+	<item name="Rotate">画面回転</item>
+	<item name="Home">ホーム</item>
+	<item name="VIP">プレミアム</item>
+	<item name="SetCastTips">すべての変更は新しい接続に適用されます</item>（尽量简短翻译）
+	<item name="SoundNone">なし</item>
+	<item name="SoundSystem">システムサウンド</item>
+	<item name="SoundMicrophone">マイク</item>
+	<item name="SoundBoth">システムサウンドとマイク</item>
+
+	<item name="BenefitPlan">プレミアム</item>
+	<item name="PlanMonth">月額</item>
+	<item name="PlanYear">年額</item>
+	<item name="PlanDiscount">（最大**%オフ）</item>
+	<item name="MonthlyFees">/月</item>
+	<item name="BasicEdition">ベーシック</item>
+	<item name="BasicTips">高度な機能はありません</item>
+	<item name="BasicExplain1">スマホ/iPad/PC/TV間の画面ミラーリングが無料</item>
+	<item name="BasicExplain2">スマホミラーリングは1080P解像度に対応</item>
+	<item name="BasicExplain3">HDミラーリング画面を録画する</item>
+	<item name="BasicExplain4">複数端末間でアカウント共有</item>
+	<item name="BasicExplain5">キャプチャ、録画、ホワイトボードをローカルに保存できます</item>
+	<item name="BasicButton">無料</item>
+
+	<item name="CurrentWiFi">接続中</item>
+	<item name="WiredNetwork">ローカルネットワーク</item>
+	<item name="NetworkNone">ネットワークなし</item>
+	<item name="NetworkNoneTips">ネットワーク未接続、ご確認ください</item>
+
+	<item name="AdvancedEdition">プロ</item>
+	<item name="AdvancedTips">個人的な使用に向け</item>
+	<item name="AdvancedExplain1">全ての基本的な機能</item>
+	<item name="AdvancedExplain2">スマホミラーリングは2K解像度に対応</item>
+	<item name="AdvancedExplain3">フルHDミラーリング画面を録画する</item>
+	<item name="AdvancedExplain4">キャプチャ、録画、ホワイトボードをクラウドに保存できます（お楽しみに）</item>
+	<item name="AdvancedExplain5">会員限定のクレジット（お楽しみに）</item>
+	<item name="AdvancedExplain6">技術者のサポート</item>
+	<item name="AdvancedButton">サブスクリプション購入</item>
+	<item name="MoreBenefitExplain">会員詳細案内</item>
+
+	<item name="CommercialEdition">ビジネス</item>
+	<item name="CommercialTips">チーム·エンタープライズユーザー向け、SDKお問い合わせは#こちら#。</item>
+	<item name="CommercialExplain1">全ての高度機能</item>
+	<item name="CommercialExplain2">電子領収書を発行</item>
+	<item name="CommercialExplain3">カスタマーサービスとアップデート</item>
+
+
+	<item name="Loading">読込中...</item>
+	<item name="SetRecord">録画設定</item>
+	<item name="VideoFormat">動画形式</item>
+	<item name="VideoFormatMP4">MP4</item>
+	<item name="VideoFormatMOV">MOV</item>
+	<item name="VideoFormatFLV">FLV</item>
+	<item name="VideoQuality">動画画質</item>
+	<item name="VideoQualityCommon">SD</item>
+	<item name="VideoQualityHD">HD</item>
+	<item name="VideoQualityUltraHD">フルHD</item>
+	<item name="RecCouldStorage">クラウド保存</item>
+
+	<item name="SetQuickConflict">ショートカットキー 競合ショートカットのコンフリクト</item>
+	<item name="NumberConnect">ミラーリングコードで接続</item>
+	<item name="ScanConnectEntry">QRコードで接続</item>
+	<item name="MyPcNumber">私のミラーリングコード</item>
+	<item name="NumberConnectTips">相手のミラーリングコードを入力</item>
+	<item name="NumberIdentical">「私のミラーリングコード」を入力しないでください</item>
+	<item name="WiFiDifferent">WiFiが一致しないので、再接続してください</item>
+	<item name="NumberError">無効なミラーリングコード</item>
+	<item name="ConnectNoResponse">応答がありません</item>
+	<item name="ConnectRefuse">ミラーリングが相手に拒否されました</item>
+	<item name="ConnectAbnormality">エラーが発生しました。もう一度お試しください。</item>
+	<item name="ScanConnect">QRコードで接続</item>
+	<item name="CurrentWiFi">接続中WiFi: </item>
+	<item name="ScanConnectTips">QRコードをスキャンして接続</item>
+	
+	<item name="InstallTipsAutoOpen">ダウンロードしたら自動的に開きます</item>
+	<item name="VipItemTips">プレミアム機能となります</item>
+	<item name="ViewBenefits">アップグレード</item>
+	<item name="ConnectQuestion">接続問題</item>
+	<item name="AutoCheck">自動検出</item>
+	<item name="PCWiFiDetection">ネットワーク環境チェック</item>
+	<item name="ManualCheck">マニュアル検出</item>
+	<item name="ManualCheck1">ルーターと両方のデバイスを再起動します</item>
+	<item name="ManualCheck2">Bonjourサービスが正常に実行することを確認します</item>
+	<item name="ManualCheck3">ルーターのAP分離を解除します</item>
+	<item name="ManualCheck4">コンピューターのファイアウォールを無効にします</item>
+	<item name="OtherMode">他の接続方法</item>
+	<item name="ScanConnect">QRコードをスキャンして接続</item>
+	<item name="Tutorial">ガイド記事</item>
+	<item name="Tutorial1">より多くの解決策を見る</item>
+	<item name="Tutorial2">スマホをPCにミラーリングする方法</item>
+	<item name="MenuSet">設定</item>
+	<item name="MenuFeedback">フィードバック</item>
+	<item name="MenuHelp">ヘルプセンター</item>
+	<item name="MenuAboutUs">LetsViewについて</item>
+	<item name="SetSystem">システム</item>
+	<item name="SetCast">ミラーリング</item>
+	<item name="SetStorage">保存</item>
+	<item name="SetQuick">ショートカット</item>
+	<item name="RestoreDefault">設定をリセット</item>
+	<item name="SystemGeneral">一般設定</item>
+	<item name="SelfStart">PC起動時にソフトを自動的に起動</item>
+	<item name="Top">トップに表示</item>
+	<item name="CloseWindowTips">ウィンドウを閉じる時に確認のメッセージを表示</item>
+	<item name="HardCode">ハードウェアエンコードを使用してミラーリングのパフォーマンスを向上させる</item>
+	<item name="SystemInterface">インターフェース</item>
+	<item name="Language">言語</item>
+	<item name="LanguageChoices">日本語</item>
+	<item name="Appearance">外観</item>
+	<item name="Appearance1">薄色</item>
+	<item name="CastResolution">解像度</item>
+	<item name="AndroidToPc">AndroidをPCにミラーリング：</item>
+	<item name="AndroidToPcTips">アプリ側で設定してください</item>
+	<item name="IosToPc">iPhoneをPCにミラーリング：</item>
+	<item name="PcToPc">PCをPCにミラーリング：</item>
+	<item name="Resolution720P">720P</item>
+	<item name="Resolution1080P">1080P</item>
+	<item name="Resolution2K">2K</item>
+	<item name="Fluency">動き</item>
+	<item name="CodeRate">ビットレート：</item>
+	<item name="CodeRate512K">512K</item>
+	<item name="CodeRate2M">2M</item>
+	<item name="CodeRate6M">6M</item>
+	<item name="CodeRateAuto">スマート</item>
+	<item name="Fps">フレームレート：</item>
+	<item name="Fps30">30fps</item>
+	<item name="Fps60">60fps</item>
+	<item name="Fps90">90fps</item>
+	<item name="ProjectSound">音声</item>
+	<item name="SoundPeToPc">スマホをPCにミラーリング：</item>
+	<item name="SoundPcToOther">PCを他にミラーリング：</item>
+	<item name="SoundTV">TV側のみ音声を生成する</item>
+	<item name="Soundc">PC側のみ音声を生成する</item>
+	<item name="SoundClose">ミュート</item>
+	<item name="Codec">エンコード・デコード</item>
+	<item name="DecodingMode">デコードモード：</item>
+	<item name="DecodingCompatible">互換モード</item>
+	<item name="DecodingHigh">高速モード</item>
+	<item name="AutoChoices">スマート切替</item>
+	<item name="RenderMode">レンダリングモード：</item>
+	<item name="RenderD3DX">D3DX</item>
+	<item name="RenderD3D">D3D</item>
+	<item name="RenderGDI">GDI</item>
+	<item name="CastMode">ミラーリングモード：</item>
+	<item name="CastQuality">画質優先</item>
+	<item name="CastSmooth">動き優先</item>
+	<item name="AutoChoices">スマート切替</item>
+	<item name="SetScreenshot">スクリーンショット設定</item>
+	<item name="PictureFormat">画像フォーマット：</item>
+	<item name="FormatJPG">JPG</item>
+	<item name="FormatPNG">PNG</item>
+	<item name="StorageLocation">保存先：</item>
+	<item name="MyPc">ローカル</item>
+	<item name="Clipboard">クリップボード</item>
+	<item name="CurrentStorageLocation">現在の保存先：</item>
+	<item name="ShortcutKeys">ショートカット</item>
+	<item name="Top">ソフト画面を表示</item>
+	<item name="Full">フル画面</item>
+	<item name="Screenshot">スクリーンショット</item>
+	
+
+	<item name="Sidebar">サイドバー</item>
+	<item name="VIP">プレミアム</item>
+	<item name="Menu">メニュー</item>
+	<item name="Me">私</item>
+	<item name="Close">閉じる</item>
+	<item name="Minimize">最小化</item>
+	<item name="Maxmize">最大化</item>
+	<item name="Restore">復元する</item>
+	<item name="ScreenImage">ミラーリング</item>
+	<item name="ScreenImageMean">同じWiFiが必要</item>
+	<item name="RemoteScreen">リモートキャスト</item>
+	<item name="RemoteScreenMean">異なるネットワーク間での画面共有</item>
+	<item name="Graffiti">お絵かきツール</item>
+	<item name="GraffitiMean">PCで描画して注釈を付ける</item>
+	<item name="Brand">LetsView</item>
+	<item name="OpenPageSlogan1">より良いLetsView</item>
+	<item name="OpenPageSlogan3">より高度な機能</item>
+	<item name="OpenPageSlogan4">画面ミラーリングは無料のままです</item>
+	<item name="OpenPageValue">料金</item>
+	<item name="InstallTipsRemote">リモートキャストプラグイン</item>
+	<item name="Cancel">キャンセル</item>
+	<item name="Download">今すぐダウンロード</item>
+	<item name="InstallTipsGraffiti">お絵かきツールプラグイン</item>
+	
+	
+	
+	
+	
+	<item name="ConnectTips">接続された、ミラーリング中... </item>
+	<item name="Sender">発信側</item>
+	<item name="Receiver">受信側</item>
+	<item name="ConnectClose">接続切断</item>
+	
+  <item name="Setting">設定</item>
+  <item name="Help">ヘルプ</item>
+  <item name="Community">フォーラム</item>
+  <item name="Update">アップデートの確認</item>
+  <item name="Setting">設定</item>
+  <item name="FeedBack">フィードバック</item>
+  <item name="Languages">言語</item>
+  <item name="About">バージョン情報</item>
+  <item name="HostName">PC名：</item>
+  <item name="Network">Wi-Fi：</item>
+  <item name="FirstLanuch">LetsViewのご使用ありがとうございます、ヘルプをクリックしてガイドをご覧ください</item>
+  <item name="ToCheck">確認する</item>
+  <item name="CantConnect">PCに接続できないか？</item>
+  <item name="ConnectTip1">ルーターとスマホを再起動してリトライしてください</item>
+  <item name="ConnectTip2">PCのBonjourサービスの状況を確認してください</item>
+  <item name="ConnectTip3">ルーターのAPアイソレーションをオフにしてから接続してみてください</item>
+  <item name="ConnectTip4">PCのファイアーウォールを無効にしてからやり直してください</item>
+  <item name="SeeHelp">解決策を確認</item>
+  <item name="SeeMore">更なる解決策を確認</item>
+  <item name="ConnectLetsView">LetsViewに接続</item>
+  <item name="Website">公式サイト</item>
+  <item name="ClickToBrowse">サイトを開く</item>
+  <item name="ClickToHelp">ヘルプを見る</item>
+  <item name="ConnectCourse">接続ガイド</item>
+  <item name="ChooseCourse">まずお使いのデバイスによってガイドを選びましょう</item>
+  <item name="AndroidGuide">Androidデバイスの接続ガイド</item>
+  <item name="IOSGuide">iOSデバイスの接続ガイド</item>
+  <item name="AirplayConnect">画面ミラーリングで接続</item>
+  <item name="AirplayMirror">画面ミラーリングの接続方法</item>
+  <item name="AirPlayTip1">スマホとPCを同じWi-Fiネットワークに接続</item>
+  <item name="AirPlayTip2">コントロールセンターを開き、画面ミラーリングをタップし、お使いのPCを選択</item>
+  <item name="IKnow">了解</item>
+  <item name="ConnectTip2">PCのBonjourサービスが起動しているかどうかを確認</item>
+  <item name="AndroidCourse">Android用接続ガイド</item>
+  <item name="IOSCourse">iOS用接続ガイド</item>
+  <item name="AndroidWifiConnect">Androidキャスト</item>
+  <item name="Step1">1.LetsViewのアプリをダウンロード</item>
+  <item name="Step2">2.スマホのネットワークを設定</item>
+  <item name="Step3">3.スマホをPCにミラーリング</item>
+  <item name="AppStoreCourse">Appストアでのダウンロード方法</item>
+  <item name="Download1">Google PlayやAppストアから、「LetsView」をダウンロード</item>
+  <item name="Download2">QRコードをスキャンしてダウンロード</item>
+  <item name="Next">次へ</item>
+  <item name="Last">前へ</item>
+  <item name="ConnectTip">スマホとPCは必ず同じWi-Fiに接続してください！</item>
+  <item name="Net1">スマホのWi-Fi設定を開いて、PCと同じネットワークに接続する</item>
+  <item name="ToScreenTip">スマホをPCにミラーリングする方法</item>
+  <item name="ToScreen1">LetsViewのアプリ画面からPC名をタップして接続</item>
+  <item name="ToScreen2">「スマホ画面ミラーリング」を選択して、「今すぐ開始」をタップ</item>
+  <item name="ToScreen3">「スマホ画面ミラーリング」を選択</item>
+  <item name="ToScreen4">コントロールセンターを開いて、画面ミラーリングをタップ</item>
+  <item name="Finish">完了</item>
+  <item name="WifiTip">内蔵のキャスト機能を使う方法</item>
+  <item name="Wifi1">スマホをPCと同じネットワークに接続</item>
+  <item name="Wifi2">スマホ内蔵のキャスト機能を開いて、PC名をタップして接続</item>
+  <item name="Wifi3">キャストはお使いのPCがMiraCastに対応する必要があります</item>
+  <item name="AppConnect">LetsViewアプリで接続</item>
+  <item name="WifiConnect">内蔵のキャスト機能で接続</item>
+  <item name="ConnectSucess">接続に成功しました、デバイスがPCにミラーリングしています</item>
+  <item name="Disconnect">接続を切る</item>
+  <item name="Slogan">更なる世界は更なる視界で見ましょう</item>
+  <item name="AndroidFirst">スマホから「今すぐ開始」をタップしてください</item>
+  <item name="LetsViewWarning">LetsViewは画面に表示するすべてのものをキャプチャーし始めます</item>
+  <item name="DontShow">二度と表示しない</item>
+  <item name="StartNow">今すぐ開始</item>
+  <item name="LetsViewTip">スマホで「二度と表示しない」にチェックを入れれば、今度は表示しなくなる</item>
+  <item name="StartNow">今すぐ開始</item>
+  <item name="BaseSetting">一般設定</item>
+  <item name="WifiSetting">Wi-Fi設定</item>
+  <item name="DisplaySetting">ディスプレイ設定</item>
+  <item name="VoiceSetting">オーディオ設定</item>
+  <item name="ComputerGetSetting">PCをPCにミラーリング</item>
+  <item name="ScreenGetSetting">キャプチャー設定</item>
+  <item name="MirrorService">ミラーリングサービス</item>
+  <item name="AutoStart">PC起動時にソフトを自動的に起動</item>
+  <item name="CloseConfirm">ソフトを閉じる時に確認メッセージを表示</item>
+  <item name="Topmost">トップに表示</item>
+  <item name="OpenWifiHost">Wi-Fiホットスポットを有効</item>
+  <item name="FullScreen">接続したらフルスクリーンで表示</item>
+  <item name="AirplayResolution">Airplay解像度</item>
+  <item name="RenderMode">レンダリングモード</item>
+  <item name="MaxFps">最大FPS</item>
+  <item name="ImgExt">画像形式</item>
+  <item name="ImageTo">画像保存先</item>
+  <item name="VideoExt">動画形式</item>
+  <item name="VideoQuality">動画画質</item>
+  <item name="AudioInput">オーディオ入力</item>
+  <item name="OutputDir">出力ディレクトリ</item>
+  <item name="HardDecode">ハードコーディングで性能向上</item>
+  <item name="RecordFinish">録画完了</item>
+  <item name="Fine">OK</item>
+  <item name="OpenDir">フォルダーを開く</item>
+  <item name="Top">おすすめ</item>
+  <item name="Light">薄色</item>
+  <item name="Dark">濃い色</item>
+  <item name="Clipboard">クリップボード</item>
+  <item name="Local">ローカルPC</item>
+  <item name="High">高</item>
+  <item name="Standard">標準</item>
+  <item name="Low">低</item>
+  <item name="Null">なし</item>
+  <item name="System">システムサウンド</item>
+  <item name="Microphone">マイク</item>
+  <item name="Both">システムサウンドとマイク</item>
+  <item name="Disable">無効</item>
+  <item name="Enable">有効</item>
+  <item name="InstallTip">Bonjourサービスがインストールされていません、インストールしますか？</item>
+  <item name="Cancel">キャンセル</item>
+  <item name="InstallNow">今すぐインストール</item>
+  <item name="EnableNow">有効にする</item>
+  <item name="AmStartFailed">AMcastの起動に失敗</item>
+  <item name="AirplayStartFailed">AirPlayの起動に失敗</item>
+  <item name="Sure">はい</item>
+  <item name="ExitTip">ソフトを終了しますか？</item>
+  <item name="BonjourStartFailed">Bonjourサービスが起動されていないため、AirPlay機能が正常に使用できません。</item>
+  <item name="Paint">落書き</item>
+  <item name="Record">録画</item>
+  <item name="Stop">停止</item>
+  <item name="Clear">クリア</item>
+  <item name="Revoke">取り消し</item>
+  <item name="Exit">終了</item>
+  <item name="Full">フルスクリーン</item>
+  <item name="ScreenShot">スクリーンショット</item>
+  <item name="Minimize">最小化</item>
+  <item name="Close">閉じる</item>
+  <item name="ShotSucess">スクリーンショットを撮りました</item>
+  <item name="ClickToOpen">クリックして開く</item>
+  <item name="ExitFull">フルスクリーンを終了</item>
+  <item name="Color">カラー</item>
+  <item name="AirplayHelp">iOSの画面ミラーリング機能でミラーリング</item>
+  <item name="MiracstHelp">スマホ内蔵のミラーリング機能で接続(MiraCastに対応するPCが必要)</item>
+  <item name="ChooseConnectType">まず接続方法を選択してください</item>
+  <item name="ClipBoardSucess">スクリーンショットをクリップボードに保存しました！</item>
+  <item name="ShotFailed">スクリーンショット撮影失敗</item>
+  <item name="Account">アカウント</item>
+  <item name="RenderModeReconnect">変更したレンダリングモードを有効にするにはデバイスを再接続する必要があります。今すぐやりますか？</item>
+  <item name="ResolutionReconnect">変更した解像度を有効にするためにデバイスを再接続する必要があります。今すぐやりますか？</item>
+  <item name="NotSurpport">お使いのPCはこのプロトコルをサポートしません</item>
+  <item name="AndroidResolution">Android解像度</item>
+  <item name="AndroidResoTip">スマホのLetsViewアプリで変更してください</item>
+  <item name="ChangeSwitchMsg">変更しました！今度ソフトを起動する時に有効になります。</item>
+  <item name="Maxmize">最大化</item>
+  <item name="QrcodeConnect">QRコードで接続</item>
+  <item name="UseAPPScan">LetsViewアプリでQRコードをスキャンして接続</item>
+  <item name="PinConnect">ミラーリングコードで接続</item>
+  <item name="OpenFolder">フォルダーを開く</item>
+  <item name="ChooseFolder">フォルダーを指定</item>
+  <item name="MiracastDecode">MiraCastハードデコード</item>
+  <item name="RevertWin">元に戻す（縮小）</item>
+
+  <item name="PhoneMirror">スマホ画面ミラーリング</item>
+  <item name="WindowMirror">PC画面ミラーリング</item>
+  <item name="WindowMirrorHint1">下に出力したいデバイスのミラーリングコードを入力</item>
+  <item name="WindowMirrorHint2">「私のミラーリングコード」を入力しないでください</item>
+  <item name="WindowMirrorHint3">、ミラーリングコンテンツを受信中</item>
+  <item name="WindowMirrorHint4">ミラーリング中</item>
+  <item name="WindowMirrorHint5">ミラーリングするコンテンツを選択</item>
+  <item name="WindowMirrorHint6">接続成功、</item>
+  <item name="WindowMirrorHint7">ミラーリングが相手に拒否されました</item>
+  <item name="ConnectSuccess">接続成功、</item>
+  <item name="MyMirrorCode">私のミラーリングコード</item>
+  <item name="InputMirrorCodeHint">ミラーリングコードを入力</item>
+  <item name="BeginConnect">接続開始</item>
+  <item name="Connecting">接続中...</item>
+  <item name="Disconnect">切断する</item>
+  <item name="IsAllowMirror">がお使いのパソコンに表示しようとしている</item>
+  <item name="Allow">許可</item>
+  <item name="Refuse">拒否</item>
+  <item name="WindowScreen">パソコン画面</item>
+  <item name="DocumentMirror">文書ミラーリング</item>
+
+  <item name="SplitScreen">画面の切り替え</item>
+  <item name="Mirror">ミラーリング</item>
+  <item name="OpenMainWindow">メイン画面を開く</item>
+  <item name="AppIsAllowMirror">LetsViewにPC画面をミラーリングしますか。</item>
+  <item name="DisconnectMirror">ミラーリングを切る</item>
+  <item name="Collaps">非表示</item>
+  <item name="MirrorConnected">このデバイスが既にミラーリングされています</item>
+  <item name="Mirroring">ミラーリング中</item>
+  <item name="WithoutDocumentHint">ドキュメントがない、PCでドキュメントを開いてから</item>
+  <item name="DocumentRefresh">更新してリトライ</item>
+  <item name="DLNAGuide">DLNAアプリ用ミラーリングガイド</item>
+  <item name="ComputerGuide">PC用ミラーリングガイド</item>
+  <item name="VideoAPPGuide">DLNAアプリ用ミラーリングガイド</item>
+  <item name="DLNATip2">スマホでDLNA対応動画アプリを開く、例えば</item>
+  <item name="DLNATip3">動画を再生し、右上のミラーリングアイコンをクリックし、デバイスを選択</item>
+  <item name="ComputerTip2">もう一台のPCでLetsViewを開き、PC画面ミラーリングタブを開く</item>
+  <item name="ComputerTip3">もう一台のPCにミラーリングコードを入力</item>
+  <item name="VideoPlay">スマホで動画・音楽・写真を開き、PCを通じて共有</item>
+  <item name="APP1">ビリビリ</item>
+  <item name="APP2">iQiyi</item>
+  <item name="APP3">テンセントビデオ</item>
+  <item name="Songtips">解析できない曲です。次の曲を再生してください。</item>
+  <item name="UnknownSinger">不明なアーティスト</item>
+  <item name="UnknownMusic">不明な曲</item>
+  <item name="ChooseScreenContent">まずスクリーンの内容を選んでください</item>
+  <item name="Decoding">ミラーリングデコーダー</item>
+  <item name="StiffDecode">高速モード</item>
+  <item name="SoftDecoding">互換モード</item>
+  <item name="ReturnScreen">変更完了！ミラーリングをやり直してください</item>
+  <item name="DecodingTip1">互換モード：すべての機器と互換性がある</item>
+  <item name="DecodingTip2">高速モード：画質がより良く、CPU使用率がより低いが、一部の端末と互換性がなく、ミラーリングが黒い画面になる。 </item>
+  <item name="AndroidResoTip">スマホのLetsViewアプリで解像度を変更してください </item>
+  <item name="FindService">発見</item>
+  <item name="PlugTip">プラグイン</item>
+  <item name="Cancel">ミラーリングがキャンセルされました</item>
+  <item name="timeout">応答がありません</item>
+  <item name="PlugInstallTip">Installing...</item>
+  
+  <item name="MirrorEnvironmentCheck">ミラーリング環境の確認</item>
+  <item name="MirrorEnvCheckTips">確認中、PCを操作しないでください</item>
+  <item name="ReCheck">再確認</item>
+  <item name="MirrorCheck">ミラーリング環境の確認</item>
+  <item name="BaseEnvironment">普通環境</item>
+  <item name="AirplayEnvironment">iOSミラーリング環境</item>
+  <item name="AndroidEnvironment">Androidミラーリング環境</item>
+  <item name="OtherEnvironment">他のミラーリング環境</item>
+  <item name="CheckNet">ネットワーク :</item>
+  <item name="CheckIP">IP :</item> 
+  <item name="CheckOS">システム :</item>
+  <item name="CheckDpi">解像度 :</item>
+  <item name="CheckNetSpeed">ネット速度 :</item>
+  <item name="CheckDriver">グラボドライバ :</item>
+  <item name="CheckFireWall">ファイアウォール :</item>
+  <item name="AirPlayService">AirPlayサービス :</item>
+  <item name="AirPlayPort">AirPlayポート :</item>
+  <item name="BonjourService">Bonjourサービス :</item>
+  <item name="AMcastPort">AMcastポート :</item>
+  <item name="DLNAService">DLNAサービス :</item>
+  <item name="MiracastService">Miracastサービス :</item>
+  <item name="NetErr">ネット未接続、ミラーリング失敗</item>
+  <item name="FireWallOn">エラー、ミラーリング失敗</item>
+  <item name="Normal">正常</item>
+  <item name="AirServErr">オフされた、ミラーリングできない</item>
+  <item name="AirPortErr">エラー、ソフトを再起動</item>
+  <item name="BonJErr">エラー、ミラーリングできない</item>
+  <item name="AmcastPortErr">ポートエラー、再起動します</item>
+  <item name="DlnaServErr">無効</item>
+  <item name="MiraServErr">対応しない</item>
+  <item name="CheckHelp">ヘルプ</item>
+  <item name="CheckResume">再起動</item>
+  <item name="CheckStart">有効</item>
+  <item name="CheckCourse">ガイド</item>
+  <item name="PrivacyAgreement">プライバシーポリシー</item>
+  <item name="AutoMirrorEnvCheck">自動確認</item>
+  <item name="ManualCheck">手動確認</item>
+
+  <item name="BtnFindTip">クリックして他のツールを見る。</item>
+  <item name="PlugInHelper">使い方</item>
+  <item name="PlugInAdd">ダウンロード</item>
+  <item name="PlugInAddCancel">キャンセル</item>
+  <item name="PlugInSurvey">アンケート</item>
+  <item name="DrawingTips">PCで描画して注釈を付ける</item>
+  <item name="SurveyTips">より多くのツール</item>
+
+  <item name="DeviceName">デバイス</item>
+  <item name="ScreenGrabTips">接続成功、画面がキャストされている</item>
+  <item name="ScreenGrabBtn">キャスト</item>
+  <item name="ShowMain">メインウィンドウ</item>
+
+  <item name="TopTips1">トップ表示を有効</item>
+  <item name="TopTips2">トップ表示を無効</item>
+
+  <item name="Tutorialart">ガイド</item>
+  <item name="PhoneToPCart">スマホをPCにミラーリングする</item>
+  <item name="NeverRemind">後で表示しない</item>
+
+  <item name="MinMaxHotKey">ホットキー(画面の表示/非表示)</item>
+  <item name="HotKeySetTips">新しいホットキーを押す</item>
+  <item name="SetHotKeyFaildTips">ショートカットキー競合</item>
+  <item name="DefaultHotKeyTips">なし</item>
+  <item name="CurrentVersion">バージョン：</item>
+  
+  <item name="D3DXRender">D3DX(高速)</item>
+  <item name="D3DRender">D3D(互換)</item>
+  <item name="GDIRender">GDI(通常)</item>
+  <item name="FastModeTip">CPU使用率がより低く性能がより高くなる</item>
+  <item name="CompatibleModeTip">すべてのデバイスと互換性がある</item>
+  <item name="MinToTray">システムトレイに最小化する</item>
+  <item name="ExitProgram">プログラムを終了する</item>
+  <item name="MirrorHardDecode">ハードコーディングで録画を改善</item>
+  <item name="CloseActionTitle">終了確認</item>
+
+	<item name="HotKeySetting">ホットキー設定</item>
+	<item name="HideOrShow">表示/非表示</item>
+	<item name="QrcodeTip">スマホ/PCでコードを入力してミラーリング</item>
+	<item name="ChangeSettingTips">変更した!再接続する</item>
+
+  <item name="AirResolutionTip">解像度は低いほど、動作はスムーズになる。</item>
+  <item name="MirrorNow">ミラーリング</item>
+
+  <item name="PCMirrorSenderTips">キャストしたい内容を選択する</item>
+  <item name="PCMirrorReceiveTips">送信側から内容を選択するのを待つミラーリング成功</item>
+
+  <item name="CloudMirroringTips">異なるネットワーク間での画面共有</item>
+	<item name="Drawing">Drawing</item>
+	<item name="RemoteCast">リモートキャスト</item>
+	<item name="ComputerSetting">PCを他の装置にミラーリング</item>
+</Apowersoft>

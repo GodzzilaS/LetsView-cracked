@@ -1,0 +1,744 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Apowersoft LangName="简体中文">
+
+	<item name="recordingSound">录制声音</item>
+	<item name="deviceNotFound">未搜索到设备，请保持设备处在同一网络</item>
+	<item name="deviceNotFoundTips">或试试#扫码/设备码投屏</item>
+
+	<item name="bonjourServiceAbnormal">检测到Bonjour服务异常，可能会导致无法使用Airplay与搜索投屏；如需解决请联系在线客服。</item>
+	<item name="contactCustomerService">联系客服</item>
+	<item name="ignore">忽略</item>
+
+	<item name="minimalMode">极简窗口</item>
+	<item name="minimalModeKey">快捷键: </item>
+	<item name="minimalModeTips">进入/退出极简窗口</item>
+
+	<item name="blackBars">屏幕黑边</item>
+	<item name="blackBarsHover">点击可去除或还原屏幕画面黑边</item>
+	<item name="antiControlAndroid">反控安卓</item>
+	<item name="freeTrial">免费试用</item>
+
+	<item name="usbDebuggingTips">#反控安卓,#USB即连即控</item>
+	<item name="easyAndroidControlFromPC"> 快速使用电脑操控安卓手机</item>
+
+	<item name="connectAndroidViaUSB">使用USB线将安卓设备连接至电脑，并开启安卓设备的USB调试</item>
+	<item name="howToEnableUSBDebugging">如何启动USB调试？</item>
+	<item name="startControlButton">开始反控</item>
+	<item name="openUSBDebuggingButton">反控中</item>
+
+	<item name="antiControlTrialInProgress">反控 试用中:</item>
+	<item name="upgrade">升级</item>
+	
+	<item name="antiControlTips">反控</item>
+
+	<item name="enableUSBDebugging">启用USB调试</item>
+
+	<item name="openDeveloperOptions">开启开发者选项</item>
+	<item name="activateDeveloperMode">进入 设置>关于手机，点击“系统版本”7次</item>
+
+	<item name="openUSBDebugging">打开USB调试</item>
+	<item name="enterDeveloperOptions">进入 设置>开发者选项，打开“USB调试”；若有“USB调试(安全设置)”，也需要打开</item>
+
+	<item name="completeSettings">完成设置</item>
+
+	<item name="startScreenSharing">请在发起设备点击【立即开始】...</item>
+	<item name="noRecordingWhenLive">投屏仅为屏幕内容传输，不会产生录制文件哦~</item>
+
+	<item name="loginTryTips">试用高清</item>
+	<item name="loginButton">立即登录</item>
+	<item name="hdButtonHover4">切换清晰度</item>
+
+	<item name="hdTryTips">会员专享#，试用中</item>
+
+	<item name="optionTry">试用</item>
+
+	<item name="hdButtonHover5">升级清晰度</item>
+
+	<item name="hdTryOverTips">高清试用已结束</item>
+	<item name="hdTryOverButton">升级</item>
+
+	<item name="ConnectQuestion1">连接失败，请使用其他方式重新连接设备或查看#解决方案#</item>
+
+	<item name="PCHotspot2">使用目标设备连接该电脑共享的热点</item>
+	<item name="PCHotspot3">将目标设备重新投屏，或在电脑端选择-获取其他屏幕-重连投屏</item>
+
+	<item name="ConnectInvalid">连接失败，请检查设备码或网络</item>
+	<item name="ConnectHelp">查看#解决方案#或请求#客服帮助#</item>
+	<item name="ConnectHelp1">连接不上？</item>
+
+	<item name="ManualCheck5">重启双端应用后重试</item>
+
+	<item name="PCHotspot">热点连接（同一网络连接不上时）</item>
+	<item name="HotspotButton">前往开启</item>
+	<item name="PCHotspot1">开启电脑热点，共享电脑网络</item>
+
+	<item name="SwitchTips1">点击切换电脑的投屏方式。</item>
+	<item name="SwitchTips2">更有全新拓展屏功能，期待你的体验！</item>
+	<item name="ConfirmButton">好的</item>
+	
+	
+	<item name="RemoteDesktop">远程桌面</item>
+	<item name="limitFree">限时免费</item>
+	
+	<item name="changeName">设备名称</item>
+	<item name="changeNameHover">修改</item>
+
+	<item name="Save">保存</item>
+	<item name="Cancel">取消</item>
+
+	<item name="chooseDevice">选择设备</item>
+	<item name="noHistory">没有历史记录</item>
+	<item name="addDevice">请添加连接设备</item>
+	<item name="addDeviceBtn">+ 添加设备</item>
+	<item name="myCode">我的设备码</item>
+	<item name="unlockRefresh">点击锁定设备码，投屏时请注意隐私安全</item>
+	<item name="lockPrivacy">点击解锁，每次启动app时设备码会刷新</item>
+	<item name="myQRCode">我的二维码</item>
+	<item name="scanQRCode">使用手机幕连App扫描二维码</item>
+
+	<item name="noNetwork">当前无网络,请检查电脑网络连接状态</item>
+
+	<item name="back">返回</item>
+	<item name="deviceCode">设备码</item>
+	<item name="inputDeviceCode">输入目标设备的设备码</item>
+
+	<item name="chooseShareContent">选择共享内容</item>
+
+	<item name="reconnect">连接失效,请输入设备码/扫码重新连接。</item>
+
+	<item name="shareMyScreen">共享我的屏幕</item>
+	<item name="shareMyScreen1">将我的电脑屏幕内容投射给对方</item>
+	<item name="getOtherScreen">获取其他屏幕</item>
+	<item name="getOtherScreen1">请求将对方的屏幕内容展示到我的电脑上</item>
+	<item name="expandMyScreen">拓展我的屏幕</item>
+	<item name="expandMyScreen1">让对方设备成为我的第2块桌面屏幕,不影响我当前的屏幕操作</item>
+	
+	<item name="castScreen">投画面</item>
+	<item name="showCursor">电脑鼠标光标:</item> 
+	<item name="mobileShowPCHide">仅移动端显示</item>
+	<item name="allHide">全部隐藏</item>
+	<item name="allShow">全部显示</item>
+
+	<item name="screenEx">拓展副屏</item>
+	
+	<item name="allowControlPrompt">允许对方控制此电脑</item>
+	<item name="controlledPrompt">对方设备可以控制我的电脑</item>
+	<item name="soundSharePrompt">共享电脑声音</item>
+	<item name="upgradeButton">升级</item>
+	<item name="loginTrail">登录试用</item>
+	<item name="pcReceiveQuality">电脑接收画面:</item>
+	<item name="connectNetworkPrompt">两台设备需处在同一网络下</item>
+
+	<item name="Other">更多</item>
+	<item name="fullScreen">全屏</item>
+
+	<item name="communicationPrompt">QQ-扫一扫加入幕连用户交流群</item>
+	<item name="communicationPromptEx">群号：870088437</item>
+	<item name="communicationEntry">用户交流入口</item>
+	
+	<item name="hdButton1">高清试用</item>
+	<item name="hdButton2">画质升级</item>
+	<item name="hdButtonHover1">登录体验高清画质</item>
+	<item name="hdButtonHover2">立即体验高清画质</item>
+	<item name="hdButtonHover3">前往购买，继续享受VIP高清画质。</item>
+	
+	<item name="hdButton">HD</item>
+	<item name="hdButtonHover">VIP专属高清画质</item>
+	<item name="goVipNow">立即升级为VIP</item>
+	<item name="moreThanHd">不仅高清，还可以享受超清和更多VIP权益</item>
+	<item name="goVipButton">升级VIP</item>
+	
+	<item name="reportDump">刚刚检测到可能发生过应用异常终止，是否需要上报该问题，以便我们尽快优化？</item>
+	<item name="reportDumpBtn">报告问题</item>
+
+	<item name="openForUse">打开</item>
+	<item name="brandNew">全   /   新   /   品   /   牌</item>
+	<item name="upgradeLetsview">由幕享全面升级</item>
+
+	<item name="equityPage">权益说明</item>
+	<item name="equityIntro">权益帐号手机、电脑、电视三端通用</item>
+	<item name="moreEquity">#查看更多权益说明#</item>
+	<item name="contactSales">SDK接入及定制请#联系商务#</item>
+
+	<item name="AirCast1">#云投屏# ,跨越网络屏幕互联</item>
+	<item name="AirCastDesc">支持跨网络、跨区域远程共享屏幕</item>
+	<item name="Drawing1">#涂鸦小助手# ,跨屏高效表达</item>
+	<item name="DrawingDesc">支持全画布白板、聚光灯等操作</item>
+	<item name="Remote1">#远程控制电脑# ,更灵活的工作方式</item>
+	<item name="RemoteDesc">随时随地访问和操作您的电脑，提高效率并享受 便捷的远程体验</item>
+
+	<item name="workSpeace">工作台</item>
+	<item name="sidebar">侧边栏</item>
+	<item name="moreHelp">更多帮助</item>
+
+	<item name="ownCodehelp">查看对方设备上的设备码,在此输入</item>
+
+	<item name="sale">超值</item>
+	<item name="PcToOther">电脑投其他设备流畅度</item>
+	<item name="CodeRate">码率：</item>
+	<item name="CodeRate2M">2M</item>
+	<item name="CodeRate4M">4M</item>
+	<item name="CodeRate6M">6M</item>
+	<item name="CodeRate8M">8M</item>
+	<item name="Fps">帧率：</item>
+	<item name="Fps30">30fps</item>
+	<item name="Fps60">60fps</item>
+	<item name="sharedContentSelect">选择#共享内容#</item>
+	<item name="screen">屏幕</item>
+	<item name="allScreenContent">共享屏幕全部内容</item>
+	<item name="window">窗口</item>
+	<item name="upgradePro">升级</item>
+	<item name="privateScreenSharing">【保障隐私】支持单独共享应用窗口内容</item>
+	<item name="share">共享</item>
+	<item name="sharingTo">正在共享到：</item>
+	<item name="sharingToLocal">正在共享到本机</item>
+	<item name="disconnect">断开连接</item>
+	<item name="startMirror">开始屏幕镜像</item>
+	<item name="shareScreenToPc">请求共享屏幕到本机</item>
+	<item name="refuse">拒绝</item>
+	<item name="agree">同意</item>
+	<item name="shareScreenRefusedNotify">对方无响应，请断开对方设备正在进行的其它共享，或点亮对方设备屏幕</item>
+	<item name="screenMirroring">LetsView[屏幕镜像]</item>
+
+	<!--1.1.9  新文案 -->
+	<item name="MyCode">我的设备码</item>
+	<item name="UsingHelp">使用帮助</item>
+	<item name="ConnectCodeTips1">打开其他设备上的幕连，查看设备码</item>
+	<item name="ConnectCodeTips2">输入对方设备码</item>
+	<item name="ConnectCodeTips3">注意:不要输入自己的设备码</item>
+	<item name="ConnectQRcodeTips1">使用移动设备的幕连App扫码，即可连接本机</item>
+	<item name="ConnectQRcodeTips2">*下载幕连App*</item>
+	<item name="ConnectQRcodeTips3">扫码下载幕连App</item>
+	<item name="ConnectTipsClose">不再提示</item>
+	<item name="UpgradeNewVersion">新版本</item>
+	<item name="IsNewVersion">最新版</item>
+	<item name="ContactUs">联系我们</item>
+	<item name="NotLoggedIn">请登录</item>
+	<item name="SD">标清</item>
+	<item name="HD">高清</item>
+	<item name="Live">超清</item>
+	
+	
+	<!--  新文案 -->
+	<item name="OpenPageSlogan2">不止于投屏，纵享智能互联，尽在幕连</item>
+
+	<item name="OpenPageSlogan5">投屏2.0，智能AI探索更多场景</item>
+	<item name="OpenPageSlogan6">软件创作自由化，更多自定义内容敬请期待...</item>
+	<item name="OpenWorkspace">进入工作台</item>
+	<item name="SettingChange">设置更改</item>
+	<item name="CurrentWiFi">当前网络</item>
+	<item name="WiredNetwork">有线网络</item>
+	<item name="NetworkNone">无网络</item>
+	<item name="NetworkNoneTips">当前无网络，请检查网络设置</item>
+	
+	<item name="BenefitPlan">权益计划</item>
+	<item name="PlanMonth">按月计费</item>
+	<item name="PlanYear">按年计费</item>
+	<item name="PlanDiscount">（最高立省**%）</item>
+
+	<item name="MonthlyFees">/月</item>
+
+	<item name="BasicEdition">基础版</item>
+	<item name="BasicTips">原幕享功能，仅支持基础参数投屏，无法使用后续版本高级功能</item>
+	<item name="BasicExplain1">手机/平板/电脑/电视快捷无线投屏</item>
+	<item name="BasicExplain2">手机投电脑最高支持1080P分辨率</item>
+	<item name="BasicExplain3">支持录制高清投屏视频</item>
+	<item name="BasicExplain4">同一账户，多端设备通用</item>
+	<item name="BasicExplain5">截屏、录屏、白板本地存储</item>
+	<item name="BasicButton">免费使用</item>
+
+	<item name="AdvancedEdition">高级版</item>
+	<item name="AdvancedTips">新幕连功能，快捷修改投屏参数，高级功能抢先体验</item>
+	<item name="AdvancedExplain1">基础版所有功能</item>
+	<item name="AdvancedExplain2">手机投电脑最高支持2K分辨率</item>
+	<item name="AdvancedExplain3">支持录制超清投屏视频</item>
+	<item name="AdvancedExplain4">截屏、录屏、白板云端存储(敬请期待)</item>
+	<item name="AdvancedExplain5">每月点数赠送(敬请期待)</item>
+	<item name="AdvancedExplain6">专家远程服务</item>
+	<item name="AdvancedButton">立即订阅</item>
+	<item name="MoreBenefitExplain">查看会员权益说明</item>
+
+	<item name="CommercialEdition">商业版</item>
+	<item name="CommercialTips">个体商业盈利行为或公司团队使用请购买商业版；个性化定制需求及幕连功能SDK形式接入请#联系商务#</item>
+	<item name="CommercialExplain1">高级版所有功能服务</item>
+	<item name="CommercialExplain2">支持开具电子发票</item>
+	<item name="CommercialExplain3">优先专享技术服务及升级 </item>
+
+
+	<item name="Home">首页</item>
+	<item name="VIP">权益</item>
+	<item name="SetCastTips">所有更改将对新的连接生效</item>（尽量简短翻译）
+
+	<item name="SoundNone">无</item>
+	<item name="SoundSystem">系统声音</item>
+	<item name="SoundMicrophone">麦克风声音</item>
+	<item name="SoundBoth">麦克风和系统声音</item>
+	
+	
+	<item name="Loading">正在加载...</item>
+
+	<item name="ScanConnect">扫码连接</item>
+	<item name="ScanConnectTips">用手机幕连扫描二维码进行连接</item>
+	<item name="NumberConnect">设备码连接</item>
+	<item name="ScanConnectEntry">点击扫描二维码</item>
+	<item name="MyPcNumber">本机设备码</item>
+	<item name="NumberConnectTips">请输入对方设备码</item>
+	<item name="NumberIdentical">请不要输入本机设备码</item>
+	<item name="WiFiDifferent">网络不一致，请检查设备网络后重试</item>
+	<item name="NumberError">设备码输入错误</item>
+	<item name="ConnectNoResponse">对方无响应，请重试</item>
+	<item name="ConnectRefuse">对方已拒绝</item>
+	<item name="ConnectAbnormality">网络异常，请检查网络后重试</item>
+	<item name="SetRecord">录制设置：</item>
+	<item name="VideoFormat">视频格式</item>
+	<item name="VideoFormatMP4">MP4</item>（无需翻译）
+	<item name="VideoFormatMOV">MOV</item>（无需翻译）
+	<item name="VideoFormatFLV">FLV</item>（无需翻译）
+	<item name="VideoQuality">视频质量：</item>
+	<item name="VideoQualityCommon">普通</item>
+	<item name="VideoQualityHD">高清</item>
+	<item name="VideoQualityUltraHD">超清</item>
+	<item name="RecCouldStorage">录咖云存储</item>
+
+	<item name="SetQuickConflict">快捷键设置冲突</item>
+	
+	
+	<item name="Sidebar">侧边栏</item>
+	<item name="Menu">菜单</item>
+	<item name="Me">个人中心</item>
+	<item name="Close">关闭</item>
+	<item name="Minimize">最小化</item>
+	<item name="Maxmize">最大化</item>
+	<item name="Restore">还原</item>
+	<item name="ScreenImage">屏幕镜像</item>
+	<item name="ScreenImageMean">同一WiFi下设备投屏</item>
+	<item name="RemoteScreen">云投屏</item>
+	<item name="RemoteScreenMean">跨网络跨区域远程投屏</item>
+	<item name="Graffiti">涂鸦助手</item>
+	<item name="GraffitiMean">电脑涂鸦做标记的好帮手</item>
+
+	<item name="Brand">幕连</item>
+	<item name="OpenPageSlogan1">全新品牌，由幕享升级为幕连</item>
+	<item name="OpenPageSlogan3">持续赋能，新增多种高阶功能</item>
+	<item name="OpenPageSlogan4">原有幕享功能，作为基础版仍旧免费</item>
+	<item name="OpenPageValue">查看价格方案</item>
+
+	<item name="InstallTipsRemote">云投屏需下载后使用</item>
+	<item name="Cancel">取消</item>
+	<item name="Download">下载</item>
+	<item name="InstallTipsGraffiti">涂鸦助手需下载后使用</item>
+
+	<item name="InstallTipsAutoOpen">完成后自动打开</item>
+	<item name="VipItemTips">订阅会员后，可享受该权益 </item>
+	<item name="ViewBenefits">立即订阅</item>
+
+	<item name="ConnectQuestion">连接问题</item>
+	<item name="AutoCheck">自动检查</item>
+	<item name="PCWiFiDetection">本机网络环境检测</item>
+	<item name="ManualCheck">手动检查</item>
+	<item name="ManualCheck1">重启路由器、双端设备后重试</item>
+	<item name="ManualCheck2">检查电脑的Bonjour服务是否成功运行</item>
+	<item name="ManualCheck3">关闭路由器的ap隔离后重试</item>
+	<item name="ManualCheck4">关闭电脑的防火墙后重试</item>
+	<item name="OtherMode">其他连接方式</item>
+	<item name="ScanConnect">扫码连接</item>
+	<item name="Tutorial">教程文章</item>
+	<item name="Tutorial1">查看更多解决方案</item>
+	<item name="Tutorial2">手机投屏电脑教程</item>
+
+	<item name="MenuSet">设置中心</item>
+	<item name="MenuFeedback">问题反馈</item>
+	<item name="MenuHelp">帮助中心</item>
+	<item name="MenuAboutUs">关于我们</item>
+
+	<item name="SetSystem">系统设置</item>
+	<item name="SetCast">投屏设置</item>
+	<item name="SetStorage">存储设置</item>
+	<item name="SetQuick">快捷设置</item>
+	<item name="RestoreDefault">恢复默认设置</item>
+	<item name="SystemGeneral">通用设置</item>
+	<item name="SelfStart">开机启动</item>
+	<item name="Top">置顶</item>
+	<item name="CloseWindowTips">关闭窗口时弹出提示</item>
+	<item name="HardCode">使用硬编码提升投屏性能</item>
+	<item name="SystemInterface">界面设置</item>
+	<item name="Language">语言</item>
+	<item name="LanguageChoices">简体中文</item>
+	<item name="Appearance">外观</item>
+	<item name="Appearance1">浅色模式</item>
+	<item name="CastResolution">清晰度</item>
+	<item name="AndroidToPc">安卓投电脑：</item>
+	<item name="AndroidToPcTips">请在移动端幕连App设置中进行调整</item>
+	<item name="IosToPc">苹果投电脑：</item>
+	<item name="PcToPc">电脑投电脑：</item>
+	<item name="Resolution720P">720P</item>
+	<item name="Resolution1080P">1080P</item>
+	<item name="Resolution2K">2K</item>
+	<item name="Fluency">流畅度</item>
+	<item name="CodeRate">码率：</item>
+	<item name="CodeRate512K">512K</item>
+	<item name="CodeRate2M">2M</item>
+	<item name="CodeRate6M">6M</item>
+	<item name="CodeRateAuto">智能码率</item>
+	<item name="Fps">帧率：</item>
+	<item name="Fps30">30fps</item>
+	<item name="Fps60">60fps</item>
+	<item name="Fps90">90fps</item>
+	<item name="ProjectSound">投声音</item>
+	<item name="SoundPeToPc">手机投电脑：</item>
+	<item name="SoundPcToOther">电脑投其他：</item>
+	<item name="SoundTV">仅电视有声音</item>
+	<item name="Soundc">仅电脑有声音</item>
+	<item name="SoundClose">静音</item>
+	<item name="Codec">编解码</item>
+	<item name="DecodingMode">解码模式：</item>
+	<item name="DecodingCompatible">兼容模式</item>
+	<item name="DecodingHigh">高速模式</item>
+	<item name="AutoChoices">智能切换</item>
+	<item name="RenderMode">渲染模式：</item>
+	<item name="RenderD3DX">D3DX</item>
+	<item name="RenderD3D">D3D</item>
+	<item name="RenderGDI">GDI</item>
+	<item name="CastMode">投屏模式：</item>
+	<item name="CastQuality">画质优先</item>
+	<item name="CastSmooth">流畅优先</item>
+	<item name="AutoChoices">智能切换</item>
+	<item name="SetScreenshot">截图设置</item>
+	<item name="PictureFormat">图片格式：</item>
+	<item name="FormatJPG">JPG</item>
+	<item name="FormatPNG">PNG</item>
+	<item name="StorageLocation">存储位置：</item>
+	<item name="MyPc">本地电脑</item>
+	<item name="Clipboard">剪贴板</item>
+	<item name="CurrentStorageLocation">当前存储位置</item>
+	<item name="ShortcutKeys">快捷键</item>
+	<item name="Top">置顶</item>
+	<item name="Full">全屏</item>
+	<item name="Screenshot">截图</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<!--  旧版本文案 -->
+	
+  <item name="Setting">设置</item>
+  <item name="Help">帮助</item>
+  <item name="Community">论坛</item>
+  <item name="Update">检查更新</item>
+  <item name="Setting">设置</item>
+  <item name="FeedBack">反馈</item>
+  <item name="Languages">语言</item>
+  <item name="About">关于</item>
+  <item name="HostName">本机：</item>
+  <item name="Network">网络：</item>
+  <item name="FirstLanuch">欢迎使用幕享，点击帮助查看使用教程</item>
+  <item name="ToCheck">去查看</item>
+  <item name="CantConnect">连接不上电脑？</item>
+  <item name="ConnectTip1">重启路由器、手机后重试</item>
+  <item name="ConnectTip2">检查电脑的Bonjour服务是否成功运行</item>
+  <item name="ConnectTip3">关闭路由器的AP隔离后重试</item>
+  <item name="ConnectTip4">关闭电脑的防火墙后重试</item>
+  <item name="SeeHelp">查看解决方案</item>
+  <item name="SeeMore">查看更多解决方案</item>
+  <item name="ConnectLetsView">连接幕享</item>
+  <item name="Website">官网</item>
+  <item name="ClickToBrowse">点击浏览</item>
+  <item name="ClickToHelp">点击查看帮助</item>
+  <item name="ConnectCourse">连接教程</item>
+  <item name="ChooseCourse">请先根据您的设备选择教程</item>
+  <item name="AndroidGuide">安卓设备连接教程</item>
+  <item name="IOSGuide">苹果设备连接教程</item>
+  <item name="AirplayConnect">屏幕镜像连接</item>
+  <item name="AirplayMirror">屏幕镜像连接教程</item>
+  <item name="AirPlayTip1">手机连接到电脑同一局域网下</item>
+  <item name="AirPlayTip2">打开控制中心，点击画面镜像选择本机设备进行连接</item>
+  <item name="IKnow">我知道了</item>
+  <item name="ConnectTip2">检查电脑的Bonjour服务是否成功运行</item>
+  <item name="AndroidCourse">安卓连接教程</item>
+  <item name="IOSCourse">苹果连接教程</item>
+  <item name="AndroidWifiConnect">安卓无线显示连接</item>
+  <item name="Step1">1.下载幕享APP</item>
+  <item name="Step2">2.设置网络</item>
+  <item name="Step3">3.手机投屏到电脑</item>
+  <item name="AppStoreCourse">应用商店下载教程</item>
+  <item name="Download1">打开应用商店搜索“幕享”进行下载</item>
+  <item name="Download2">扫描二维码下载</item>
+  <item name="Next">下一步</item>
+  <item name="Last">上一步</item>
+  <item name="ConnectTip">手机和电脑要连接同一个WiFi哦！</item>
+  <item name="Net1">打开手机的网络设置，与电脑连接在同一网络</item>
+  <item name="ToScreenTip">手机投屏到电脑教程</item>
+  <item name="ToScreen1">在幕享主界面点击本设备名称进行连接</item>
+  <item name="ToScreen2">选择手机屏幕共享，点击“立即开始”进行投屏</item>
+  <item name="ToScreen3">选择手机屏幕共享将手机画面投屏到电脑上</item>
+  <item name="ToScreen4">打开手机控制中心，选择屏幕镜像</item>
+  <item name="Finish">完成</item>
+  <item name="WifiTip">手机无线显示连接教程</item>
+  <item name="Wifi1">手机连接到电脑同一局域网下</item>
+  <item name="Wifi2">打开手机的无线显示，点击本机设备名称进行连接</item>
+  <item name="Wifi3">无线连接需要您的电脑支持Miracast功能哦</item>
+  <item name="AppConnect">幕享APP连接</item>
+  <item name="WifiConnect">无线显示连接</item>
+  <item name="ConnectSucess">连接成功,移动设备正在投屏到电脑上</item>
+  <item name="Disconnect">断开连接</item>
+  <item name="Slogan">你朝思暮想的屏幕互联共享方式</item>
+  <item name="AndroidFirst">请在移动设备点击立即开始</item>
+  <item name="LetsViewWarning">幕享将开始截取您的屏幕上显示的所有内容</item>
+  <item name="DontShow">不再显示</item>
+  <item name="StartNow">现在开始</item>
+  <item name="LetsViewTip">在移动设备勾选“不再显示”，下次不再显示</item>
+  <item name="StartNow">现在开始</item>
+  <item name="BaseSetting">基础设置</item>
+  <item name="WifiSetting">Wifi设置</item>
+  <item name="DisplaySetting">显示设置</item>
+  <item name="VoiceSetting">投射声音设置</item>
+  <item name="ComputerGetSetting">电脑投电脑</item>
+  <item name="ScreenGetSetting">截屏录屏设置</item>
+  <item name="MirrorService">投屏服务</item>
+  <item name="AutoStart">开机启动</item>
+  <item name="CloseConfirm">关闭窗口时弹出提示</item>
+  <item name="Topmost">置顶</item>
+  <item name="OpenWifiHost">开启Wifi热点</item>
+  <item name="FullScreen">连接时全屏显示</item>
+  <item name="AirplayResolution">苹果设备分辨率</item>
+  <item name="RenderMode">渲染模式</item>
+  <item name="MaxFps">最大帧率</item>
+  <item name="ImgExt">截图格式</item>
+  <item name="ImageTo">截图保存在</item>
+  <item name="VideoExt">视频格式</item>
+  <item name="VideoQuality">视频质量</item>
+  <item name="AudioInput">音频输入</item>
+  <item name="OutputDir">输出目录</item>
+  <item name="HardDecode">使用硬编码提升性能</item>
+  <item name="RecordFinish">录制完成</item>
+  <item name="Fine">好的</item>
+  <item name="OpenDir">打开文件夹</item>
+  <item name="Top">推荐</item>
+  <item name="Light">浅色</item>
+  <item name="Dark">深色</item>
+  <item name="Clipboard">剪切板</item>
+  <item name="Local">本地电脑</item>
+  <item name="High">高</item>
+  <item name="Standard">标准</item>
+  <item name="Low">低</item>
+  <item name="Null">无</item>
+  <item name="System">系统声音</item>
+  <item name="Microphone">麦克风</item>
+  <item name="Both">系统声音和麦克风</item>
+  <item name="Disable">禁用</item>
+  <item name="Enable">启用</item>
+  <item name="InstallTip">Bonjour服务未安装，是否安装？</item>
+  <item name="Cancel">取消</item>
+  <item name="InstallNow">现在安装</item>
+  <item name="EnableNow">去启用</item>
+  <item name="AmStartFailed">Amcast启动失败</item>
+  <item name="AirplayStartFailed">AirPlay启动失败</item>
+  <item name="Sure">确定</item>
+  <item name="ExitTip">你确定要退出程序吗？</item>
+  <item name="BonjourStartFailed">Bonjour服务未启动，AirPlay功能无法正常使用</item>
+  <item name="Paint">涂鸦</item>
+  <item name="Record">录制</item>
+  <item name="Stop">停止</item>
+  <item name="Clear">清除</item>
+  <item name="Revoke">撤销</item>
+  <item name="Exit">退出</item>
+  <item name="Full">全屏</item>
+  <item name="ScreenShot">截图</item>
+  <item name="Minimize">最小化</item>
+  <item name="Maxmize">最大化</item>
+  <item name="Close">关闭</item>
+  <item name="ShotSucess">截图成功</item>
+  <item name="ClickToOpen">点击打开</item>
+  <item name="ExitFull">退出全屏</item>
+  <item name="Color">颜色</item>
+  <item name="AirplayHelp">使用苹果设备的屏幕镜像直接连接电脑</item>
+  <item name="MiracstHelp">使用手机自带的投屏功能连接电脑，需要电脑支持Miracast功能</item>
+  <item name="ChooseConnectType">请先选择连接方式</item>
+  <item name="ClipBoardSucess">截图已经保存在剪切板！</item>
+  <item name="ShotFailed">截图失败！</item>
+  <item name="Account">账户</item>
+  <item name="RenderModeReconnect">新渲染模式生效需要重连设备，是否马上断开重连？</item>
+  <item name="ResolutionReconnect">新分辨率生效需要重连设备，是否马上断开重连？</item>
+  <item name="NotSurpport">您的电脑不支持该协议</item>
+  <item name="AndroidResolution">安卓分辨率</item>
+  <item name="AndroidResoTip">请在手机幕享中更改分辨率</item>
+  <item name="ChangeSwitchMsg">更改成功！下次启动程序时生效</item>
+  <item name="QrcodeConnect">二维码连接</item>
+  <item name="UseAPPScan">用手机幕连扫描二维码进行连接</item>
+  <item name="PinConnect">投屏码连接</item>
+  <item name="OpenFolder">打开文件夹</item>
+  <item name="ChooseFolder">选择文件夹</item>
+  <item name="MiracastDecode">Miracast硬解码</item>
+  <item name="RevertWin">往下还原</item>
+  <item name="PhoneMirror">手机投屏</item>
+  <item name="WindowMirror">电脑投屏</item>
+  <item name="WindowMirrorHint1">输入接收端投屏码发起投屏</item>
+  <item name="WindowMirrorHint2">请不要输入“我的投屏码”</item>
+  <item name="WindowMirrorHint3">,正接受幕享设备的投屏内容</item>
+  <item name="WindowMirrorHint4">正在投屏到</item>
+  <item name="WindowMirrorHint5">请选择投屏内容</item>
+  <item name="WindowMirrorHint6">连接成功,</item>
+  <item name="WindowMirrorHint7">对方拒绝投屏申请</item>
+  <item name="ConnectSuccess">连接成功,</item>
+  <item name="MyMirrorCode">我的投屏码</item>
+  <item name="InputMirrorCodeHint">请输入接收端投屏码</item>
+  <item name="BeginConnect">开始连接</item>
+  <item name="Connecting">连接中...</item>
+  <item name="Disconnect">断开屏幕</item>
+  <item name="IsAllowMirror">将投屏到我的电脑</item>
+  <item name="Allow">允许</item>
+  <item name="Refuse">拒绝</item>
+  <item name="WindowScreen">电脑屏幕</item>
+  <item name="DocumentMirror">文档投屏</item>
+  <item name="SplitScreen">切换屏幕</item>
+  <item name="Mirror">屏幕</item>
+  <item name="OpenMainWindow">打开主屏幕</item>
+  <item name="AppIsAllowMirror">是否允许LetView接收我的电脑屏幕</item>
+  <item name="DisconnectMirror">断开投屏</item>
+  <item name="Collaps">隐藏</item>
+  <item name="MirrorConnected">当前设备已连接</item>
+  <item name="Mirroring">投屏中...</item>
+  <item name="WithoutDocumentHint">暂无可投屏文档，请在电脑打开文档后</item>
+  <item name="DocumentRefresh">刷新重试</item>
+  <item name="ChooseScreenContent">请先选择投屏内容</item>
+  <item name="DLNAGuide">DLNA投屏教程</item>
+  <item name="ComputerGuide">电脑投屏教程</item>
+  <item name="VideoAPPGuide">视频APP投屏教程</item>
+  <item name="DLNATip2">打开手机上的支持DLNA播放的视频APP，比如</item>
+  <item name="DLNATip3">打开要播放的视频，点击右上角的“镜像”按钮，选择设备</item>
+  <item name="ComputerTip2">打开其他屏幕上的幕享，切换到电脑投屏界面</item>
+  <item name="ComputerTip3">在其他电脑上输入本机的投屏码</item>
+  <item name="VideoPlay">在手机播放视频、音乐、图片，通过电脑共享</item>
+  <item name="APP1">bilibili</item>
+  <item name="APP2">爱奇艺</item>
+  <item name="APP3">腾讯视频</item>
+  <item name="Songtips">该歌曲无法解析，请播放下一曲试试</item>
+  <item name="UnknownSinger">未知歌手</item>
+  <item name="UnknownMusic">未知音乐</item>
+  <item name="Rotate">旋转</item>
+
+  <item name="Decoding">解码模式</item>
+  <item name="StiffDecode">高速模式</item>
+  <item name="SoftDecoding">兼容模式</item>
+  <item name="ReturnScreen">更改成功！请重新投屏</item>
+  <item name="DecodingTip1">兼容模式：兼容所有设备</item>
+  <item name="DecodingTip2">高速模式: 软件运行时更快，但部分电脑不兼容，会出现黑屏现象</item>
+  
+  <item name="FindService">发现</item>
+  <item name="PlugTip">即用小插件</item>
+  <item name="Cancel">对方取消连接</item>
+  <item name="timeout">对方未响应</item>
+  <item name="PlugInstallTip">安装中...</item>
+
+  <item name="MirrorCheck">投屏检测</item>
+  <item name="ReCheck">重新检测</item>
+  <item name="MirrorEnvironmentCheck">投屏环境检测</item>
+  <item name="MirrorEnvCheckTips">检测过程中请勿操作电脑</item>
+  <item name="BaseEnvironment">基础环境</item>
+  <item name="AirplayEnvironment">苹果投屏环境</item>
+  <item name="AndroidEnvironment">安卓投屏环境</item>
+  <item name="OtherEnvironment">其他投屏环境</item>
+  <item name="CheckNet">网络 :</item>
+  <item name="CheckIP">IP :</item>
+  <item name="CheckOS">系统 :</item>
+  <item name="CheckDpi">分辨率 :</item>
+  <item name="CheckNetSpeed">网络速度 :</item>
+  <item name="CheckDriver">显卡驱动 :</item>
+  <item name="CheckFireWall">防火墙 :</item>
+  <item name="AirPlayService">AirPlay服务 :</item>
+  <item name="AirPlayPort">AirPlay端口 :</item>
+  <item name="BonjourService">Bonjour服务 :</item>
+  <item name="AMcastPort">AMcast端口 :</item>
+  <item name="DLNAService">DLNA服务 :</item>
+  <item name="MiracastService">Miracast服务 :</item>
+  <item name="NetErr">未联网，无法投屏</item>
+  <item name="FireWallOn">异常，无法投屏</item>
+  <item name="Normal">正常</item>
+  <item name="AirServErr">已关闭，苹果无法投屏</item>
+  <item name="AirPortErr">异常，需重启软件</item>
+  <item name="BonJErr">异常，苹果无法投屏</item>
+  <item name="AmcastPortErr">端口错误，请重启</item>
+  <item name="DlnaServErr">未开启</item>
+  <item name="MiraServErr">不支持</item>
+  <item name="CheckHelp">帮助</item>
+  <item name="CheckResume">重启</item>
+  <item name="CheckStart">开启</item>
+  <item name="CheckCourse">教程</item>
+  <item name="UserAgreement">用户协议</item>
+  <item name="PrivacyAgreement">隐私协议</item>
+  <item name="AutoMirrorEnvCheck">自动检查</item>
+  <item name="ManualCheck">手动检查</item>
+
+  <item name="BtnFindTip">里面有许多实用小组件哦，点进去看看？</item>
+  <item name="PlugInHelper">使用教程</item>
+  <item name="PlugInAdd">添加</item>
+  <item name="PlugInAddCancel">取消</item>
+  <item name="PlugInSurvey">问卷调查</item>
+  <item name="DrawingTips">电脑涂鸦做标记的好帮手</item>
+  <item name="SurveyTips">更多好玩组件等您发掘</item>
+  <item name="Survey">我要推荐</item>
+
+  <item name="DeviceName">设备名</item>
+  <item name="ShowMain">显示主窗口</item>
+  <item name="ScreenGrabTips">成功连接，正在投屏当前设备画面内容</item>
+  <item name="ScreenGrabBtn">投屏</item>
+  
+  <item name="TopTips1">您已设置当前窗口置顶</item>
+  <item name="TopTips2">您已取消当前窗口置顶</item>
+  <item name="AIServer">智能客服</item>
+
+  <item name="Tutorialart">教程文章</item>
+  <item name="PhoneToPCart">手机投屏电脑教程</item>
+  <item name="NeverRemind">以后不再提醒</item>
+  <item name="Rate">倍速</item>
+
+  <item name="MinMaxHotKey">快捷键（显示/隐藏窗口）</item>
+  <item name="HotKeySetTips">请直接在键盘上输入新的快捷键</item>
+  <item name="SetHotKeyFaildTips">与已有快捷键冲突</item>
+  <item name="DefaultHotKeyTips">无</item>
+  <item name="CurrentVersion">当前版本：</item>
+  <item name="LetsViewSlogan">用同屏拉近人们的距离</item>
+
+  <item name="FastModeTip">软件运行时占用CPU更低性能更强</item>
+  <item name="CompatibleModeTip">兼容所有设备</item>
+  <item name="D3DXRender">D3DX(高速清晰)</item>
+  <item name="D3DRender">D3D(兼容清晰)</item>
+  <item name="GDIRender">GDI(兼容普通)</item>
+  <item name="MinToTray">最小化到系统托盘</item>
+  <item name="ExitProgram">退出幕连</item>
+  <item name="MirrorHardDecode">使用硬编码提升录屏性能</item>
+  <item name="CloseActionTitle">退出确认</item>
+
+  <item name="HotKeySetting">快捷键设置</item>
+  <item name="HideOrShow">显示/隐藏窗口</item>
+  <item name="QrcodeTip">在手机/电脑幕享中输入投屏码来投屏</item>
+  <item name="ChangeSettingTips">更改成功！下次连接时生效</item>
+	
+  <item name="OEMSlogan">万物互联的智能世界</item>
+  <item name="AirResolutionTip">分辨率越低，投屏越流畅</item>
+  <item name="MirrorNow">立即投屏</item>
+
+  <item name="AddEquip">添加移动设备</item>
+  <item name="MutiConnect">成功投屏到本机的移动设备</item>
+
+  <item name="PCMirrorSenderTips">请选择您需要投屏的内容</item>
+  <item name="PCMirrorReceiveTips">等待发送端设备选择投屏内容投屏成功</item>
+
+  <item name="CloudMirroringTips">跨网络跨区域远程云投屏</item>
+  <item name="Drawing">涂鸦助手</item>
+  <item name="RemoteCast">云投屏</item>
+	<item name="ComputerSetting">电脑投其他设备</item>
+
+	<!--1.1.3版本新增-->
+	<item name="ConnectTips">连接成功，当前设备正在投屏中... </item>
+	<item name="Sender">发送端</item>
+	<item name="Receiver">接收端</item>
+	<item name="ConnectClose">断开全部</item>
+</Apowersoft>
+

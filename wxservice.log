@@ -1,0 +1,245 @@
+[2025-04-25 12:34:24.062] [basic_logger] [info] WXService init...@@
+[2025-04-25 12:34:24.062] [basic_logger] [info] workDirectory: D:\LetsView
+[2025-04-25 12:34:24.063] [basic_logger] [info] My Sample Service: ServiceMain: Entry
+[2025-04-25 12:34:24.063] [basic_logger] [info] My Sample Service: ServiceMain: Performing Service Start Operations
+[2025-04-25 12:34:24.063] [basic_logger] [info] My Sample Service: ServiceMain: Waiting for Worker Thread to complete
+[2025-04-25 12:34:32.849] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 12:34:32.850] [basic_logger] [info] CtrlCode: 128 EventType: 0
+[2025-04-25 12:34:32.850] [basic_logger] [info] start execute
+[2025-04-25 12:34:32.896] [basic_logger] [info] success execute
+[2025-04-25 12:42:37.779] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 12:42:37.779] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 12:42:37.779] [basic_logger] [info] start execute
+[2025-04-25 12:42:37.796] [basic_logger] [info] success execute
+[2025-04-25 12:42:37.809] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 12:42:37.809] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 12:42:37.809] [basic_logger] [info] start execute
+[2025-04-25 12:42:37.821] [basic_logger] [info] success execute
+[2025-04-25 12:47:28.215] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 12:47:28.215] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 12:47:28.215] [basic_logger] [info] start execute
+[2025-04-25 12:47:28.231] [basic_logger] [info] success execute
+[2025-04-25 12:55:58.597] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 12:55:58.597] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 12:55:58.597] [basic_logger] [info] start execute
+[2025-04-25 12:55:58.613] [basic_logger] [info] success execute
+[2025-04-25 12:55:59.073] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 12:55:59.073] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 12:55:59.073] [basic_logger] [info] start execute
+[2025-04-25 12:55:59.083] [basic_logger] [info] success execute
+[2025-04-25 12:57:17.283] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 12:57:17.283] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 12:57:17.283] [basic_logger] [info] start execute
+[2025-04-25 12:57:17.298] [basic_logger] [info] success execute
+[2025-04-25 12:57:17.758] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 12:57:17.758] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 12:57:17.758] [basic_logger] [info] start execute
+[2025-04-25 12:57:17.769] [basic_logger] [info] success execute
+[2025-04-25 12:57:17.785] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 12:57:17.785] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 12:57:17.785] [basic_logger] [info] start execute
+[2025-04-25 12:57:17.796] [basic_logger] [info] success execute
+[2025-04-25 12:57:22.457] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 12:57:22.457] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 12:57:22.457] [basic_logger] [info] start execute
+[2025-04-25 12:57:22.466] [basic_logger] [info] success execute
+[2025-04-25 12:58:42.410] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 12:58:42.410] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 12:58:42.410] [basic_logger] [info] start execute
+[2025-04-25 12:58:42.427] [basic_logger] [info] success execute
+[2025-04-25 12:58:42.442] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 12:58:42.442] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 12:58:42.442] [basic_logger] [info] start execute
+[2025-04-25 12:58:42.453] [basic_logger] [info] success execute
+[2025-04-25 12:59:09.994] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 12:59:09.994] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 12:59:09.994] [basic_logger] [info] start execute
+[2025-04-25 12:59:10.005] [basic_logger] [info] success execute
+[2025-04-25 13:07:15.756] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:07:15.756] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:07:15.756] [basic_logger] [info] start execute
+[2025-04-25 13:07:15.771] [basic_logger] [info] success execute
+[2025-04-25 13:07:51.733] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:07:51.733] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:07:51.733] [basic_logger] [info] start execute
+[2025-04-25 13:07:51.747] [basic_logger] [info] success execute
+[2025-04-25 13:07:52.213] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:07:52.213] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:07:52.213] [basic_logger] [info] start execute
+[2025-04-25 13:07:52.224] [basic_logger] [info] success execute
+[2025-04-25 13:07:52.236] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:07:52.236] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:07:52.236] [basic_logger] [info] start execute
+[2025-04-25 13:07:52.248] [basic_logger] [info] success execute
+[2025-04-25 13:07:55.893] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:07:55.893] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:07:55.893] [basic_logger] [info] start execute
+[2025-04-25 13:07:55.902] [basic_logger] [info] success execute
+[2025-04-25 13:12:11.214] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:12:11.214] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:12:11.214] [basic_logger] [info] start execute
+[2025-04-25 13:12:11.229] [basic_logger] [info] success execute
+[2025-04-25 13:13:16.856] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:13:16.856] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:13:16.856] [basic_logger] [info] start execute
+[2025-04-25 13:13:16.870] [basic_logger] [info] success execute
+[2025-04-25 13:14:29.861] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:14:29.861] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:14:29.861] [basic_logger] [info] start execute
+[2025-04-25 13:14:29.881] [basic_logger] [info] success execute
+[2025-04-25 13:16:16.906] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:16:16.906] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:16:16.906] [basic_logger] [info] start execute
+[2025-04-25 13:16:16.922] [basic_logger] [info] success execute
+[2025-04-25 13:17:45.218] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:17:45.218] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:17:45.218] [basic_logger] [info] start execute
+[2025-04-25 13:17:45.234] [basic_logger] [info] success execute
+[2025-04-25 13:18:04.086] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:18:04.087] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:18:04.087] [basic_logger] [info] start execute
+[2025-04-25 13:18:04.096] [basic_logger] [info] success execute
+[2025-04-25 13:20:05.646] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:20:05.646] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:20:05.646] [basic_logger] [info] start execute
+[2025-04-25 13:20:05.662] [basic_logger] [info] success execute
+[2025-04-25 13:21:03.440] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:21:03.440] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:21:03.440] [basic_logger] [info] start execute
+[2025-04-25 13:21:03.455] [basic_logger] [info] success execute
+[2025-04-25 13:25:27.075] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:25:27.075] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:25:27.075] [basic_logger] [info] start execute
+[2025-04-25 13:25:27.097] [basic_logger] [info] success execute
+[2025-04-25 13:30:46.440] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:30:46.440] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:30:46.440] [basic_logger] [info] start execute
+[2025-04-25 13:30:46.461] [basic_logger] [info] success execute
+[2025-04-25 13:31:29.869] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:31:29.869] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:31:29.869] [basic_logger] [info] start execute
+[2025-04-25 13:31:29.883] [basic_logger] [info] success execute
+[2025-04-25 13:37:31.429] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:37:31.429] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:37:31.429] [basic_logger] [info] start execute
+[2025-04-25 13:37:31.444] [basic_logger] [info] success execute
+[2025-04-25 13:38:13.539] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:38:13.539] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:38:13.539] [basic_logger] [info] start execute
+[2025-04-25 13:38:13.553] [basic_logger] [info] success execute
+[2025-04-25 13:39:16.459] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:39:16.459] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:39:16.459] [basic_logger] [info] start execute
+[2025-04-25 13:39:16.473] [basic_logger] [info] success execute
+[2025-04-25 13:39:52.342] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:39:52.342] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:39:52.342] [basic_logger] [info] start execute
+[2025-04-25 13:39:52.356] [basic_logger] [info] success execute
+[2025-04-25 13:40:07.891] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:40:07.891] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:40:07.891] [basic_logger] [info] start execute
+[2025-04-25 13:40:07.901] [basic_logger] [info] success execute
+[2025-04-25 13:41:12.069] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:41:12.069] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:41:12.069] [basic_logger] [info] start execute
+[2025-04-25 13:41:12.083] [basic_logger] [info] success execute
+[2025-04-25 13:42:42.693] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:42:42.693] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:42:42.693] [basic_logger] [info] start execute
+[2025-04-25 13:42:42.708] [basic_logger] [info] success execute
+[2025-04-25 13:42:54.303] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:42:54.303] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:42:54.303] [basic_logger] [info] start execute
+[2025-04-25 13:42:54.313] [basic_logger] [info] success execute
+[2025-04-25 13:44:09.167] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:44:09.167] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:44:09.167] [basic_logger] [info] start execute
+[2025-04-25 13:44:09.181] [basic_logger] [info] success execute
+[2025-04-25 13:46:16.096] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:46:16.096] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:46:16.096] [basic_logger] [info] start execute
+[2025-04-25 13:46:16.112] [basic_logger] [info] success execute
+[2025-04-25 13:47:53.155] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:47:53.155] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:47:53.155] [basic_logger] [info] start execute
+[2025-04-25 13:47:53.177] [basic_logger] [info] success execute
+[2025-04-25 13:48:28.551] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:48:28.551] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:48:28.551] [basic_logger] [info] start execute
+[2025-04-25 13:48:28.565] [basic_logger] [info] success execute
+[2025-04-25 13:50:21.637] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:50:21.637] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:50:21.637] [basic_logger] [info] start execute
+[2025-04-25 13:50:21.652] [basic_logger] [info] success execute
+[2025-04-25 13:56:11.575] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:56:11.575] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:56:11.575] [basic_logger] [info] start execute
+[2025-04-25 13:56:11.591] [basic_logger] [info] success execute
+[2025-04-25 13:58:58.430] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:58:58.430] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:58:58.430] [basic_logger] [info] start execute
+[2025-04-25 13:58:58.447] [basic_logger] [info] success execute
+[2025-04-25 13:58:58.463] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 13:58:58.801] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 13:58:58.801] [basic_logger] [info] start execute
+[2025-04-25 13:58:58.811] [basic_logger] [info] success execute
+[2025-04-25 14:00:31.199] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:00:31.199] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:00:31.199] [basic_logger] [info] start execute
+[2025-04-25 14:00:31.214] [basic_logger] [info] success execute
+[2025-04-25 14:05:24.261] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:05:24.261] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:05:24.261] [basic_logger] [info] start execute
+[2025-04-25 14:05:24.284] [basic_logger] [info] success execute
+[2025-04-25 14:07:58.830] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:07:58.830] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:07:58.830] [basic_logger] [info] start execute
+[2025-04-25 14:07:58.845] [basic_logger] [info] success execute
+[2025-04-25 14:08:09.582] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:08:09.582] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:08:09.583] [basic_logger] [info] start execute
+[2025-04-25 14:08:09.593] [basic_logger] [info] success execute
+[2025-04-25 14:09:48.776] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:09:48.776] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:09:48.776] [basic_logger] [info] start execute
+[2025-04-25 14:09:48.792] [basic_logger] [info] success execute
+[2025-04-25 14:09:57.519] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:09:57.519] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:09:57.519] [basic_logger] [info] start execute
+[2025-04-25 14:09:57.529] [basic_logger] [info] success execute
+[2025-04-25 14:15:09.963] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:15:09.963] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:15:09.963] [basic_logger] [info] start execute
+[2025-04-25 14:15:09.979] [basic_logger] [info] success execute
+[2025-04-25 14:19:48.691] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:19:48.691] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:19:48.691] [basic_logger] [info] start execute
+[2025-04-25 14:19:48.708] [basic_logger] [info] success execute
+[2025-04-25 14:20:06.982] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:20:06.982] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:20:06.982] [basic_logger] [info] start execute
+[2025-04-25 14:20:06.992] [basic_logger] [info] success execute
+[2025-04-25 14:21:15.143] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:21:15.143] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:21:15.143] [basic_logger] [info] start execute
+[2025-04-25 14:21:15.158] [basic_logger] [info] success execute
+[2025-04-25 14:22:04.419] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:22:04.419] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:22:04.419] [basic_logger] [info] start execute
+[2025-04-25 14:22:04.435] [basic_logger] [info] success execute
+[2025-04-25 14:22:31.802] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:22:31.802] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:22:31.802] [basic_logger] [info] start execute
+[2025-04-25 14:22:31.812] [basic_logger] [info] success execute
+[2025-04-25 14:23:35.118] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:23:35.118] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:23:35.118] [basic_logger] [info] start execute
+[2025-04-25 14:23:35.133] [basic_logger] [info] success execute
+[2025-04-25 14:24:39.138] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:24:39.138] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:24:39.138] [basic_logger] [info] start execute
+[2025-04-25 14:24:39.160] [basic_logger] [info] success execute
+[2025-04-25 14:31:22.207] [basic_logger] [info] My Sample Service: ServiceCtrlHandler: Entry
+[2025-04-25 14:31:22.207] [basic_logger] [info] CtrlCode: 131 EventType: 0
+[2025-04-25 14:31:22.207] [basic_logger] [info] start execute
+[2025-04-25 14:31:22.223] [basic_logger] [info] success execute

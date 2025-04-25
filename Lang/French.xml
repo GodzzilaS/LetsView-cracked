@@ -1,0 +1,748 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Apowersoft LangName="Français">
+
+	<item name="recordingSound">Enregistrement audio de l'écran</item>
+	<item name="deviceNotFound">Appareil introuvable, veuillez vous assurer que l'appareil est sur le même réseau.</item>
+	<item name="deviceNotFoundTips">Ou essayez le #code QR/mot de passe pour le miroir d'écran.</item>
+
+	<item name="bonjourServiceAbnormal">Le service Bonjour est détecté comme anormal, ce qui peut causer l'impossibilité d'utiliser Airplay ou de rechercher un miroir d'écran ; veuillez contacter le service client en ligne si vous avez besoin d'une solution.</item>
+	<item name="contactCustomerService">Contacter</item>
+	<item name="ignore">Ignorer</item>
+
+	<item name="minimalMode">Minimaliste</item>
+	<item name="minimalModeKey">Raccourci clavier : </item>
+	<item name="minimalModeTips">Entrer/quitter le mode minimaliste</item>
+
+	<item name="blackBars">Barres noires</item>
+	<item name="blackBarsHover">Cliquer pour supprimer ou rétablir les barres noires sur l'écran</item>
+	
+	<item name="antiControlAndroid">Contrôler Android</item>
+	<item name="freeTrial">Essai gratuit</item>
+
+	<item name="usbDebuggingTips">#Contrôler Android # via connexion USB</item>
+	<item name="easyAndroidControlFromPC">Contrôlez facilement votre téléphone Android depuis PC</item>
+
+	<item name="connectAndroidViaUSB">Connectez Android au PC via USB, puis activez le débogage USB.</item>
+	<item name="howToEnableUSBDebugging">How to enable USB debugging on your Android?</item>
+	<item name="startControlButton">Start</item>
+	<item name="openUSBDebuggingButton">Controlling</item>
+
+	<item name="antiControlTrialInProgress">Trial ends:</item>
+	<item name="upgrade">Upgrade</item>
+
+	<item name="antiControlTips">Contrôle</item>
+
+	<item name="enableUSBDebugging">Activer le débogage USB</item>
+
+	<item name="openDeveloperOptions">Activer les options pour les développeurs</item>
+	<item name="activateDeveloperMode">Allez dans Paramètres > À propos du téléphone > appuyez 7 fois sur "Numéro de build".</item>
+
+	<item name="openUSBDebugging">Activer le débogage USB</item>
+	<item name="enterDeveloperOptions">Allez dans Paramètres > Options pour les développeurs, activer "débogage USB" ; activez "débogage USB (Paramètres de sécurité)" s'il y en a.</item>
+
+	<item name="completeSettings">OK</item>
+
+	<item name="startScreenSharing">Appuyez sur [Commencer] sur votre téléphone...</item>
+	<item name="noRecordingWhenLive">Votre écran mobile sera diffusé sur votre PC, mais ne sera pas enregistré. </item>
+
+	<item name="loginTryTips">Essai gratuit</item>
+	<item name="loginButton">S'identifier</item>
+	<item name="hdButtonHover4">Ajuster la qualité</item>
+
+	<item name="hdTryTips">Essayer la qualité #</item>
+
+	<item name="optionTry">Essayer</item>
+
+	<item name="hdButtonHover5">Améliorer la qualité</item>
+
+	<item name="hdTryOverTips">Essai HD terminé</item>
+	<item name="hdTryOverButton">Améliorer</item>
+
+	<item name="ConnectQuestion1">Échec de la connexion.Essayez d'autres méthodes de connexion ou consultez le #Dépannage# </item>
+
+	<item name="PCHotspot2">Connectez-vous au hotspot.</item>
+	<item name="PCHotspot3">Réessayez après vous être connecté.</item>
+
+	<item name="ConnectInvalid">Échec de la connexion, vérifiez votre clé d ou votre réseau.</item>
+	<item name="ConnectHelp">Voir #Dépannage# ou cherchez #Aide#</item>
+	<item name="ConnectHelp1">Échec de la connexion ?</item>
+
+	<item name="ManualCheck5">Redémarrez l'application des deux côtés.</item>
+
+	<item name="PCHotspot">Utiliser un point d'accès</item>
+	<item name="HotspotButton">Activez maintenant</item>
+	<item name="PCHotspot1">Activez le paramètre.</item>
+
+	<item name="SwitchTips1">Partager ou étendre</item>
+	<item name="SwitchTips2">Basculez en mode étendu ici.</item>
+	<item name="ConfirmButton">OK</item>
+
+	<item name="Remote1">#Contrôler bureau à distance# | Accès flexible</item>
+	<item name="RemoteDesc">Soyez productif partout</item>
+
+	<item name="RemoteDesktop">Bureau à distance</item>
+	<item name="limitFree">Essai gratuit</item>
+	<item name="chooseDevice">Mes appareils</item>
+	<item name="noHistory">Pas d'historique</item>
+	<item name="addDevice">Connectez votre premier appareil.</item>
+	<item name="addDeviceBtn">+ Mise en miroir d'écran</item>
+	<item name="myCode">Ma clé d'accès</item>
+	<item name="unlockRefresh">Clé d'accès fixe, veuillez bien la conserver.</item>
+	<item name="lockPrivacy">Clé d'accès dynamique, nouvelle clé après chaque redémarrage.</item>
+	<item name="myQRCode">Mon code QR</item>
+	<item name="scanQRCode">Scannez ce code avec votre application mobile.</item>
+
+	<item name="noNetwork">Pas de réseau, veuillez vérifier.</item>
+	<item name="changeName">Renommer mon appareil</item>
+	<item name="changeNameHover">Renommer</item>
+
+	<item name="Save">Sauvegarder</item>
+	<item name="Cancel">Annuler</item>
+
+	<item name="back">Retour</item>
+	<item name="deviceCode">Clé d'accès</item>
+	<item name="inputDeviceCode">Entrez la clé d'accès de l'appareil auquel vous souhaitez vous connecter.</item>
+
+	<item name="chooseShareContent">Partage d'écran</item>
+
+	<item name="reconnect">Connexion invalide, veuillez vous reconnecter.</item>
+
+	<item name="shareMyScreen">Partager mon écran</item>
+	<item name="shareMyScreen1">Partager mon écran avec d'autres appareils.</item>
+	<item name="getOtherScreen">Recevoir un écran</item>
+	<item name="getOtherScreen1">Afficher l'écran d'autres appareils sur mon PC.</item>
+	<item name="expandMyScreen">Étendre mon écran</item>
+	<item name="expandMyScreen1">Utilisez un appareil comme deuxième écran.</item>
+
+	<item name="castScreen">Visibilité du curseur</item>
+	<item name="showCursor">Montrez le curseur</item>
+	<item name="mobileShowPCHide">Afficher uniquement sur mobile</item>
+	<item name="allHide">Cacher sur les deux</item>
+	<item name="allShow">Montrer sur les deux</item>
+
+	<item name="allowControlPrompt">Autoriser le contrôle</item>
+	<item name="controlledPrompt">Autoriser le contrôle de votre PC par d'autres appareils.</item>
+	<item name="soundSharePrompt">Partager le son du PC</item>
+	<item name="upgradeButton">Pro</item>
+	<item name="pcReceiveQuality">Lorsque le PC reçoit un écran</item>
+
+	<item name="Other">Options</item>
+	<item name="fullScreen">Plein écran</item>
+	<item name="maximizeWindow">Agrandir</item>
+
+	<item name="hdButton1">Essayez HD</item>
+	<item name="hdButton2">Passer à HD</item>
+	<item name="hdButtonHover1">Connectez-vous pour débloquer la qualité HD.</item>
+	<item name="hdButtonHover2">Passez à la qualité HD.</item>
+	<item name="hdButtonHover3">Mettez à niveau vers Pro pour la qualité HD.</item>
+
+	<item name="hdButton">HD</item>
+	<item name="hdButtonHover">Avantage Pro</item>
+	<item name="goVipNow">Passer à Pro</item>
+	<item name="moreThanHd">Mise en miroir d'écran HD illimitée.</item>
+	<item name="goVipButton">Upgrader</item>
+
+	<item name="slogan">Devenez un expert du miroir d'écran</item>
+
+	<item name="openForUse">Démarrer</item>
+	<item name="equityPage">Avantages</item>
+	<item name="equityIntro">Avantages multiplateformes sur mobile/PC/TV</item>
+	<item name="moreEquity">#En savoir plus#</item>
+		<item name="contactSales">Pour le service SDK, veuillez #nous contacter#</item>
+
+		<item name="AirCast1">#Mise en miroir d'écran à distance#</item>
+		<item name="AirCastDesc">Interconnexion à travers les réseaux, à distance</item>
+		<item name="Drawing1">#Dessin# - créer, partager</item>
+		<item name="DrawingDesc">Tableau blanc en plein écran, mise en évidence</item>
+
+		<item name="workSpeace">Espace de travail</item>
+		<item name="sidebar">Barre latérale</item>
+		<item name="moreHelp">Guide</item>
+
+		<item name="ownCodehelp">Entrez la clé d'accès sur l'appareil à connecter</item>
+	<item name="sale">Promotion</item>
+
+	<item name="PcToOther">Fluidité (Diffuser l'écran du PC)</item>
+	<item name="CodeRate">Débit</item>
+	<item name="CodeRate2M">2M</item>
+	<item name="CodeRate4M">4M</item>
+	<item name="CodeRate6M">6M</item>
+	<item name="CodeRate8M">8M</item>
+	<item name="Fps">FPS</item>
+	<item name="Fps30">30fps</item>
+	<item name="Fps60">60fps</item>
+
+	<item name="sharedContentSelect">Partager #Écran#</item>
+	<item name="screen">Écran</item>
+	<item name="allScreenContent">Écran complet du bureau ou écran mobile</item>
+	<item name="window">Fenêtre</item>
+	<item name="upgradePro">Pro</item>
+	<item name="privateScreenSharing">Application spécifique</item>
+	<item name="share">Partager</item>
+
+	<item name="sharingTo">Vous partagez votre écran avec </item>
+	<item name="sharingToLocal">partage son écran avec vous</item>
+	<item name="disconnect">Déconnecter</item>
+	<item name="startMirror">Démarrer la mise en miroir</item>
+	<item name="shareScreenToPc"># souhaite partager son écran avec vous</item>
+	<item name="refuse">Refuser</item>
+	<item name="agree">Accepter</item>
+
+	<item name="shareScreenRefusedNotify">Pas de réponse, essayez de déconnecter le partage ou d'allumer l'écran.</item> <item name="sale">Promotion</item>
+
+	<item name="PcToOther">Fluidité (Diffuser l'écran du PC)</item>
+	<item name="CodeRate">Débit</item>
+	<item name="CodeRate2M">2M</item>
+	<item name="CodeRate4M">4M</item>
+	<item name="CodeRate6M">6M</item>
+	<item name="CodeRate8M">8M</item>
+	<item name="Fps">FPS</item>
+	<item name="Fps30">30fps</item>
+	<item name="Fps60">60fps</item>
+
+	<item name="sharedContentSelect">Partager #Écran#</item>
+	<item name="screen">Écran</item>
+	<item name="allScreenContent">Écran complet du bureau ou écran mobile</item>
+	<item name="window">Fenêtre</item>
+	<item name="upgradePro">Pro</item>
+	<item name="privateScreenSharing">Application spécifique</item>
+	<item name="share">Partager</item>
+
+	<item name="sharingTo">Vous partagez votre écran avec </item>
+	<item name="sharingToLocal"> partage son écran avec vous</item>
+	<item name="disconnect">Déconnecter</item>
+	<item name="startMirror">Démarrer la mise en miroir</item>
+	<item name="shareScreenToPc"> souhaite partager son écran avec vous</item>
+	<item name="refuse">Refuser</item>
+	<item name="agree">Accepter</item>
+
+	<item name="shareScreenRefusedNotify">Demande refusée, réessayeztry again or check if it is sharing.</item>
+	<item name="screenMirroring">LetsView [Diffuser]</item>
+
+
+	<item name="MyCode">Ma clé</item>
+	<item name="UsingHelp">Comment utiliser</item>
+	<item name="ConnectCodeTips1">Cherchez-le sur l'appareil auquel vous souhaitez vous connecter.</item>
+	<item name="ConnectCodeTips2">Entrez la clé d'accès</item>
+	<item name="ConnectCodeTips3">Note : ne saisissez pas la clé d'accès de l'appareil actuel.</item>
+	<item name="ConnectQRcodeTips1">Pour vous connecter, scannez à l'aide de l'application mobile.</item>
+	<item name="ConnectQRcodeTips2">*Téléchargez l'application*</item>
+	<item name="ConnectQRcodeTips3">Scannez pour télécharger</item>
+	<item name="ConnectTipsClose">Ne plus afficher</item>
+
+	<item name="UpgradeNewVersion">Mise à jour disponible</item>
+	<item name="IsNewVersion">À jour</item>
+	<item name="ContactUs">Contactez-nous</item>
+	<item name="NotLoggedIn">Se connecter</item>
+
+	<item name="SD">SD</item>
+	<item name="HD">HD</item>
+	<item name="Live">FHD</item>
+	
+	<item name="OpenPageSlogan2">Devenez un expert de la mise en miroir d'écran</item>
+
+	<item name="OpenPageSlogan5">Plus qu'une simple mise en miroir d'écran</item>
+	<item name="OpenPageSlogan6">Nous sommes alimentés par l'IA...</item>
+	<item name="OpenWorkspace">Commencez maintenant</item>
+	<item name="SettingChange">Paramètres</item>
+	
+	<item name="Rotate">Pivoter</item>
+	<item name="CurrentWiFi">Connecté</item>
+	<item name="WiredNetwork">Réseau local</item>
+	<item name="NetworkNone">Non détecté</item>
+	<item name="NetworkNoneTips">Aucun réseau, veuillez vérifier.</item>
+
+	<item name="BenefitPlan">Prix</item>
+	<item name="PlanMonth">Mensuel</item>
+	<item name="PlanYear">Annuel</item>
+	<item name="PlanDiscount">(Économiser jusqu'à **%)</item>
+
+	<item name="MonthlyFees">/mois</item>
+
+	<item name="BasicEdition">Basique</item>
+	<item name="BasicTips">Pas de fonctionnalités avancées</item>
+	<item name="BasicExplain1">Mise en miroir d'écran gratuite entre le mobile/iPad/PC/TV</item>
+	<item name="BasicExplain2">Résolution 1080P pour la mise en miroir mobile</item>
+	<item name="BasicExplain3">Enregistrer l'écran mis en miroir en HD</item>
+	<item name="BasicExplain4">Compte multiplateforme</item>
+	<item name="BasicExplain5">Stockage local pour les screenshots, enregistrements d'écran et le tableau blanc</item>
+	<item name="BasicButton">Essai gratuit</item>
+
+	<item name="AdvancedEdition">Pro</item>
+	<item name="AdvancedTips">Idéal pour les particuliers</item>
+	<item name="AdvancedExplain1">Toutes les fonctionnalités de base</item>
+	<item name="AdvancedExplain2">Résolution 2K pour la mise en miroir mobile</item>
+	<item name="AdvancedExplain3">Enregistrer l'écran mis en miroir en Full HD</item>
+	<item name="AdvancedExplain4">Stockage Cloud pour les screenshots, enregistrements d'écran et le tableau blanc (à venir)</item>
+	<item name="AdvancedExplain5">Crédits exclusifs (à venir)</item>
+	<item name="AdvancedExplain6">Services d'experts</item>
+	<item name="AdvancedButton">Je m'abonne</item>
+	<item name="MoreBenefitExplain">Comparaison des avantages</item>
+
+	<item name="CommercialEdition">Commerciale</item>
+	<item name="CommercialTips">Idéal pour les petites entreprises. Pour le service SDK, veuillez contacter le #support#.</item>
+	<item name="CommercialExplain1">Toutes les fonctionnalités Pro</item>
+	<item name="CommercialExplain2">Prend en charge l'e-facturation</item>
+	<item name="CommercialExplain3">Assistance prioritaire et mise à jour de l'application</item>
+
+	<item name="Home">Accueil</item>
+	<item name="VIP">Pro</item>
+
+	<item name="SetCastTips">Les modifications prennent effet pour les nouvelles connexions</item>（尽量简短翻译）
+
+	<item name="SoundNone">Aucun</item>
+	<item name="SoundSystem">Système</item>
+	<item name="SoundMicrophone">Microphone</item>
+	<item name="SoundBoth">Les deux</item>
+	
+	<item name="Loading">Chargement...</item>
+	<item name="SetRecord">Enregistrement</item>
+	<item name="VideoFormat">Format</item>
+	<item name="VideoFormatMP4">MP4</item>
+	<item name="VideoFormatMOV">MOV</item>
+	<item name="VideoFormatFLV">FLV</item>
+	<item name="VideoQuality">Qualité</item>
+	<item name="VideoQualityCommon">SD</item>
+	<item name="VideoQualityHD">HD</item>
+	<item name="VideoQualityUltraHD">Full HD</item>
+	<item name="RecCouldStorage">Cloud</item>
+
+	<item name="SetQuickConflict">Conflit de raccourcis clavier</item>
+	<item name="NumberConnect">Connexion par clé</item>
+	<item name="ScanConnectEntry">Connexion par code QR</item>
+	<item name="MyPcNumber">Clé d'accès</item>
+	<item name="NumberConnectTips">Entrez la clé</item>
+	<item name="NumberIdentical">Note : il ne s'agit pas de la clé de l'appareil actuel</item>
+	<item name="WiFiDifferent">Wi-Fi ne correspondent pas, essayez de vous reconnecter.</item>
+	<item name="NumberError">Mauvaise clé d'accès</item>
+	<item name="ConnectNoResponse">Pas de réponse, réessayez plus tard.</item>
+	<item name="ConnectRefuse">Refusé</item>
+	<item name="ConnectAbnormality">Erreur réseau, réessayez plus tard.</item>
+	<item name="ScanConnect">Connexion via code QR</item>
+	<item name="CurrentWiFi">Wi-Fi connecté : </item>
+	<item name="ScanConnectTips">Scannez pour se connecter</item>
+
+	<item name="InstallTipsAutoOpen">Lancer automatiquement une fois téléchargé</item>
+	<item name="VipItemTips">Ceci est une option Pro</item>
+	<item name="ViewBenefits">Upgradez maintenant</item>
+	<item name="ConnectQuestion">Impossible de se connecter ?</item>
+	<item name="AutoCheck">Vérifier le réseau</item>
+	<item name="PCWiFiDetection">État du réseau local</item>
+	<item name="ManualCheck">Fixer manuellement</item>
+	<item name="ManualCheck1">Redémarrez vos appareils et le routeur</item>
+	<item name="ManualCheck2">Assurez-vous que le service Bonjour est activé</item>
+	<item name="ManualCheck3">Désactivez l'isolation AP de votre routeur</item>
+	<item name="ManualCheck4">Désactivez le pare-feu sur votre PC</item>
+	<item name="OtherMode">Ne fonctionne toujours pas ?</item>
+	<item name="ScanConnect">Scannez pour vous connecter</item>
+	<item name="Tutorial">Aide</item>
+	<item name="Tutorial1">Dépannage</item>
+	<item name="Tutorial2">Tutoriel</item>
+	<item name="MenuSet">Paramètres</item>
+	<item name="MenuFeedback">Feedback</item>
+	<item name="MenuHelp">Aide</item>
+	<item name="MenuAboutUs">À propos</item>
+	<item name="SetSystem">Système</item>
+	<item name="SetCast">Affichage</item>
+	<item name="SetStorage">Stockage</item>
+	<item name="SetQuick">Raccourcis</item>
+	<item name="RestoreDefault">Réinitialiser les paramètres</item>
+	<item name="SystemGeneral">Général</item>
+	<item name="SelfStart">Lancer au démarrage</item>
+	<item name="Top">Toujours épingler</item>
+	<item name="CloseWindowTips">Avertir à la fermeture</item>
+	<item name="HardCode">Activer le codage en dur pour de meilleures performances</item>
+	<item name="SystemInterface">Interface</item>
+	<item name="Language">Language</item>
+	<item name="LanguageChoices">Français</item>
+	<item name="Appearance">Apparence</item>
+	<item name="Appearance1">Couleur claire</item>
+	<item name="CastResolution">Résolution</item>
+	<item name="AndroidToPc">Diffuser Android sur PC</item>
+	<item name="AndroidToPcTips">Gérer vos paramètres sur l'APP mobile</item>
+	<item name="IosToPc">Diffuser iOS sur PC</item>
+	<item name="PcToPc">Diffuser PC sur PC</item>
+	<item name="Resolution720P">720P</item>
+	<item name="Resolution1080P">1080P</item>
+	<item name="Resolution2K">2K</item>
+	<item name="Fluency">Fluidité</item>
+	<item name="CodeRate">Débit</item>
+	<item name="CodeRate512K">512K</item>
+	<item name="CodeRate2M">2M</item>
+	<item name="CodeRate6M">6M</item>
+	<item name="CodeRateAuto">Débit intelligent</item>
+	<item name="Fps">FPS</item>
+	<item name="Fps30">30fps</item>
+	<item name="Fps60">60fps</item>
+	<item name="Fps90">90fps</item>
+	<item name="ProjectSound">Son</item>
+	<item name="SoundPeToPc">Diffuser mobile sur PC</item>
+	<item name="SoundPcToOther">Diffuser PC sur d'autres appareils</item>
+	<item name="SoundTV">Seule la TV a du son</item>
+	<item name="Soundc">Seul le PC a du son</item>
+	<item name="SoundClose">Muet</item>
+	<item name="Codec">Encodage/décodage</item>
+	<item name="DecodingMode">Décodage</item>
+	<item name="DecodingCompatible">Compatibilité</item>
+	<item name="DecodingHigh">Grande vitesse</item>
+	<item name="AutoChoices">Auto</item>
+	<item name="RenderMode">Rendu</item>
+	<item name="RenderD3DX">D3DX</item>
+	<item name="RenderD3D">D3D</item>
+	<item name="RenderGDI">GDI</item>
+	<item name="CastMode">Mode de diffusion</item>
+	<item name="CastQuality">Priorité à la qualité</item>
+	<item name="CastSmooth">Priorité à la fluidité</item>
+	<item name="AutoChoices">Auto</item>
+	<item name="SetScreenshot">Screenshot</item>
+	<item name="PictureFormat">Format</item>
+	<item name="FormatJPG">JPG</item>
+	<item name="FormatPNG">PNG</item>
+	<item name="StorageLocation">Enregistrer dans</item>
+	<item name="MyPc">Ce PC</item>
+	<item name="Clipboard">Presse-papiers</item>
+	<item name="CurrentStorageLocation">Dossier de sortie</item>
+	<item name="ShortcutKeys">Raccourcis</item>
+	<item name="Top">Afficher l'APP</item>
+	<item name="Full">Plein écran</item>
+	<item name="Screenshot">Screenshot</item>
+	
+	
+	
+	
+	<item name="Sidebar">Barre latérale</item>
+	<item name="VIP">Pro</item>
+	<item name="Menu">Menu</item>
+	<item name="Me">Moi</item>
+	<item name="Close">Fermer</item>
+	<item name="Minimize">Réduire</item>
+	<item name="Maxmize">Agrandir</item>
+	<item name="Restore">restaurer</item>
+	<item name="ScreenImage">Miroir</item>
+	<item name="ScreenImageMean">Appareils sous un même Wi-Fi</item>
+	<item name="RemoteScreen">Distant</item>
+	<item name="RemoteScreenMean">Inter-réseaux à distance</item>
+	<item name="Graffiti">Dessin</item>
+	<item name="GraffitiMean">Annoter ou présenter à tout moment</item>
+	<item name="Brand">LetsView</item>
+	<item name="OpenPageSlogan1">Un LetsView amélioré</item>
+	<item name="OpenPageSlogan3">Fonctionnalités plus avancées</item>
+	<item name="OpenPageSlogan4">Mise en miroir d'écran toujours gratuit</item>
+	<item name="OpenPageValue">Tarification</item>
+	<item name="InstallTipsRemote">Plug-in de mise en miroir à distance</item>
+	<item name="Cancel">Annuler</item>
+	<item name="Download">Je télécharge</item>
+	<item name="InstallTipsGraffiti">Plug-in de dessin</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	<item name="ConnectTips">Connecté avec succès, diffusion en cours.</item>
+	<item name="Sender">Expéditeur</item>
+	<item name="Receiver">Receveur</item>
+	<item name="ConnectClose">Tout déconnecter</item>
+	
+  <item name="Setting">Paramètres</item>
+  <item name="Help">Aide</item>
+  <item name="Community">Forum</item>
+  <item name="Update">Rechercher les mises à jour</item>
+  <item name="Setting">Paramètres</item>
+  <item name="FeedBack">Feedback</item>
+  <item name="Languages">Langue</item>
+  <item name="About">À propos de</item>
+  <item name="HostName">Cet appareil ：</item>
+  <item name="Network">Wi-Fi：</item>
+  <item name="FirstLanuch">Bienvenue sur LetsView, cliquez sur « Aide » pour voir le tutoriel</item>
+  <item name="ToCheck">Voir</item>
+  <item name="CantConnect">Impossible de se connecter ?</item>
+  <item name="ConnectTip1">Redémarrez le routeur et le téléphone pour réessayer.</item>
+  <item name="ConnectTip2">Vérifiez si le service Bonjour sur l'ordinateur est activé</item>
+  <item name="ConnectTip3">Désactivez l'isolation AP de votre routeur et réessayez</item>
+  <item name="ConnectTip4">Désactivez le pare-feu sur l'ordinateur et réessayez.</item>
+  <item name="SeeHelp">Voir les solutions</item>
+  <item name="SeeMore">Plus de solutions</item>
+  <item name="ConnectLetsView">Se connecter à LetsView</item>
+  <item name="Website">Site officiel</item>
+  <item name="ClickToBrowse">Cliquez pour voir</item>
+  <item name="ClickToHelp">Cliquez pour consulter le guide</item>
+  <item name="ConnectCourse">Tutoriel sur la connexion</item>
+  <item name="ChooseCourse">Sélectionnez le tutoriel selon votre appareil.</item>
+  <item name="AndroidGuide">Tutoriel pour Android</item>
+  <item name="IOSGuide">Tutoriel pour iOS</item>
+  <item name="AirplayConnect">Connexion via AirPlay</item>
+  <item name="AirplayMirror">Tutoriel sur la connexion via AirPlay</item>
+  <item name="AirPlayTip1">Veuillez relier le téléphone et l'ordinateur au même réseau Wi-Fi</item>
+  <item name="AirPlayTip2">Allez dans le Centre de contrôle et cliquez sur « Recopie de l'écran » pour choisir votre appareil</item>
+  <item name="IKnow">J'ai compris</item>
+  <item name="ConnectTip2">Vérifiez si le service Bonjour sur PC est activé</item>
+  <item name="AndroidCourse">Tutoriel pour Android</item>
+  <item name="IOSCourse">Tutoriel pour iOS</item>
+  <item name="AndroidWifiConnect">Diffuser l'Android sans fil</item>
+  <item name="Step1">1. Téléchargez l'application LetsView</item>
+  <item name="Step2">2. Configurez le réseau du téléphone</item>
+  <item name="Step3">3. Mettre en miroir l'écran mobile sur PC</item>
+  <item name="AppStoreCourse">Tutoriel pour le téléchargement de l'application mobile</item>
+  <item name="Download1">Téléchargez letsView depuis Google Play ou App Store</item>
+  <item name="Download2">Numérisez le code QR pour télécharger</item>
+  <item name="Next">Suivant</item>
+  <item name="Last">Précédent</item>
+  <item name="ConnectTip">Le téléphone et le PC doivent être reliés au même Wi-Fi !</item>
+  <item name="Net1">Configurez le réseau du mobile et connectez-le au même Wi-Fi que le PC</item>
+  <item name="ToScreenTip">Tutoriel pour la mise en miroir de l'écran mobile</item>
+  <item name="ToScreen1">Cliquez sur le nom du PC sur l'interface principale pour se connecter.</item>
+  <item name="ToScreen2">Sélectionnez l'option de mise en miroir de l'écran mobile, cliquez sur « Démarrer maintenant » pour commencer la diffusion</item>
+  <item name="ToScreen3">Sélectionnez la mise en miroir de l'écran mobile</item>
+  <item name="ToScreen4">Ouvrez le Centre de contrôle du téléphone et appuyez sur « Recopie de l'écran »</item>
+  <item name="Finish">Terminé</item>
+  <item name="WifiTip">Tutoriel sur la diffusion sans fil intégré</item>
+  <item name="Wifi1">Reliez votre mobile et votre PC au même réseau Wi-Fi</item>
+  <item name="Wifi2">Activez l'affichage sans fil sur votre téléphone et cliquez sur le nom de votre PC pour vous connecter.</item>
+  <item name="Wifi3">La connexion sans fil nécessite que votre ordinateur prenne en charge la fonction MiraCast.</item>
+  <item name="AppConnect">Connexion à l'application LetsView</item>
+  <item name="WifiConnect">Diffusion sans fil intégré pour vous connecter</item>
+  <item name="ConnectSucess">Connexion établie, l'écran mobile sera diffusé sur le PC</item>
+  <item name="Disconnect">Déconnecter</item>
+  <item name="Slogan">Le meilleur outil pour mettre en miroir vos écrans.</item>
+  <item name="AndroidFirst">Veuillez appuyer sur « Commencer maintenant » sur votre appareil mobile</item>
+  <item name="LetsViewWarning">LetsView va commencer à capturer toutes les activités diffusées sur votre écran</item>
+  <item name="DontShow">Ne plus afficher</item>
+  <item name="StartNow">Commencer maintenant</item>
+  <item name="LetsViewTip">Cochez sur la case « Ne plus afficher » pour ne plus montrer cette notification la prochaine fois.</item>
+  <item name="StartNow">Commencer maintenant</item>
+  <item name="BaseSetting">Paramètres généraux</item>
+  <item name="WifiSetting">Paramètres du Wi-Fi</item>
+  <item name="DisplaySetting">Paramètres d'affichage</item>
+  <item name="VoiceSetting">Paramères audio</item>
+  <item name="ComputerGetSetting">Diffuser l'écran du PC sur un autre PC</item>
+  <item name="ScreenGetSetting">Paramères de capture</item>
+  <item name="MirrorService">Service de mise en miroir</item>
+  <item name="AutoStart">Démarrer</item>
+  <item name="CloseConfirm">M'avertir lors de la fermeture</item>
+  <item name="Topmost">Épingler</item>
+  <item name="OpenWifiHost">Activez le hotspot du Wi-Fi</item>
+  <item name="FullScreen">Affichez en plein écran lors de la connexion</item>
+  <item name="AirplayResolution">Résolution AirPlay</item>
+  <item name="RenderMode">Mode de rendu</item>
+  <item name="MaxFps">FPS maximale</item>
+  <item name="ImgExt">Format de la capture</item>
+  <item name="ImageTo">Enregsitrer la capture sous</item>
+  <item name="VideoExt">Format vidéo</item>
+  <item name="VideoQuality">Qualité vidéo</item>
+  <item name="AudioInput">Source audio</item>
+  <item name="OutputDir">Répertoire de sortie</item>
+  <item name="HardDecode">Utilisez le codage en dur pour améliorer les performances</item>
+  <item name="RecordFinish">Enregistrement terminé</item>
+  <item name="Fine">OK</item>
+  <item name="OpenDir">Ouvrir le dossier</item>
+  <item name="Top">Recommandé</item>
+  <item name="Light">Claire</item>
+  <item name="Dark">Foncée</item>
+  <item name="Clipboard">Presse-papier</item>
+  <item name="Local">Ordinateur local</item>
+  <item name="High">Haut</item>
+  <item name="Standard">Standard</item>
+  <item name="Low">Bas</item>
+  <item name="Null">Aucun</item>
+  <item name="System">Système son</item>
+  <item name="Microphone">Microphone</item>
+  <item name="Both">Système son et Microphone</item>
+  <item name="Disable">Désaciver</item>
+  <item name="Enable">Activer</item>
+  <item name="InstallTip">Le service Bonjour n'est pas installé, installez maintenant ?</item>
+  <item name="Cancel">Anuuler</item>
+  <item name="InstallNow">Installer maintenant</item>
+  <item name="EnableNow">Activer maintenant</item>
+  <item name="AmStartFailed">Impossible d'activer AMcast</item>
+  <item name="AirplayStartFailed">Impossible d'activer AirPlay</item>
+  <item name="Sure">Confirmer</item>
+  <item name="ExitTip">Êtes-vous sûr de vouloir quitter le programme ?</item>
+  <item name="BonjourStartFailed">Le service Bonjour n'est pas activé, la fonction AirPlay ne fonctionne pas</item>
+  <item name="Paint">Pinceau</item>
+  <item name="Record">Enregistrer</item>
+  <item name="Stop">Arrêter</item>
+  <item name="Clear">Effacer</item>
+  <item name="Revoke">Annuler</item>
+  <item name="Exit">Quitter</item>
+  <item name="Full">Plein écran</item>
+  <item name="ScreenShot">Capture d'écran</item>
+  <item name="Minimize">Minimiser</item>
+  <item name="Close">Fermer</item>
+  <item name="ShotSucess">Capture d'écran réussie</item>
+  <item name="ClickToOpen">Cliquez pour ouvrir</item>
+  <item name="ExitFull">Quittez le mode plein écran</item>
+  <item name="Color">Couleur</item>
+  <item name="AirplayHelp">Utilisez la fonction de recopie d'écran sur iOS pour vous connecter à l'ordinateur</item>
+  <item name="MiracstHelp">Utilisez la fonction de recopie d'écran intégrée sur le mobile pour vous connecter à l'ordinateur</item>
+  <item name="ChooseConnectType">Sélectionnez d'abord la méthode de connexion</item>
+  <item name="ClipBoardSucess">Copié dans le presse-papier ！</item>
+  <item name="ShotFailed">Échec de la capture d'écran</item>
+  <item name="Account">Compte</item>
+  <item name="RenderModeReconnect">Le nouveau mode de rendu vous demander de reconnecter au périphérique. Déconectez-vous pour connecter à nouveau ?</item>
+  <item name="ResolutionReconnect">La nouvelle résolution prend effet après la reconnexion. Reconnecter maintenant ?</item>
+  <item name="NotSurpport">Ce protocole n'est pas supporté sur votre ordinateur</item>
+  <item name="AndroidResolution">Résolution Android</item>
+  <item name="AndroidResoTip">Veuillez changer la résolution sur l'application LetsView depuis Android</item>
+  <item name="ChangeSwitchMsg">Modification réussie ! Les modifications prennent effet après le redémarrage</item>
+  <item name="Maxmize">Agrandir</item>
+  <item name="QrcodeConnect">Code QR</item>
+  <item name="UseAPPScan">Numérisez le code QR via l'application LetsView</item>
+  <item name="PinConnect">Code PIN</item>
+  <item name="OpenFolder">Ouvrir le dossier</item>
+  <item name="ChooseFolder">Sélectionner un dossier</item>
+  <item name="MiracastDecode">Codage en dur MiraCast</item>
+  <item name="RevertWin">Niveau inférieur</item>
+
+  <item name="PhoneMirror">Diffuser l'écran mobile</item>
+  <item name="WindowMirror">Diffuser l'écran PC</item>
+  <item name="WindowMirrorHint1">Entrez le code PIN du périphérique</item>
+  <item name="WindowMirrorHint2">Veuillez ne pas entrer « Mon code PIN »</item>
+  <item name="WindowMirrorHint3">,recevoir l'écran mis en miroir</item>
+  <item name="WindowMirrorHint4">mettre en miroir sur </item>
+  <item name="WindowMirrorHint5">Veuillez sélectionner le contenu de la mise en miroir</item>
+  <item name="WindowMirrorHint6">Connecté, </item>
+  <item name="WindowMirrorHint7">La demande de mise en miroir a été rejetée</item>
+  <item name="ConnectSuccess">Connecté, </item>
+  <item name="MyMirrorCode">Mon code PIN</item>
+  <item name="InputMirrorCodeHint">Veuillez entrer le code PIN</item>
+  <item name="BeginConnect">Commencer à se connecter</item>
+  <item name="Connecting">Connexion en cours...</item>
+  <item name="Disconnect">Déconnecter</item>
+  <item name="IsAllowMirror">Mettre en miroir vers le PC</item>
+  <item name="Allow">Autoriser</item>
+  <item name="Refuse">Refuser</item>
+  <item name="WindowScreen">L'écran du PC</item>
+  <item name="DocumentMirror">Diffuser des fichiers</item>
+
+  <item name="SplitScreen">Changer l'écran</item>
+  <item name="Mirror">Diffuser l'écran</item>
+  <item name="OpenMainWindow">Ouvrez l'interface principale</item>
+  <item name="AppIsAllowMirror">Autorisez-vous LetsView à recevoir l’écran de mon ordinateur</item>
+  <item name="DisconnectMirror">Déconnecter</item>
+  <item name="Collaps">Masquer</item>
+
+  <item name="MirrorConnected">Ce périphérique est connecté</item>
+  <item name="Mirroring">Mise en miroir en cours</item>
+  <item name="WithoutDocumentHint">Aucun fichier trouvé, veuillez d'abord ouvrir le fichier sur PC et </item>
+  <item name="DocumentRefresh">actualiser à nouveau</item>
+  <item name="DLNAGuide">Tutoriel sur l'application DLNA</item>
+  <item name="ComputerGuide">Tutoriel sur la diffusion de l'écran PC </item>
+  <item name="VideoAPPGuide">Tutoriel sur l'application DLNA </item>
+  <item name="DLNATip2">Ouvrez l'application de diffusion DLAN sur votre téléphone, telle que</item>
+  <item name="DLNATip3">Ouvrez la vidéo. Cliquez sur le bouton "Diffuser" en haut à droit et sélectionnez votre appareil</item>
+  <item name="ComputerTip2">Ouvrez LetsView sur un autre ordinateur et cliquez sur "Diffuser l'écran PC"</item>
+  <item name="ComputerTip3">Entrez le code PIN de l'ordinateur récepteur sur votre ordinateur</item>
+  <item name="VideoPlay">Des vidéos, de la musique et des photos sur votre téléphone seront diffusés sur votre ordinateur</item>
+  <item name="APP1">bilibili</item>
+  <item name="APP2">Aqiyi</item>
+  <item name="APP3">Tencent Video</item>
+  <item name="Songtips">Cette chanson ne peut pas être analysée, veuillez lire la chanson suivante</item>
+  <item name="UnknownSinger">Artiste inconnu</item>
+  <item name="UnknownMusic">Musique inconnu</item>
+  <item name="ChooseScreenContent">Sélectionnez le contenu de l 'écran.</item>
+  <item name = "Decoding">En mode décodage pour la mise en miroir de l'écran mobile </item>
+  <item name = "StiffDecode">Mode rapide</item>
+  <item name = "SoftDecoding">Mode de compatibilité</item>
+  <item name = "ReturnScreen">Modifié avec succès ! Veuillez réessayer</item>
+  <item name = "DecodingTip1">Mode de compatiblité : compatible avec tous les appareils. </item>
+  <item name = "DecodingTip2">Mode rapide : utilisation réduite du processeur et meilleure résolution. Un écran noir pourrait apparatre sur certains appareils iOS en raison d'une incompatibilité.</item>
+
+  <item name="FindService">Découvrir</item>
+  <item name="PlugTip">Widgets</item>
+  <item name="Cancel">La mise en miroir de l'écran est annulée</item>
+  <item name="timeout">Aucune réponse</item>
+  <item name="PlugInstallTip">Installing...</item>
+
+  <item name="MirrorEnvironmentCheck">Détection de mise en miroir</item>
+  <item name="MirrorEnvCheckTips">Veuillez ne pas utiliser le PC pendant la détection</item>
+  <item name="ReCheck">Redétecter</item>
+  <item name="MirrorCheck">Détection de mise en miroir</item>
+  <item name="BaseEnvironment">Environnement de base</item>
+  <item name="AirplayEnvironment">iOS</item>
+  <item name="AndroidEnvironment">Android</item>
+  <item name="OtherEnvironment">Autres</item>
+  <item name="CheckNet">Réseau :</item>
+  <item name="CheckIP">IP :</item>
+  <item name="CheckOS">Système :</item>
+  <item name="CheckDpi">Résolution :</item>
+  <item name="CheckNetSpeed">Vitesse d'Internet :</item>
+  <item name="CheckDriver">Pilotes graphiques :</item>
+  <item name="CheckFireWall">Pare-feu :</item>
+  <item name="AirPlayService">Service AirPlay :</item>
+  <item name="AirPlayPort">Port AirPlay :</item>
+  <item name="BonjourService">Service Bonjour :</item>
+  <item name="AMcastPort">Port AMcast :</item>
+  <item name="DLNAService">Service DLNA :</item>
+  <item name="MiracastService">Service Miracast :</item>
+  <item name="NetErr">Non connecté, impossible de diffuser l'écran</item>
+  <item name="FireWallOn">Anormal, impossible de projeter</item>
+  <item name="Normal">Normal</item>
+  <item name="AirServErr">Désactivé, impossible de diffuser iOS</item>
+  <item name="AirPortErr">Anormal, veuillez redémarrer</item>
+  <item name="BonJErr">Anormal, impossible de diffuser iOS</item>
+  <item name="AmcastPortErr">Erreur de port, veuillez redémarrer</item>
+  <item name="DlnaServErr">Anormal, kann nicht gespiegelt werden</item>
+  <item name="MiraServErr">Unsupported</item>
+  <item name="CheckHelp">Aide</item>
+  <item name="CheckResume">Redémarrer</item>
+  <item name="CheckStart">Activer</item>
+  <item name="CheckCourse">Tutoriels</item>
+  <item name="PrivacyAgreement">Accord de confidentialité</item>
+  <item name="AutoMirrorEnvCheck">Détection auto</item>
+  <item name="ManualCheck">Détection manuelle</item>
+
+
+  <item name="BtnFindTip">Cliquez pour découvrir plus d'outils</item>
+  <item name="PlugInHelper">Tutoriel</item>
+  <item name="PlugInAdd">Ajouter</item>
+  <item name="PlugInAddCancel">Annuler</item>
+  <item name="PlugInSurvey">Questionnaire</item>
+  <item name="DrawingTips">Dessiner et marquer sur PC</item>
+  <item name="SurveyTips">Plus d'outils</item>
+  <item name="DeviceName">Appareil</item>
+  <item name="ScreenGrabTips">Connexion avec succès, diffusion de l'appareil en cours</item>
+  <item name="ScreenGrabBtn">Caster</item>
+  <item name="ShowMain">Afficher la fenêtre principale</item>
+
+  <item name="TopTips1">Activer l'option Toujours au top</item>
+  <item name="TopTips2">Désactiver l'option Toujours au top </item>
+
+  <item name="Tutorialart">Tutoriels</item>
+  <item name="PhoneToPCart">Comment diffuser le téléphone sur PC </item>
+  <item name="NeverRemind">Ne plus afficher</item>
+
+  <item name="MinMaxHotKey">Raccourcis clavier (Afficher/Cacher la fenêtre)</item>
+  <item name="HotKeySetTips">Appuyez sur les nouveaux raccourcis clavier</item>
+  <item name="SetHotKeyFaildTips">Conflit avec les raccourcis clavier</item>
+  <item name="DefaultHotKeyTips">Non</item>
+  <item name="CurrentVersion">Version：</item>
+
+  <item name="D3DXRender">D3DX(Haute vitesse)</item>
+  <item name="D3DRender">D3D(Compatible)</item>
+  <item name="GDIRender">GDI(Normale)</item>
+  <item name="FastModeTip">Utilisation faible du processeur et hautes performancese</item>
+  <item name="CompatibleModeTip">Compatible avec tous les appareils</item>
+  <item name="MinToTray">Minimiser dans la barre de tâches</item>
+	<item name="ExitProgram">Quitter le programme</item>
+  <item name="MirrorHardDecode">Utiliser un codage en dur pour améliorer la performance</item>
+  <item name="CloseActionTitle">Fermeture</item>
+
+	<item name="HotKeySetting">Réglage des raccourcis clavier</item>
+	<item name="HideOrShow">Afficher/Cacher la fenêtre</item>
+	<item name="QrcodeTip">Entrer le code PIN sur le téléphone/PC</item>
+	<item name="ChangeSettingTips">Modifié, il prendra effet après la reconnexion</item>
+
+  <item name="AirResolutionTip">La résolution inférieure est plus fluide</item>
+  <item name="MirrorNow">Caster</item>
+
+  <item name="PCMirrorSenderTips">choisir le contenu que vous souhaitez diffuser</item>
+  <item name="PCMirrorReceiveTips">attendre la mise en miroir du contenu de l'expéditeur Connexion réussie</item>
+
+  <item name="CloudMirroringTips">Partage d'écran réseaux</item>
+	<item name="Drawing">Dessin</item>
+	<item name="RemoteCast">Diffusion à distance</item>
+	<item name="ComputerSetting">Diffuser l'écran du PC sur d'autres appareils</item>
+</Apowersoft>

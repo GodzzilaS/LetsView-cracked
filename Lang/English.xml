@@ -1,0 +1,723 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Apowersoft LangName="English">
+
+	<item name="recordingSound">Screen audio recording</item>
+	<item name="deviceNotFound">Device not found, please ensure the device is on the same network.</item>
+	<item name="deviceNotFoundTips">Or try #QR code/passkey to screen mirror.</item>
+
+	<item name="bonjourServiceAbnormal">Bonjour service is detected as abnormal, which may cause the inability to use Airplay or search for screen mirroring; please contact online customer service if you need a solution.</item>
+	<item name="contactCustomerService">Contact</item>
+	<item name="ignore">Ignore</item>
+
+	<item name="minimalMode">Minimalist</item>
+	<item name="minimalModeKey">Hotkey: </item>
+	<item name="minimalModeTips">Enter/exit Minimalist mode</item>
+	
+	<item name="blackBars">Black bars</item>
+	<item name="blackBarsHover">Click to remove or restore black bars on screen</item>
+
+	<item name="antiControlAndroid">Control Android</item>
+	<item name="freeTrial">Free trial</item>
+
+	<item name="usbDebuggingTips">#Control Android # with USB connection</item>
+	<item name="easyAndroidControlFromPC">Easy control your Android phone with PC</item>
+
+	<item name="connectAndroidViaUSB">Connect the Android to PC via USB, then enable USB debugging.</item>
+	<item name="howToEnableUSBDebugging">How to enable USB debugging on your Android?</item>
+	<item name="startControlButton">Start</item>
+	<item name="openUSBDebuggingButton">Controlling</item>
+
+	<item name="antiControlTrialInProgress">Trial ends:</item>
+	<item name="upgrade">Upgrade</item>
+
+	<item name="antiControlTips">Control</item>
+
+	<item name="enableUSBDebugging">Enable USB debugging</item>
+
+	<item name="openDeveloperOptions">Turn on Developer options</item>
+	<item name="activateDeveloperMode">Go to Settings > About phone > tap "Build number" 7 times.</item>
+
+	<item name="openUSBDebugging">Enable USB debugging</item>
+	<item name="enterDeveloperOptions">Go to Settings > Developer options, enable "USB debugging"; turn on "USB debugging (Security settings)" if there is.</item>
+
+	<item name="completeSettings">Done</item>
+
+	<item name="startScreenSharing">Tap [Start Now] on your phone to initiate...</item>
+	<item name="noRecordingWhenLive">Your mobile screen will only be mirrored to your PC, but not be recorded. </item>
+	
+	<item name="loginTryTips">Free trial</item>
+	<item name="loginButton">Login</item>
+	<item name="hdButtonHover4">Adjust quality</item>
+
+	<item name="hdTryTips">Trying # quality</item>
+
+	<item name="optionTry">Try</item>
+
+	<item name="hdButtonHover5">Upgrade quality</item>
+
+	<item name="hdTryOverTips">HD trial ended</item>
+	<item name="hdTryOverButton">Upgrade</item>
+
+	<item name="ConnectQuestion1">Connection failed, try alternative connection methods or check #Troubleshooting# </item>
+
+	<item name="PCHotspot2">Connect to the hotspot.</item>
+	<item name="PCHotspot3">Retry after connecting.</item>
+
+	<item name="ConnectInvalid">Connection failed, check your passkey or network.</item>
+	<item name="ConnectHelp">Check #Troubleshooting# or seek #Help#</item>
+	<item name="ConnectHelp1">Connection failed?</item>
+
+	<item name="ManualCheck5">Restart the app on both ends.</item>
+
+	<item name="PCHotspot">Using a hotspot</item>
+	<item name="HotspotButton">Enable now</item>
+	<item name="PCHotspot1">Turn on the switch.</item>
+
+	<item name="SwitchTips1">Share or extend</item>
+	<item name="SwitchTips2">Switch to extended screen mode here.</item>
+	<item name="ConfirmButton">Got it</item>
+	
+	<item name="Remote1">#Remote PC Control# | Flexible Access</item>
+	<item name="RemoteDesc">Unleash productivity anywhere</item>
+
+	<item name="RemoteDesktop">Remote desktop</item>
+	<item name="limitFree">Free trial</item>
+	<item name="chooseDevice">My devices</item>
+	<item name="noHistory">No records</item>
+	<item name="addDevice">Now connect your first one.</item>
+	<item name="addDeviceBtn">+ Screen Mirroring</item>
+	<item name="myCode">My Passkey</item>
+	<item name="unlockRefresh">Fixed passkey, please keep it safe.</item>
+	<item name="lockPrivacy">Dynamic passkey, refresh on enable.</item>
+	<item name="myQRCode">My QR code</item>
+	<item name="scanQRCode">Scan this code with your mobile app.</item>
+
+	<item name="noNetwork">No network, please check.</item>
+
+	<item name="back">Back</item>
+	<item name="deviceCode">Passkey</item>
+	<item name="inputDeviceCode">Enter the Passkey from the device you want to connect to.</item>
+
+	<item name="chooseShareContent">Screen sharing</item>
+
+	<item name="reconnect">Connection invalid, please reconnect.</item>
+
+	<item name="shareMyScreen">Share my screen</item>
+	<item name="shareMyScreen1">Share my PC screen with other devices.</item>
+	<item name="getOtherScreen">Receive a screen</item>
+	<item name="getOtherScreen1">Display the screen of other devices on my PC.</item>
+	<item name="expandMyScreen">Extend my screen</item>
+	<item name="expandMyScreen1">Use a device as a second screen.</item>
+	<item name="changeName">Rename my device</item>
+	<item name="changeNameHover">Rename</item>
+
+	<item name="Save">Save</item>
+	<item name="Cancel">Cancel</item>
+
+	<item name="castScreen">Cursor visibility</item>
+	<item name="showCursor">Show cursor</item>
+	<item name="mobileShowPCHide">Mobile show, PC hide</item>
+	<item name="allHide">Hide on both</item>
+	<item name="allShow">Show on both</item>
+
+	<item name="screenEx">ScreenEx</item>
+	<item name="allowControlPrompt">controllable</item>
+	<item name="controlledPrompt">Enables control of my PC by other devices.</item>
+	<item name="soundSharePrompt">PC audio</item>
+	<item name="upgradeButton">Pro</item>
+
+	<item name="loginTrail">Free trial</item>
+	<item name="pcReceiveQuality">When PC gets screen</item>
+	<item name="Other">Options</item>
+	<item name="fullScreen">Full</item>
+
+	<item name="communicationPrompt">Join our Discord to report bugs, test beta versions, and connect with other LetsView users. </item>
+	<item name="communicationButton">Join now</item>
+	<item name="communicationEntry">Discord</item>
+
+	<item name="hdButton1">Try HD</item>
+	<item name="hdButton2">Upgrade to HD</item>
+	<item name="hdButtonHover1">Login to unlock HD quality.</item>
+	<item name="hdButtonHover2">Switch to HD quality.</item>
+	<item name="hdButtonHover3">Upgrade to Pro for HD quality.</item>
+
+	<item name="hdButton">HD</item>
+	<item name="hdButtonHover">Pro benefit</item>
+	<item name="goVipNow">Upgrade to Pro</item>
+	<item name="moreThanHd">Unlimited HD screen mirroring.</item>
+	<item name="goVipButton">Upgrade Now</item>
+
+	<item name="reportDump">App terminated unexpectedly, report this issue to the LetsView team immediately.</item>
+	<item name="reportDumpBtn">Report</item>
+	
+	<item name="openForUse">Start Now</item>
+	<item name="slogan">Be a Screen Mirroring Expert</item>
+	<item name="equityPage">Benefits</item>
+	<item name="equityIntro">Cross-platform benefits on phone/PC/TV</item>
+	<item name="moreEquity">#Find out more#</item>
+	<item name="contactSales">For SDK service, please #contact us#</item>
+
+	<item name="AirCast1">#Remote Screen Mirroring#</item>
+	<item name="AirCastDesc">Cross-network, over distance</item>
+	<item name="Drawing1">#Drawing# - create, share</item>
+	<item name="DrawingDesc">Full canvas Whiteboard, spotlight</item>
+
+	<item name="workSpeace">Workspace</item>
+	<item name="sidebar">Sidebar</item>
+	<item name="moreHelp">Guide</item>
+
+	<item name="ownCodehelp">Enter the passkey of the device to be connected</item>
+
+	<item name="sale">Sale</item>
+
+	<item name="PcToOther">Smoothness(Cast PC screen)</item>
+	<item name="CodeRate">Bitrate</item>
+	<item name="CodeRate2M">2M</item>
+	<item name="CodeRate4M">4M</item>
+	<item name="CodeRate6M">6M</item>
+	<item name="CodeRate8M">8M</item>
+	<item name="Fps">FPS</item>
+	<item name="Fps30">30fps</item>
+	<item name="Fps60">60fps</item>
+
+	<item name="sharedContentSelect">Share #Screen#</item>
+	<item name="screen">Screen</item>
+	<item name="allScreenContent">Entire desktop or phone screen</item>
+	<item name="window">Window</item>
+	<item name="upgradePro">Pro</item>
+	<item name="privateScreenSharing">Specific application</item>
+	<item name="share">Share</item>
+
+	<item name="sharingTo">You are screen sharing </item>
+	<item name="sharingToLocal"> is sharing screen with you</item>
+	<item name="disconnect">Disconnect</item>
+	<item name="startMirror">Start mirroring</item>
+	<item name="shareScreenToPc"> want to share screen with you</item>
+	<item name="refuse">Decline</item>
+	<item name="agree">Agree</item>
+
+	<item name="shareScreenRefusedNotify">Not responding, try to disconnect its sharing or light up the screen.</item>
+	<item name="screenMirroring">LetsView [Cast]</item>
+
+	<item name="MyCode">My Passkey</item>
+	<item name="UsingHelp">How to use</item>
+	<item name="ConnectCodeTips1">Find it on the device you wish to connect to.</item>
+	<item name="ConnectCodeTips2">Enter the Passkey</item>
+	<item name="ConnectCodeTips3">Note: Do not enter the passkey of the current device.</item>
+	<item name="ConnectQRcodeTips1">To connect, scan using the mobile app.</item>
+	<item name="ConnectQRcodeTips2">*Download the app*</item>
+	<item name="ConnectQRcodeTips3">Scan to download</item>
+	<item name="ConnectTipsClose">Don't show again</item>
+
+
+	<item name="UpgradeNewVersion">Update available</item>
+	<item name="IsNewVersion">Up to date</item>
+
+
+	<item name="ContactUs">Contact</item>
+	<item name="NotLoggedIn">Login</item>
+
+	<item name="SD">SD</item>
+	<item name="HD">HD</item>
+	<item name="Live">FHD</item>
+	
+	<item name="OpenPageSlogan2">Be a screen mirroring expert</item>
+
+	<item name="OpenPageSlogan5">More than screen mirroring</item>
+	<item name="OpenPageSlogan6">We are powered by AI...</item>
+	<item name="OpenWorkspace">Get Started Now</item>
+	<item name="SettingChange">Settings</item>
+	
+	<item name="Rotate">Rotate</item>
+	<item name="Home">Home</item>
+	<item name="VIP">Purchase</item>
+
+	<item name="SetCastTips">All changes will be applied to new connections</item>
+
+	<item name="SoundNone">None</item>
+	<item name="SoundSystem">System</item>
+	<item name="SoundMicrophone">Microphone</item>
+	<item name="SoundBoth">Both</item>
+
+	<item name="BenefitPlan">Pricing</item>
+	<item name="PlanMonth">Monthly</item>
+	<item name="PlanYear">Annual</item>
+	<item name="PlanDiscount">(Save up to **%)</item>
+
+	<item name="MonthlyFees">/mo</item>
+
+	<item name="BasicEdition">Basic</item>
+	<item name="BasicTips">No advanced features</item>
+	<item name="BasicExplain1">Free screen mirroring between phone/iPad/PC/TV</item>
+	<item name="BasicExplain2">1080P resolution for phone mirror</item>
+	<item name="BasicExplain3">Record HD mirroring screen</item>
+	<item name="BasicExplain4">Cross-platform account</item>
+	<item name="BasicExplain5">Store screenshots, screen recordings and whiteboard locally</item>
+	<item name="BasicButton">Get Started Free</item>
+
+	<item name="AdvancedEdition">Pro</item>
+	<item name="AdvancedTips">Ideal for individual</item>
+	<item name="AdvancedExplain1">All Basic features</item>
+	<item name="AdvancedExplain2">2K resolution for phone mirror</item>
+	<item name="AdvancedExplain3">Record Full HD mirroring screen</item>
+	<item name="AdvancedExplain4">Store screenshots, screen recordings and whiteboard to cloud(stay tuned)</item>
+	<item name="AdvancedExplain5">Exclusive credits (stay tuned)</item>
+	<item name="AdvancedExplain6">Tech expert support</item>
+	<item name="AdvancedButton">Subscribe Now</item>
+	<item name="MoreBenefitExplain">Comparison of the benefits</item>
+
+	<item name="CommercialEdition">Business</item>
+	<item name="CommercialTips">Ideal for small businesses. For SDK service, please contact #support#.</item>
+	<item name="CommercialExplain1">All Pro features</item>
+	<item name="CommercialExplain2">e-Invoice supported</item>
+	<item name="CommercialExplain3">Priority support and app update</item>
+
+	<item name="CurrentWiFi">Connected</item>
+	<item name="WiredNetwork">Wired LAN</item>
+	<item name="NetworkNone">Not detected</item>
+	<item name="NetworkNoneTips">No network, please check first.</item>
+
+	<item name="Loading">Connecting...</item>
+	<item name="SetRecord">Recording</item>
+	<item name="VideoFormat">Format</item>
+	<item name="VideoFormatMP4">MP4</item>
+	<item name="VideoFormatMOV">MOV</item>
+	<item name="VideoFormatFLV">FLV</item>
+	<item name="VideoQuality">Quality</item>
+	<item name="VideoQualityCommon">SD</item>
+	<item name="VideoQualityHD">HD</item>
+	<item name="VideoQualityUltraHD">Full HD</item>
+	<item name="RecCouldStorage">Cloud</item>
+
+	<item name="SetQuickConflict">Hotkey conflict</item>
+	
+	<item name="NumberConnect">Passkey Connection</item>
+	<item name="ScanConnectEntry">QR Code Connection</item>
+	<item name="MyPcNumber">Passkey</item>
+	<item name="NumberConnectTips">Enter the Passkey</item>
+	<item name="NumberIdentical">Note: Not the passkey of the current device</item>
+	<item name="WiFiDifferent">Wifi does not match, try to reconnect.</item>
+	<item name="NumberError">Wrong Passkey</item>
+	<item name="ConnectNoResponse">No response, try again later.</item>
+	<item name="ConnectRefuse">Denied</item>
+	<item name="ConnectAbnormality">Network error, try again later.</item>
+
+	<item name="ScanConnect">QR Code Connection</item>
+	<item name="CurrentWiFi">Connected WiFi </item>
+	<item name="ScanConnectTips">Scan to connect</item>
+
+	<item name="InstallTipsAutoOpen">Auto-launch after download</item>
+	<item name="VipItemTips">This is a Pro feature</item>
+	<item name="ViewBenefits">Upgrade Now</item>
+	<item name="ConnectQuestion">Failed to connect?</item>
+	<item name="AutoCheck">Check network</item>
+	<item name="PCWiFiDetection">Local network status</item>
+	<item name="ManualCheck">Try to repair</item>
+	<item name="ManualCheck1">Restart the router and your devices</item>
+	<item name="ManualCheck2">Make sure your Bonjour service is enabled</item>
+	<item name="ManualCheck3">Disable AP isolation of your router</item>
+	<item name="ManualCheck4">Disable the firewall on your PC</item>
+	<item name="OtherMode">Still not work?</item>
+	<item name="ScanConnect">Scan to connect</item>
+	<item name="Tutorial">Help</item>
+	<item name="Tutorial1">Troubleshooting</item>
+	<item name="Tutorial2">Tutorial</item>
+	<item name="MenuSet">Settings</item>
+	<item name="MenuFeedback">Feedback</item>
+	<item name="MenuHelp">Help</item>
+	<item name="MenuAboutUs">About</item>
+	<item name="SetSystem">System</item>
+	<item name="SetCast">Display</item>
+	<item name="SetStorage">Storage</item>
+	<item name="SetQuick">Hotkeys</item>
+
+	<item name="RestoreDefault">Reset Settings</item>
+
+	<item name="SystemGeneral">General</item>
+	<item name="SelfStart">Run at startup</item>
+	<item name="Top">Always on top</item>
+	<item name="CloseWindowTips">Warn on close</item>
+	<item name="HardCode">Enable Hardcoding for better performance</item>
+	<item name="SystemInterface">Interface</item>
+	<item name="Language">Language</item>
+	<item name="LanguageChoices">English</item>
+	<item name="Appearance">Skin</item>
+	<item name="Appearance1">Light</item>
+
+	<item name="CastResolution">Resolution</item>
+	<item name="AndroidToPc">Cast Android to PC</item>
+	<item name="AndroidToPcTips">Manage your Settings on Mobile APP</item>
+	<item name="IosToPc">Cast iOS to PC</item>
+	<item name="PcToPc">Cast PC to PC</item>
+	<item name="Resolution720P">720P</item>
+	<item name="Resolution1080P">1080P</item>
+	<item name="Resolution2K">2K</item>
+	<item name="Fluency">Smoothness</item>
+	<item name="CodeRate">Bitrate</item>
+	<item name="CodeRate512K">512K</item>
+	<item name="CodeRate2M">2M</item>
+	<item name="CodeRate6M">6M</item>
+	<item name="CodeRateAuto">Smart Bitrate</item>
+	<item name="Fps">FPS</item>
+	<item name="Fps30">30fps</item>
+	<item name="Fps60">60fps</item>
+	<item name="Fps90">90fps</item>
+	<item name="ProjectSound">Sound</item>
+	<item name="SoundPeToPc">Cast phone to PC</item>
+	<item name="SoundPcToOther">Cast PC to other device</item>
+	<item name="SoundTV">TV only</item>
+	<item name="Soundc">PC only</item>
+	<item name="SoundClose">Mute</item>
+	<item name="Codec">Encoding/decoding</item>
+	<item name="DecodingMode">Decoding</item>
+	<item name="DecodingCompatible">Compatibility</item>
+	<item name="DecodingHigh">High-speed</item>
+	<item name="AutoChoices">Auto</item>
+	<item name="RenderMode">Rendering</item>
+	<item name="RenderD3DX">D3DX</item>
+	<item name="RenderD3D">D3D</item>
+	<item name="RenderGDI">GDI</item>
+	<item name="CastMode">Display</item>
+	<item name="CastQuality">Quality</item>
+	<item name="CastSmooth">Smoothly</item>
+	<item name="AutoChoices">Auto</item>
+	<item name="SetScreenshot">Screenshot</item>
+	<item name="PictureFormat">Format</item>
+	<item name="FormatJPG">JPG</item>
+	<item name="FormatPNG">PNG</item>
+	<item name="StorageLocation">Save to</item>
+	<item name="MyPc">Local</item>
+	<item name="Clipboard">Clipboard</item>
+	<item name="CurrentStorageLocation">Output folder</item>
+	<item name="ShortcutKeys">Hotkeys</item>
+	<item name="Top">Show APP</item>
+	<item name="Full">Full screen</item>
+	<item name="Screenshot">Screenshot</item>
+
+	<item name="Sidebar">Sidebar</item>
+	<item name="VIP">Pro</item>
+	<item name="Menu">Menu</item>
+	<item name="Me">Me</item>
+	<item name="Close">Close</item>
+	<item name="Minimize">Minimize</item>
+	<item name="Maxmize">Maximize</item>
+	<item name="Restore">Restore</item>
+	<item name="ScreenImage">Mirror</item>
+	<item name="ScreenImageMean">Same Wifi required</item>
+	<item name="RemoteScreen">Remote</item>
+	<item name="RemoteScreenMean">Cross-network, over distance</item>
+	<item name="Graffiti">Drawing</item>
+	<item name="GraffitiMean">Mark up or showcase anytime</item>
+	<item name="Brand">LetsView</item>
+	<item name="OpenPageSlogan1">A better LetsView</item>
+	<item name="OpenPageSlogan3">More advanced features</item>
+	<item name="OpenPageSlogan4">Free screen mirroring still</item>
+	<item name="OpenPageValue">Pricing</item>
+	<item name="InstallTipsRemote">Remote mirroring plugin</item>
+	<item name="Cancel">Cancel</item>
+	<item name="Download">Download Now</item>
+	<item name="InstallTipsGraffiti">Drawing plugin</item>	
+	
+	
+	<item name="ConnectTips">Successfully connected, Casting now...</item>
+	<item name="Sender">Sender</item>
+	<item name="Receiver">Receiver</item>
+	<item name="ConnectClose">Disconnect all</item>
+	
+  <item name="Setting">Settings</item>
+  <item name="Help">Help</item>
+  <item name="Community">Forum</item>
+  <item name="Update">Check for updates</item>
+  <item name="Setting">Settings</item>
+  <item name="FeedBack">Feedback</item>
+  <item name="Languages">Languages</item>
+  <item name="About">About</item>
+  <item name="HostName">This PC:</item>
+  <item name="Network">WiFi:</item>
+  <item name="FirstLanuch">Welcome to LetsView，Click "Help" to view the tutorial</item>
+  <item name="ToCheck">View</item>
+  <item name="CantConnect">Failed to connect?</item>
+  <item name="ConnectTip1">Restart the router and phone to and try again</item>
+  <item name="ConnectTip2">Check if Bonjour service is enabled</item>
+  <item name="ConnectTip3">Disable AP Isolation of your router and try again</item>
+  <item name="ConnectTip4">Disable the Firewall on PC and try again</item>
+  <item name="SeeHelp">View solutions</item>
+  <item name="SeeMore">View more solutions</item>
+  <item name="ConnectLetsView">Connect to LetsView</item>
+  <item name="Website">Official site</item>
+  <item name="ClickToBrowse">Click to view</item>
+  <item name="ClickToHelp">Click to view tutorial</item>
+  <item name="ConnectCourse">Tutorials</item>
+  <item name="ChooseCourse">Choose the tutorials according to your devices</item>
+  <item name="AndroidGuide">Android Tutorial</item>
+  <item name="IOSGuide">iOS Tutorial</item>
+  <item name="AirplayConnect">AirPlay connection</item>
+  <item name="AirplayMirror">AirPlay Tutorial</item>
+  <item name="AirPlayTip1">Connect your phone and PC to the same WiFi</item>
+  <item name="AirPlayTip2">Access Control Center, tap "Screen Mirroring" and choose your device</item>
+  <item name="IKnow">Got it</item>
+  <item name="ConnectTip2">Check if Bonjour service is enabled</item>
+  <item name="AndroidCourse">Android tutorial</item>
+  <item name="IOSCourse">iOS tutorial</item>
+  <item name="AndroidWifiConnect">Mirror Android wirelessly</item>
+  <item name="Step1">1.Download LetsView app</item>
+  <item name="Step2">2.Set up the network of phone</item>
+  <item name="Step3">3.Mirror phone to PC</item>
+  <item name="AppStoreCourse">Mobile app download tutorial</item>
+  <item name="Download1">Download LetsView from Google Play or App Store</item>
+  <item name="Download2">Scan QR code to download</item>
+  <item name="Next">Next</item>
+  <item name="Last">Previous</item>
+  <item name="ConnectTip">Connect phone and PC to the same WiFi</item>
+  <item name="Net1">Set up the network of phone and connect your phone and PC to the same WiFi</item>
+  <item name="ToScreenTip">Phone screen mirroring tutorial</item>
+  <item name="ToScreen1">Click on the PC's name on the interface to connect</item>
+  <item name="ToScreen2">Choose phone screen mirroring, tap "Start Now" to begin</item>
+  <item name="ToScreen3">Choose phone screen mirroring</item>
+  <item name="ToScreen4">Access Control Center,tap "Screen Mirroring"</item>
+  <item name="Finish">Done</item>
+  <item name="WifiTip">Built-in wireless display tutorial</item>
+  <item name="Wifi1">Connect your phone and PC to the same WiFi</item>
+  <item name="Wifi2">Enable the wireless display on your phone, tap the your PC's name to connect</item>
+  <item name="Wifi3">Wireless display requires the MiraCast feature of PC</item>
+  <item name="AppConnect">Use LetsView app to connect</item>
+  <item name="WifiConnect">Built-in wireless display</item>
+  <item name="ConnectSucess">Successfully connected,device is mirroring to PC</item>
+  <item name="Disconnect">Disconnect</item>
+  <item name="Slogan">The screen mirroring tool you yearn for day and night.</item>
+  <item name="AndroidFirst">Please tap "Start Now" on your device</item>
+  <item name="LetsViewWarning">LetsView will start capturing everything that's displayed on your screen</item>
+  <item name="DontShow">Don't show again</item>
+  <item name="StartNow">Start Now</item>
+  <item name="LetsViewTip">It will not be displayed after you check "Don't show again"</item>
+  <item name="StartNow">Start Now</item>
+  <item name="BaseSetting">General settings</item>
+  <item name="WifiSetting">WiFi settings</item>
+  <item name="DisplaySetting">Display settings</item>
+  <item name="VoiceSetting">Audio settings</item>
+  <item name="ComputerGetSetting">When mirror PC to PC</item>
+  <item name="ScreenGetSetting">Capturing settings</item>
+  <item name="MirrorService">Mirroring service</item>
+  <item name="AutoStart">Run on startup</item>
+  <item name="CloseConfirm">Warn me when closing</item>
+  <item name="Topmost">Always on top</item>
+  <item name="OpenWifiHost">Turn on WiFi hotspot</item>
+  <item name="FullScreen">Full screen display when connected</item>
+  <item name="AirplayResolution">Airplay resolution</item>
+  <item name="RenderMode">Render mode</item>
+  <item name="MaxFps">Max FPS</item>
+  <item name="ImgExt">Screenshot format</item>
+  <item name="ImageTo">Save to</item>
+  <item name="VideoExt">Video format</item>
+  <item name="VideoQuality">Video quality</item>
+  <item name="AudioInput">Audio input</item>
+  <item name="OutputDir">Output directory</item>
+  <item name="HardDecode">Use hard coding to improve quality</item>
+  <item name="RecordFinish">Recording finished</item>
+  <item name="Fine">OK</item>
+  <item name="OpenDir">Open folder</item>
+  <item name="Top">Recommended</item>
+  <item name="Light">Light</item>
+  <item name="Dark">Dark</item>
+  <item name="Clipboard">Clipboard</item>
+  <item name="Local">Local computer</item>
+  <item name="High">High</item>
+  <item name="Standard">Standard</item>
+  <item name="Low">Low</item>
+  <item name="Null">None</item>
+  <item name="System">System sound</item>
+  <item name="Microphone">Microphone</item>
+  <item name="Both">System and microphone sound</item>
+  <item name="Disable">Disable</item>
+  <item name="Enable">Enable</item>
+  <item name="InstallTip">Bonjour service not installed, install now?</item>
+  <item name="Cancel">Cancel</item>
+  <item name="InstallNow">Install now</item>
+  <item name="EnableNow">Enable now</item>
+  <item name="AmStartFailed">Failed to enable AMcast</item>
+  <item name="AirplayStartFailed">Failed to enable AirPlay</item>
+  <item name="Sure">OK</item>
+  <item name="ExitTip">Are you sure you want to exit?</item>
+  <item name="BonjourStartFailed">Bonjour service not enabled，AirPlay is not working</item>
+  <item name="Paint">Brush</item>
+  <item name="Record">Record</item>
+  <item name="Stop">Stop</item>
+  <item name="Clear">Clear</item>
+  <item name="Revoke">Undo</item>
+  <item name="Exit">Exit</item>
+  <item name="Full">Full screen</item>
+  <item name="ScreenShot">Screenshot</item>
+  <item name="Minimize">Minimize</item>
+  <item name="Maxmize">Maximize</item>
+  <item name="Close">Close</item>
+  <item name="ShotSucess">Screenshot successfully</item>
+  <item name="ClickToOpen">Click to open</item>
+  <item name="ExitFull">Exit full screen</item>
+  <item name="Color">Color</item>
+  <item name="AirplayHelp">Use AirPlay to connect</item>
+  <item name="MiracstHelp">Use the built-in wireless display feature to connect. It requires the MiraCast function of PC.</item>
+  <item name="ChooseConnectType">Please choose the connection method first</item>
+  <item name="ClipBoardSucess">Copied to clipboard!</item>
+  <item name="ShotFailed">Screenshot failed!</item>
+  <item name="Account">Account</item>
+  <item name="RenderModeReconnect">New render mode takes effect after reconnect. Reconnect now?</item>
+  <item name="ResolutionReconnect">New resolution takes effect after reconnect. Reconnect now?</item>
+  <item name="NotSurpport">This protocol is not supported on your computer</item>
+  <item name="AndroidResolution">Android resolution</item>
+  <item name="AndroidResoTip">Please change the resolution on LetsView Android app</item>
+  <item name="ChangeSwitchMsg">Changed successfully! Changes take effect after restart</item>
+
+  <item name="QrcodeConnect">QR code</item>
+  <item name="UseAPPScan">Scan QR code using LetsView app</item>
+  <item name="PinConnect">PIN code</item>
+  <item name="OpenFolder">Open folder</item>
+  <item name="ChooseFolder">Select folder</item>
+  <item name="MiracastDecode">MiraCast hard coding</item>
+  <item name="RevertWin">Restore Down</item>
+
+  <item name="PhoneMirror">Phone Screen Mirroring</item>
+  <item name="WindowMirror">Computer Screen Mirroring</item>
+  <item name="WindowMirrorHint1">Enter the PIN code of the receiver</item>
+  <item name="WindowMirrorHint2">Please don't enter "My PIN code"</item>
+  <item name="WindowMirrorHint3">, receiving the screen</item>
+  <item name="WindowMirrorHint4">Connecting to </item>
+  <item name="WindowMirrorHint5">Please select the mirroring content</item>
+  <item name="WindowMirrorHint6">Connected, </item>
+  <item name="WindowMirrorHint7">Request is rejected</item>
+  <item name="ConnectSuccess">Connected, </item>
+  <item name="MyMirrorCode">My PIN code</item>
+  <item name="InputMirrorCodeHint">Please enter the PIN code</item>
+  <item name="BeginConnect">Start</item>
+  <item name="Connecting">Connecting...</item>
+  <item name="Disconnect">Disconnect</item>
+  <item name="IsAllowMirror"> is mirroring to my computer</item>
+  <item name="Allow">Allow</item>
+  <item name="Refuse">Deny</item>
+  <item name="WindowScreen">Cast screen</item>
+  <item name="DocumentMirror">Cast files</item>
+
+  <item name="SplitScreen">Switch screen</item>
+  <item name="Mirror">Cast</item>
+  <item name="OpenMainWindow">Open the main interface</item>
+  <item name="AppIsAllowMirror">Is LetView allowed to receive my computer screen</item>
+  <item name="DisconnectMirror">Disconnect</item>
+  <item name="Collaps">Hide</item>
+  <item name="MirrorConnected">This device has connected</item>
+  <item name="Mirroring">Mirroring</item>
+  <item name="WithoutDocumentHint">No files found, please open the file on PC first and</item>
+  <item name="DocumentRefresh">refresh again</item>
+  <item name="DLNAGuide">DLNA App Tutorial</item>
+  <item name="ComputerGuide">Computer Mirroring Tutorial</item>
+  <item name="VideoAPPGuide">DLNA App Tutorial</item>
+  <item name="DLNATip2">Open the DLNA streaming app on your phone, such as</item>
+  <item name="DLNATip3">Open the video.  Tap the "Cast" icon in the top right corner and choose your device</item>
+  <item name="ComputerTip2">Open LetsView on another computer and click on "Computer Screen Mirroring"</item>
+  <item name="ComputerTip3">Enter your PIN code on another computer</item>
+  <item name="VideoPlay">The videos, music and photos displayed on your phone will be mirrored to the computer</item>
+  <item name="APP1">Bilibili</item>
+  <item name="APP2">iQiyi</item>
+  <item name="APP3">Tencent Video</item>
+  <item name="Songtips">This song cannot be parsed, please play the next song</item>
+  <item name="UnknownSinger">Unknown singer</item>
+  <item name="UnknownMusic">Unknown music</item>
+  <item name="ChooseScreenContent">Please select the content of the screen first</item>
+  <item name="Decoding">Phone screen mirroring decoding mode</item>
+  <item name="StiffDecode">High-speed mode</item>
+  <item name="SoftDecoding">Compatibility mode</item>
+  <item name="ReturnScreen">Changed successfully! Please try again</item>
+  <item name="DecodingTip1">Compatibility mode: Compatible with all devices.</item>
+  <item name="DecodingTip2">High-speed mode: Lower CPU usage and better resolution. But the black screen will happen on some devices due to incompatibility.</item>
+  <item name="FindService">Discover</item>
+  <item name="PlugTip">Plug-in</item>
+  <item name="Cancel">Screen mirroring is cancelled</item>
+  <item name="timeout">No response from the device</item>
+  <item name="PlugInstallTip">Installing...</item>
+
+  <item name="MirrorEnvironmentCheck">Mirroring detection</item>
+  <item name="MirrorEnvCheckTips">Please do not operate the PC during the detection</item>
+  <item name="ReCheck">Redetect</item>
+  <item name="MirrorCheck">Mirroring detection</item>
+  <item name="BaseEnvironment">Basic environment</item>
+  <item name="AirplayEnvironment">iOS</item>
+  <item name="AndroidEnvironment">Android</item>
+  <item name="OtherEnvironment">Others</item>
+  <item name="CheckNet">Network :</item>
+  <item name="CheckIP">IP :</item>
+  <item name="CheckOS">System :</item>
+  <item name="CheckDpi">Resolution :</item>
+  <item name="CheckNetSpeed">Internet speed :</item>
+  <item name="CheckDriver">Graphics drivers :</item>
+  <item name="CheckFireWall">Firewall :</item>
+  <item name="AirPlayService">AirPlay service :</item>
+  <item name="AirPlayPort">AirPlay port :</item>
+  <item name="BonjourService">Bonjour service :</item>
+  <item name="AMcastPort">AMcast port :</item>
+  <item name="DLNAService">DLNA service :</item>
+  <item name="MiracastService">Miracast service :</item>
+  <item name="NetErr">Not connected, Unable to mirror</item>
+  <item name="FireWallOn">Abnormal, Unable to mirror</item>
+  <item name="Normal">Normal</item>
+  <item name="AirServErr">Disabled, Unable to mirror iOS</item>
+  <item name="AirPortErr">Abnormal, please restart</item>
+  <item name="BonJErr">Abnormal, Unable to mirror iOS</item>
+  <item name="AmcastPortErr">Port error, please restart</item>
+  <item name="DlnaServErr">Disabled</item>AktivierenNeu starten
+  <item name="MiraServErr">Unsupported</item>
+  <item name="CheckHelp">Help</item>
+  <item name="CheckResume">Restart</item>
+  <item name="CheckStart">Enable</item>
+  <item name="CheckCourse">Tutorials</item>
+  <item name="PrivacyAgreement">Privacy</item>
+  <item name="AutoMirrorEnvCheck">Auto-detection</item>
+  <item name="ManualCheck">Manual detection</item>
+  
+  <item name="BtnFindTip">Click to find out more plugins</item>
+  <item name="PlugInHelper">Tutorial</item>
+  <item name="PlugInAdd">Download</item>
+  <item name="PlugInAddCancel">Cancel</item>
+  <item name="PlugInSurvey">Questionnaire</item>
+  <item name="DrawingTips">Draw and mark on PC</item>
+  <item name="SurveyTips">Explore more plugins</item>
+  <item name="DeviceName">Device</item>
+  <item name="ScreenGrabTips">Successfully connected, casting the contents of the current device</item>
+  <item name="ScreenGrabBtn">Cast</item>
+  <item name="ShowMain">Show main window</item>
+  
+  <item name="TopTips1">Always on top enabled</item>
+  <item name="TopTips2">Always on top disabled</item>
+  <item name="Tutorialart">Tutorials</item>
+  <item name="PhoneToPCart">How to mirror phone to PC</item>
+  <item name="NeverRemind">Don't show again</item>
+
+  <item name="MinMaxHotKey">Hotkeys (Show/Hide Window)</item>
+  <item name="HotKeySetTips">Please press the new hotkeys</item>
+  <item name="SetHotKeyFaildTips">Conflict with existing hotkeys</item>
+  <item name="DefaultHotKeyTips">None</item>
+  <item name="CurrentVersion">Version：</item>
+
+  <item name="FastModeTip">Low CPU usage and high performance</item>
+  <item name="CompatibleModeTip">Compatible with all devices</item>
+  <item name="D3DXRender">D3DX(High-speed)</item>
+  <item name="D3DRender">D3D(Compatible)</item>
+  <item name="GDIRender">GDI(Normal)</item>
+  <item name="MinToTray">Minimize to system tray</item>
+  <item name="ExitProgram">Exit the program</item>
+  <item name="MirrorHardDecode">Use hard coding to improve performance</item>
+  <item name="CloseActionTitle">Do you want to</item>
+
+	<item name="HotKeySetting">HotKeys Setting</item>
+	<item name="HideOrShow">Show/Hide Window</item>
+	<item name="QrcodeTip">Enter PIN code on phone/PC</item>
+	<item name="ChangeSettingTips">Changes saved! It will take effect after reconnecting</item>
+
+  <item name="AirResolutionTip">The lower resolution is smoother</item>
+  <item name="MirrorNow">Cast</item>
+
+  <item name="CloudMirroringTips">Cast from different networks</item>
+
+  <item name="PCMirrorSenderTips">please choose the content you want to mirror</item>
+  <item name="PCMirrorReceiveTips">please wait for the mirroring content from the sender Successfully mirrored</item>
+	<item name="Drawing">Drawing</item>
+	<item name="RemoteCast">Remote Cast</item>
+	<item name="ComputerSetting">Mirror PC to other devices</item>
+</Apowersoft>

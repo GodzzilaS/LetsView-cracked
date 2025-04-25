@@ -1,0 +1,721 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Apowersoft LangName="Russian">
+
+	<item name="recordingSound">Запись звука с экрана</item>
+	<item name="deviceNotFound">Устройство не найдено, пожалуйста, убедитесь, что устройство подключено к той же сети.</item>
+	<item name="deviceNotFoundTips">Или попробуйте #QR-код/пароль для зеркального отображения экрана.</item>
+
+	<item name="bonjourServiceAbnormal">Обнаружена аномалия в службе Bonjour, что может привести к невозможности использования Airplay или поиска зеркального отображения; пожалуйста, обратитесь в онлайн-службу поддержки для решения.</item>
+	<item name="contactCustomerService">Связаться</item>
+	<item name="ignore">Игнорировать</item>
+
+	<item name="minimalMode">Минималистичный режим</item>
+	<item name="minimalModeKey">Горячая клавиша: </item>
+	<item name="minimalModeTips">Вход/выход из минималистичного режима</item>
+
+	<item name="blackBars">Чёрные полосы</item>
+	<item name="blackBarsHover">Нажмите, чтобы убрать или восстановить чёрные полосы на экране</item>
+
+	<item name="antiControlAndroid">Управление Android</item>
+	<item name="freeTrial">Бесплатная пробная версия</item>
+
+	<item name="usbDebuggingTips">#Управление Android # с помощью USB-подключения</item>
+	<item name="easyAndroidControlFromPC">Легко управляйте своим Android-телефоном с ПК</item>
+
+	<item name="connectAndroidViaUSB">Подключите Android к ПК через USB, затем включите отладку по USB.</item>
+	<item name="howToEnableUSBDebugging">Как включить отладку по USB на Android?</item>
+	<item name="startControlButton">Старт</item>
+	<item name="openUSBDebuggingButton">Управление</item>
+
+	<item name="antiControlTrialInProgress">Пробный период заканчивается:</item>
+	<item name="upgrade">Обновить</item>
+
+	<item name="antiControlTips">Управление</item>
+
+	<item name="enableUSBDebugging">Включить отладку по USB</item>
+
+	<item name="openDeveloperOptions">Включить режим разработчика</item>
+	<item name="activateDeveloperMode">Перейдите в Настройки > О телефоне > нажмите 7 раз на "Номер сборки".</item>
+
+	<item name="openUSBDebugging">Включить отладку по USB</item>
+	<item name="enterDeveloperOptions">Перейдите в Настройки > Для разработчиков, включите "Отладку по USB"; активируйте "Отладку по USB (настройки безопасности)", если есть.</item>
+
+	<item name="completeSettings">Готово</item>
+
+	<item name="startScreenSharing">Нажмите [Начать сейчас] на телефоне, чтобы начать...</item>
+	<item name="noRecordingWhenLive">Экран вашего телефона будет только отображаться на ПК, но не записываться.</item>
+
+	<item name="loginTryTips">Бесплатная пробная версия</item>
+	<item name="loginButton">Войти</item>
+	<item name="hdButtonHover4">Настройка качества</item>
+
+	<item name="hdTryTips">Пробное # качество</item>
+
+	<item name="optionTry">Попробовать</item>
+
+	<item name="hdButtonHover5">Улучшить качество</item>
+
+	<item name="hdTryOverTips">Пробный период HD закончился</item>
+	<item name="hdTryOverButton">Обновить</item>
+
+	<item name="ConnectQuestion1">Ошибка подключения, попробуйте альтернативные методы или проверьте #Устранение неполадок#</item>
+
+	<item name="PCHotspot2">Подключитесь к точке доступа.</item>
+	<item name="PCHotspot3">Повторите попытку после подключения.</item>
+
+	<item name="ConnectInvalid">Ошибка подключения, проверьте пароль или сеть.</item>
+	<item name="ConnectHelp">Проверьте #Устранение неполадок# или обратитесь в #Поддержку#</item>
+	<item name="ConnectHelp1">Не удалось подключиться?</item>
+
+	<item name="ManualCheck5">Перезапустите приложение на обоих устройствах.</item>
+
+	<item name="PCHotspot">Использование точки доступа</item>
+	<item name="HotspotButton">Включить сейчас</item>
+	<item name="PCHotspot1">Включите переключатель.</item>
+
+	<item name="SwitchTips1">Поделиться или расширить</item>
+	<item name="SwitchTips2">Переключитесь в режим расширенного экрана здесь.</item>
+	<item name="ConfirmButton">Понятно</item>
+
+	<item name="Remote1">#Удалённое управление ПК# | Гибкий доступ</item>
+	<item name="RemoteDesc">Повышайте продуктивность где угодно</item>
+
+	<item name="RemoteDesktop">Удалённый рабочий стол</item>
+	<item name="limitFree">Бесплатная пробная версия</item>
+	<item name="chooseDevice">Мои устройства</item>
+	<item name="noHistory">Нет записей</item>
+	<item name="addDevice">Подключите своё первое устройство.</item>
+	<item name="addDeviceBtn">+ Трансляция экрана</item>
+	<item name="myCode">Мой пароль</item>
+	<item name="unlockRefresh">Постоянный пароль, сохраните его безопасно.</item>
+	<item name="lockPrivacy">Динамический пароль, обновляется при активации.</item>
+	<item name="myQRCode">Мой QR-код</item>
+	<item name="scanQRCode">Сканируйте этот код через мобильное приложение.</item>
+
+	<item name="noNetwork">Нет сети, проверьте подключение.</item>
+
+	<item name="back">Назад</item>
+	<item name="deviceCode">Пароль</item>
+	<item name="inputDeviceCode">Введите пароль с устройства, к которому хотите подключиться.</item>
+
+	<item name="chooseShareContent">Демонстрация экрана</item>
+
+	<item name="reconnect">Недействительное подключение, переподключитесь.</item>
+
+	<item name="shareMyScreen">Поделиться экраном</item>
+	<item name="shareMyScreen1">Демонстрируйте экран ПК на других устройствах.</item>
+	<item name="getOtherScreen">Получить экран</item>
+	<item name="getOtherScreen1">Отображайте экраны других устройств на ПК.</item>
+	<item name="expandMyScreen">Расширить экран</item>
+	<item name="expandMyScreen1">Используйте устройство как второй экран.</item>
+	<item name="changeName">Переименовать устройство</item>
+	<item name="changeNameHover">Переименовать</item>
+
+	<item name="Save">Сохранить</item>
+	<item name="Cancel">Отмена</item>
+
+	<item name="castScreen">Видимость курсора</item>
+	<item name="showCursor">Показать курсор</item>
+	<item name="mobileShowPCHide">Показывать на телефоне, скрыть на ПК</item>
+	<item name="allHide">Скрыть везде</item>
+	<item name="allShow">Показывать везде</item>
+
+	<item name="screenEx">ScreenEx</item>
+	<item name="allowControlPrompt">управление разрешено</item>
+	<item name="controlledPrompt">Разрешает управление ПК с других устройств.</item>
+	<item name="soundSharePrompt">Звук ПК</item>
+	<item name="upgradeButton">Pro</item>
+
+	<item name="loginTrail">Бесплатная пробная версия</item>
+	<item name="pcReceiveQuality">Когда ПК получает экран</item>
+	<item name="Other">Опции</item>
+	<item name="fullScreen">Полный экран</item>
+
+	<item name="communicationPrompt">Присоединяйтесь к нашему Discord, чтобы сообщать об ошибках, тестировать бета-версии и общаться с другими пользователями LetsView.</item>
+	<item name="communicationButton">Присоединиться</item>
+	<item name="communicationEntry">Discord</item>
+
+	<item name="hdButton1">Попробовать HD</item>
+	<item name="hdButton2">Обновить до HD</item>
+	<item name="hdButtonHover1">Войдите, чтобы разблокировать HD.</item>
+	<item name="hdButtonHover2">Переключиться на HD.</item>
+	<item name="hdButtonHover3">Обновитесь до Pro для HD-качества.</item>
+
+	<item name="hdButton">HD</item>
+	<item name="hdButtonHover">Преимущество Pro</item>
+	<item name="goVipNow">Обновить до Pro</item>
+	<item name="moreThanHd">Неограниченная трансляция в HD.</item>
+	<item name="goVipButton">Обновить сейчас</item>
+
+	<item name="reportDump">Приложение неожиданно завершило работу, немедленно сообщите об этом команде LetsView.</item>
+	<item name="reportDumpBtn">Сообщить</item>
+
+	<item name="openForUse">Начать сейчас</item>
+	<item name="slogan">Станьте экспертом по зеркалированию экранов</item>
+	<item name="equityPage">Преимущества</item>
+	<item name="equityIntro">Кросс-платформенные преимущества на телефоне/ПК/ТВ</item>
+	<item name="moreEquity">#Узнать больше#</item>
+	<item name="contactSales">Для SDK-услуг, #свяжитесь с нами#</item>
+
+	<item name="AirCast1">#Удалённая трнасляция#</item>
+	<item name="AirCastDesc">Между сетями, на расстоянии</item>
+	<item name="Drawing1">#Рисование# - создавайте, делитесь</item>
+	<item name="DrawingDesc">Полноценная доска, подсветка</item>
+
+	<item name="workSpeace">Рабочее пространство</item>
+	<item name="sidebar">Боковая панель</item>
+	<item name="moreHelp">Руководство</item>
+
+	<item name="ownCodehelp">Введите пароль устройства для подключения</item>
+
+	<item name="sale">Продажа</item>
+
+	<item name="PcToOther">Плавность (Трансляция экрана ПК)</item>
+	<item name="CodeRate">Битрейт</item>
+	<item name="CodeRate2M">2M</item>
+	<item name="CodeRate4M">4M</item>
+	<item name="CodeRate6M">6M</item>
+	<item name="CodeRate8M">8M</item>
+	<item name="Fps">FPS</item>
+	<item name="Fps30">30fps</item>
+	<item name="Fps60">60fps</item>
+
+	<item name="sharedContentSelect">Поделиться #Экраном#</item>
+	<item name="screen">Экран</item>
+	<item name="allScreenContent">Весь рабочий стол или экран телефона</item>
+	<item name="window">Окно</item>
+	<item name="upgradePro">Pro</item>
+	<item name="privateScreenSharing">Конкретное приложение</item>
+	<item name="share">Поделиться</item>
+
+	<item name="sharingTo">Вы транслируете экран </item>
+	<item name="sharingToLocal"> делится экраном с вами</item>
+	<item name="disconnect">Отключить</item>
+	<item name="startMirror">Начать трансляцию</item>
+	<item name="shareScreenToPc"> хочет поделиться экраном с вами</item>
+	<item name="refuse">Отклонить</item>
+	<item name="agree">Принять</item>
+
+	<item name="shareScreenRefusedNotify">Нет ответа, попробуйте отключить трансляцию или включить экран.</item>
+	<item name="screenMirroring">LetsView [Трансляция]</item>
+
+	<item name="MyCode">Мой пароль</item>
+	<item name="UsingHelp">Как использовать</item>
+	<item name="ConnectCodeTips1">Найдите его на устройстве, к которому подключаетесь.</item>
+	<item name="ConnectCodeTips2">Введите пароль</item>
+	<item name="ConnectCodeTips3">Примечание: Не вводите пароль текущего устройства.</item>
+	<item name="ConnectQRcodeTips1">Для подключения отсканируйте через мобильное приложение.</item>
+	<item name="ConnectQRcodeTips2">*Скачайте приложение*</item>
+	<item name="ConnectQRcodeTips3">Сканировать для загрузки</item>
+	<item name="ConnectTipsClose">Больше не показывать</item>
+
+	<item name="UpgradeNewVersion">Доступно обновление</item>
+	<item name="IsNewVersion">Актуальная версия</item>
+
+	<item name="ContactUs">Связаться</item>
+	<item name="NotLoggedIn">Войти</item>
+
+	<item name="SD">SD</item>
+	<item name="HD">HD</item>
+	<item name="Live">FHD</item>
+
+	<item name="OpenPageSlogan2">Станьте экспертом по зеркалированию</item>
+
+	<item name="OpenPageSlogan5">Больше, чем транслирование</item>
+	<item name="OpenPageSlogan6">На базе ИИ...</item>
+	<item name="OpenWorkspace">Начать сейчас</item>
+	<item name="SettingChange">Настройки</item>
+
+	<item name="Rotate">Повернуть</item>
+	<item name="Home">Главная</item>
+	<item name="VIP">Покупка</item>
+
+	<item name="SetCastTips">Все изменения применятся к новым подключениям</item>
+
+	<item name="SoundNone">Нет</item>
+	<item name="SoundSystem">Система</item>
+	<item name="SoundMicrophone">Микрофон</item>
+	<item name="SoundBoth">Оба</item>
+
+	<item name="BenefitPlan">Тарифы</item>
+	<item name="PlanMonth">Ежемесячно</item>
+	<item name="PlanYear">Ежегодно</item>
+	<item name="PlanDiscount">(Экономия до **%)</item>
+
+	<item name="MonthlyFees">/мес</item>
+
+	<item name="BasicEdition">Базовый</item>
+	<item name="BasicTips">Без расширенных функций</item>
+	<item name="BasicExplain1">Бесплатная трансляция между телефоном/iPad/ПК/ТВ</item>
+	<item name="BasicExplain2">Разрешение 1080P для телефона</item>
+	<item name="BasicExplain3">Запись экрана в HD</item>
+	<item name="BasicExplain4">Кросс-платформенный аккаунт</item>
+	<item name="BasicExplain5">Локальное хранение скриншотов, записей и досок</item>
+	<item name="BasicButton">Начать бесплатно</item>
+
+	<item name="AdvancedEdition">Pro</item>
+	<item name="AdvancedTips">Идеально для частных лиц</item>
+	<item name="AdvancedExplain1">Все базовые функции</item>
+	<item name="AdvancedExplain2">2K разрешение для телефона</item>
+	<item name="AdvancedExplain3">Запись в Full HD</item>
+	<item name="AdvancedExplain4">Облачное хранение (скоро)</item>
+	<item name="AdvancedExplain5">Эксклюзивные кредиты (скоро)</item>
+	<item name="AdvancedExplain6">Поддержка экспертов</item>
+	<item name="AdvancedButton">Подписаться</item>
+	<item name="MoreBenefitExplain">Сравнение преимуществ</item>
+
+	<item name="CommercialEdition">Бизнес</item>
+	<item name="CommercialTips">Для помощи по SDK свяжитесь с поддержкой.</item>
+	<item name="CommercialExplain1">Все функции Pro</item>
+	<item name="CommercialExplain2">Поддержка электронных счетов</item>
+	<item name="CommercialExplain3">Приоритетная поддержка и обновления</item>
+
+	<item name="CurrentWiFi">Подключено</item>
+	<item name="WiredNetwork">Проводная сеть</item>
+	<item name="NetworkNone">Не обнаружено</item>
+	<item name="NetworkNoneTips">Нет сети, проверьте подключение.</item>
+
+	<item name="Loading">Подключение...</item>
+	<item name="SetRecord">Запись</item>
+	<item name="VideoFormat">Формат</item>
+	<item name="VideoFormatMP4">MP4</item>
+	<item name="VideoFormatMOV">MOV</item>
+	<item name="VideoFormatFLV">FLV</item>
+	<item name="VideoQuality">Качество</item>
+	<item name="VideoQualityCommon">SD</item>
+	<item name="VideoQualityHD">HD</item>
+	<item name="VideoQualityUltraHD">Full HD</item>
+	<item name="RecCouldStorage">Облако</item>
+
+	<item name="SetQuickConflict">Конфкт горячих клавиш</item>
+
+	<item name="NumberConnect">Подключение по паролю</item>
+	<item name="ScanConnectEntry">Подключение по QR-коду</item>
+	<item name="MyPcNumber">Пароль</item>
+	<item name="NumberConnectTips">Введите пароль</item>
+	<item name="NumberIdentical">Примечание: Не пароль текущего устройства</item>
+	<item name="WiFiDifferent">WiFi не совпадает, попробуйте переподключиться.</item>
+	<item name="NumberError">Неверный пароль</item>
+	<item name="ConnectNoResponse">Нет ответа, попробуйте позже.</item>
+	<item name="ConnectRefuse">Отклонено</item>
+	<item name="ConnectAbnormality">Ошибка сети, попробуйте позже.</item>
+
+	<item name="ScanConnect">Подключение по QR-коду</item>
+	<item name="CurrentWiFi">Подключенный WiFi </item>
+	<item name="ScanConnectTips">Сканировать для подключения</item>
+
+	<item name="InstallTipsAutoOpen">Автозапуск после загрузки</item>
+	<item name="VipItemTips">Функция Pro</item>
+	<item name="ViewBenefits">Обновить сейчас</item>
+	<item name="ConnectQuestion">Не удалось подключиться?</item>
+	<item name="AutoCheck">Проверить сеть</item>
+	<item name="PCWiFiDetection">Статус локальной сети</item>
+	<item name="ManualCheck">Попробовать исправить</item>
+	<item name="ManualCheck1">Перезагрузите роутер и устройства</item>
+	<item name="ManualCheck2">Убедитесь, что служба Bonjour включена</item>
+	<item name="ManualCheck3">Отключите изоляцию AP на роутере</item>
+	<item name="ManualCheck4">Отключите брандмауэр на ПК</item>
+	<item name="OtherMode">Все еще не работает?</item>
+	<item name="ScanConnect">Сканировать для подключения</item>
+	<item name="Tutorial">Помощь</item>
+	<item name="Tutorial1">Решение проблем</item>
+	<item name="Tutorial2">Руководство</item>
+	<item name="MenuSet">Настройки</item>
+	<item name="MenuFeedback">Обратная связь</item>
+	<item name="MenuHelp">Помощь</item>
+	<item name="MenuAboutUs">О программе</item>
+	<item name="SetSystem">Система</item>
+	<item name="SetCast">Дисплей</item>
+	<item name="SetStorage">Хранение</item>
+	<item name="SetQuick">Горячие клавиши</item>
+
+	<item name="RestoreDefault">Сбросить настройки</item>
+
+	<item name="SystemGeneral">Основные</item>
+	<item name="SelfStart">Запуск при старте</item>
+	<item name="Top">Всегда сверху</item>
+	<item name="CloseWindowTips">Предупреждать при закрытии</item>
+	<item name="HardCode">Аппаратное ускорение для лучшей производительности</item>
+	<item name="SystemInterface">Интерфейс</item>
+	<item name="Language">Язык</item>
+	<item name="LanguageChoices">English</item>
+	<item name="Appearance">Тема</item>
+	<item name="Appearance1">Светлая</item>
+
+	<item name="CastResolution">Разрешение</item>
+	<item name="AndroidToPc">Трансляция Android на ПК</item>
+	<item name="AndroidToPcTips">Настройте в мобильном приложении</item>
+	<item name="IosToPc">Трансляция iOS на ПК</item>
+	<item name="PcToPc">Трансляция ПК на ПК</item>
+	<item name="Resolution720P">720P</item>
+	<item name="Resolution1080P">1080P</item>
+	<item name="Resolution2K">2K</item>
+	<item name="Fluency">Плавность</item>
+	<item name="CodeRate">Битрейт</item>
+	<item name="CodeRate512K">512K</item>
+	<item name="CodeRate2M">2M</item>
+	<item name="CodeRate6M">6M</item>
+	<item name="CodeRateAuto">Автобитрейт</item>
+	<item name="Fps">FPS</item>
+	<item name="Fps30">30fps</item>
+	<item name="Fps60">60fps</item>
+	<item name="Fps90">90fps</item>
+	<item name="ProjectSound">Звук</item>
+	<item name="SoundPeToPc">Трансляция телефона на ПК</item>
+	<item name="SoundPcToOther">Трансляция ПК на другое устройство</item>
+	<item name="SoundTV">Только ТВ</item>
+	<item name="Soundc">Только ПК</item>
+	<item name="SoundClose">Без звука</item>
+	<item name="Codec">Кодирование/декодирование</item>
+	<item name="DecodingMode">Декодирование</item>
+	<item name="DecodingCompatible">Совместимость</item>
+	<item name="DecodingHigh">Высокая скорость</item>
+	<item name="AutoChoices">Авто</item>
+	<item name="RenderMode">Рендеринг</item>
+	<item name="RenderD3DX">D3DX</item>
+	<item name="RenderD3D">D3D</item>
+	<item name="RenderGDI">GDI</item>
+	<item name="CastMode">Дисплей</item>
+	<item name="CastQuality">Качество</item>
+	<item name="CastSmooth">Плавно</item>
+	<item name="AutoChoices">Авто</item>
+	<item name="SetScreenshot">Скриншот</item>
+	<item name="PictureFormat">Формат</item>
+	<item name="FormatJPG">JPG</item>
+	<item name="FormatPNG">PNG</item>
+	<item name="StorageLocation">Сохранение</item>
+	<item name="MyPc">Локально</item>
+	<item name="Clipboard">Буфер обмена</item>
+	<item name="CurrentStorageLocation">Папка назначения</item>
+	<item name="ShortcutKeys">Горячие клавиши</item>
+	<item name="Top">Показать приложение</item>
+	<item name="Full">Полный экран</item>
+	<item name="Screenshot">Скриншот</item>
+
+	<item name="Sidebar">Боковая панель</item>
+	<item name="VIP">Pro</item>
+	<item name="Menu">Меню</item>
+	<item name="Me">Профиль</item>
+	<item name="Close">Закрыть</item>
+	<item name="Minimize">Свернуть</item>
+	<item name="Maxmize">Развернуть</item>
+	<item name="Restore">Восстановить</item>
+	<item name="ScreenImage">Трансляция</item>
+	<item name="ScreenImageMean">Требуется тот же WiFi</item>
+	<item name="RemoteScreen">Удалённый доступ</item>
+	<item name="RemoteScreenMean">Между сетями, на расстоянии</item>
+	<item name="Graffiti">Рисование</item>
+	<item name="GraffitiMean">Пометки в любое время</item>
+	<item name="Brand">LetsView</item>
+	<item name="OpenPageSlogan1">Лучший LetsView</item>
+	<item name="OpenPageSlogan3">Больше возможностей</item>
+	<item name="OpenPageSlogan4">Бесплатная трансляция</item>
+	<item name="OpenPageValue">Цены</item>
+	<item name="InstallTipsRemote">Плагин удалённого доступа</item>
+	<item name="Cancel">Отмена</item>
+	<item name="Download">Скачать сейчас</item>
+	<item name="InstallTipsGraffiti">Плагин рисования</item>	
+
+
+	<item name="ConnectTips">Успешное подключение, идёт трансляция...</item>
+	<item name="Sender">Отправитель</item>
+	<item name="Receiver">Получатель</item>
+	<item name="ConnectClose">Отключить все</item>
+	
+  <item name="Setting">Настройки</item>
+  <item name="Help">Помощь</item>
+  <item name="Community">Форум</item>
+  <item name="Update">Проверить обновления</item>
+  <item name="Setting">Настройки</item>
+  <item name="FeedBack">Обратная связь</item>
+  <item name="Languages">Языки</item>
+  <item name="About">О программе</item>
+  <item name="HostName">Этот ПК:</item>
+  <item name="Network">WiFi:</item>
+  <item name="FirstLanuch">Добро пожаловать в LetsView, нажмите "Помощь" для просмотра руководства</item>
+  <item name="ToCheck">Просмотреть</item>
+  <item name="CantConnect">Не удалось подключиться?</item>
+  <item name="ConnectTip1">Перезагрузите роутер и телефон и попробуйте снова</item>
+  <item name="ConnectTip2">Проверьте, включена ли служба Bonjour</item>
+  <item name="ConnectTip3">Отключите изоляцию AP на роутере</item>
+  <item name="ConnectTip4">Отключите брандмауэр на ПК</item>
+  <item name="SeeHelp">Просмотреть решения</item>
+  <item name="SeeMore">Другие решения</item>
+  <item name="ConnectLetsView">Подключиться к LetsView</item>
+  <item name="Website">Официальный сайт</item>
+  <item name="ClickToBrowse">Просмотреть</item>
+  <item name="ClickToHelp">Просмотреть руководство</item>
+  <item name="ConnectCourse">Руководства</item>
+  <item name="ChooseCourse">Выберите руководство для вашего устройства</item>
+  <item name="AndroidGuide">Руководство для Android</item>
+  <item name="IOSGuide">Руководство для iOS</item>
+  <item name="AirplayConnect">Подключение AirPlay</item>
+  <item name="AirplayMirror">Руководство AirPlay</item>
+  <item name="AirPlayTip1">Подключите телефон и ПК к одному WiFi</item>
+  <item name="AirPlayTip2">В Центре управления нажмите "Трансляция экрана" и выберите устройство</item>
+  <item name="IKnow">Понятно</item>
+  <item name="ConnectTip2">Проверьте, включена ли служба Bonjour</item>
+  <item name="AndroidCourse">Руководство Android</item>
+  <item name="IOSCourse">Руководство iOS</item>
+  <item name="AndroidWifiConnect">Беспроводное зеркалирование Android</item>
+  <item name="Step1">1.Скачайте приложение LetsView</item>
+  <item name="Step2">2.Настройте сеть телефона</item>
+  <item name="Step3">3.Транслируйте экран телефона на ПК</item>
+  <item name="AppStoreCourse">Руководство по загрузке приложения</item>
+  <item name="Download1">Скачайте LetsView из Google Play или App Store</item>
+  <item name="Download2">Сканируйте QR-код для загрузки</item>
+  <item name="Next">Далее</item>
+  <item name="Last">Назад</item>
+  <item name="ConnectTip">Подключите телефон и ПК к одному WiFi</item>
+  <item name="Net1">Настройте сеть телефона и подключите к одному WiFi с ПК</item>
+  <item name="ToScreenTip">Руководство по трансляции экрана</item>
+  <item name="ToScreen1">Нажмите на имя ПК в интерфейсе для подключения</item>
+  <item name="ToScreen2">Выберите трансляцию экрана, нажмите "Начать сейчас"</item>
+  <item name="ToScreen3">Выберите трансляцию экрана</item>
+  <item name="ToScreen4">В Центре управления нажмите "Трансляция экрана"</item>
+  <item name="Finish">Готово</item>
+  <item name="WifiTip">Руководство по встроенной трансляции</item>
+  <item name="Wifi1">Подключите телефон и ПК к одному WiFi</item>
+  <item name="Wifi2">Включите трансляцию на телефоне, выберите имя ПК</item>
+  <item name="Wifi3">Требуется поддержка Miracast на ПК</item>
+  <item name="AppConnect">Используйте приложение LetsView</item>
+  <item name="WifiConnect">Встроенная трансляция</item>
+  <item name="ConnectSucess">Успешное подключение, идёт трансляция</item>
+  <item name="Disconnect">Отключить</item>
+  <item name="Slogan">Инструмент для трансляции экрана, о котором вы мечтали.</item>
+  <item name="AndroidFirst">Нажмите "Начать сейчас" на устройстве</item>
+  <item name="LetsViewWarning">LetsView начнёт захватывать всё, что отображается на экране</item>
+  <item name="DontShow">Больше не показывать</item>
+  <item name="StartNow">Начать сейчас</item>
+  <item name="LetsViewTip">Не будет отображаться при выборе "Больше не показывать"</item>
+  <item name="StartNow">Начать сейчас</item>
+  <item name="BaseSetting">Основные настройки</item>
+  <item name="WifiSetting">Настройки WiFi</item>
+  <item name="DisplaySetting">Настройки дисплея</item>
+  <item name="VoiceSetting">Настройки звука</item>
+  <item name="ComputerGetSetting">При трансляции ПК на ПК</item>
+  <item name="ScreenGetSetting">Настройки захвата</item>
+  <item name="MirrorService">Служба трансляции</item>
+  <item name="AutoStart">Запуск при старте</item>
+  <item name="CloseConfirm">Предупреждать при закрытии</item>
+  <item name="Topmost">Всегда сверху</item>
+  <item name="OpenWifiHost">Включить точку доступа</item>
+  <item name="FullScreen">Полноэкранный режим</item>
+  <item name="AirplayResolution">Разрешение Airplay</item>
+  <item name="RenderMode">Режим рендеринга</item>
+  <item name="MaxFps">Макс. FPS</item>
+  <item name="ImgExt">Формат скриншотов</item>
+  <item name="ImageTo">Сохранение</item>
+  <item name="VideoExt">Формат видео</item>
+  <item name="VideoQuality">Качество видео</item>
+  <item name="AudioInput">Аудиовход</item>
+  <item name="OutputDir">Папка назначения</item>
+  <item name="HardDecode">Аппаратное ускорение</item>
+  <item name="RecordFinish">Запись завершена</item>
+  <item name="Fine">OK</item>
+  <item name="OpenDir">Открыть папку</item>
+  <item name="Top">Рекомендуется</item>
+  <item name="Light">Светлая</item>
+  <item name="Dark">Тёмная</item>
+  <item name="Clipboard">Буфер обмена</item>
+  <item name="Local">Локальный компьютер</item>
+  <item name="High">Высокое</item>
+  <item name="Standard">Стандартное</item>
+  <item name="Low">Низкое</item>
+  <item name="Null">Нет</item>
+  <item name="System">Системный звук</item>
+  <item name="Microphone">Микрофон</item>
+  <item name="Both">Система и микрофон</item>
+  <item name="Disable">Отключить</item>
+  <item name="Enable">Включить</item>
+  <item name="InstallTip">Служба Bonjour не установлена, установить сейчас?</item>
+  <item name="Cancel">Отмена</item>
+  <item name="InstallNow">Установить сейчас</item>
+  <item name="EnableNow">Включить сейчас</item>
+  <item name="AmStartFailed">Не удалось включить AMcast</item>
+  <item name="AirplayStartFailed">Не удалось включить AirPlay</item>
+  <item name="Sure">OK</item>
+  <item name="ExitTip">Закрыть программу?</item>
+  <item name="BonjourStartFailed">Служба Bonjour не запущена, AirPlay не работает</item>
+  <item name="Paint">Кисть</item>
+  <item name="Record">Запись</item>
+  <item name="Stop">Стоп</item>
+  <item name="Clear">Очистить</item>
+  <item name="Revoke">Отменить</item>
+  <item name="Exit">Выход</item>
+  <item name="Full">Полный экран</item>
+  <item name="ScreenShot">Скриншот</item>
+  <item name="Minimize">Свернуть</item>
+  <item name="Maxmize">Развернуть</item>
+  <item name="Close">Закрыть</item>
+  <item name="ShotSucess">Скриншот сохранён</item>
+  <item name="ClickToOpen">Нажмите для открытия</item>
+  <item name="ExitFull">Выйти из полноэкранного режима</item>
+  <item name="Color">Цвет</item>
+  <item name="AirplayHelp">Подключение через AirPlay</item>
+  <item name="MiracstHelp">Используйте встроенную трансляцию. Требуется поддержка Miracast на ПК.</item>
+  <item name="ChooseConnectType">Сначала выберите метод подключения</item>
+  <item name="ClipBoardSucess">Скопировано в буфер!</item>
+  <item name="ShotFailed">Ошибка скриншота!</item>
+  <item name="Account">Аккаунт</item>
+  <item name="RenderModeReconnect">Новый режим рендеринга применится после переподключения. Переподключить сейчас?</item>
+  <item name="ResolutionReconnect">Новое разрешение применится после переподключения. Переподключить сейчас?</item>
+  <item name="NotSurpport">Протокол не поддерживается</item>
+  <item name="AndroidResolution">Разрешение Android</item>
+  <item name="AndroidResoTip">Измените разрешение в приложении LetsView для Android</item>
+  <item name="ChangeSwitchMsg">Изменения применятся после перезапуска</item>
+
+  <item name="QrcodeConnect">QR-код</item>
+  <item name="UseAPPScan">Сканируйте QR-код через приложение LetsView</item>
+  <item name="PinConnect">PIN-код</item>
+  <item name="OpenFolder">Открыть папку</item>
+  <item name="ChooseFolder">Выбрать папку</item>
+  <item name="MiracastDecode">Аппаратное ускорение Miracast</item>
+  <item name="RevertWin">Восстановить окно</item>
+
+  <item name="PhoneMirror">Трансляция телефона</item>
+  <item name="WindowMirror">Трансляция ПК</item>
+  <item name="WindowMirrorHint1">Введите PIN-код получателя</item>
+  <item name="WindowMirrorHint2">Не вводите "Мой PIN-код"</item>
+  <item name="WindowMirrorHint3">, получение экрана</item>
+  <item name="WindowMirrorHint4">Подключение к </item>
+  <item name="WindowMirrorHint5">Выберите контент для трансляции</item>
+  <item name="WindowMirrorHint6">Подключено, </item>
+  <item name="WindowMirrorHint7">Запрос отклонён</item>
+  <item name="ConnectSuccess">Подключено, </item>
+  <item name="MyMirrorCode">Мой PIN-код</item>
+  <item name="InputMirrorCodeHint">Введите PIN-код</item>
+  <item name="BeginConnect">Начать</item>
+  <item name="Connecting">Подключение...</item>
+  <item name="Disconnect">Отключить</item>
+  <item name="IsAllowMirror"> транслирует экран на мой компьютер</item>
+  <item name="Allow">Разрешить</item>
+  <item name="Refuse">Отклонить</item>
+  <item name="WindowScreen">Трансляция экрана</item>
+  <item name="DocumentMirror">Трансляция файлов</item>
+
+  <item name="SplitScreen">Переключение экрана</item>
+  <item name="Mirror">Трансляция</item>
+  <item name="OpenMainWindow">Открыть главное окно</item>
+  <item name="AppIsAllowMirror">Разрешить LetsView получать экран моего компьютера</item>
+  <item name="DisconnectMirror">Отключить</item>
+  <item name="Collaps">Свернуть</item>
+  <item name="MirrorConnected">Устройство подключено</item>
+  <item name="Mirroring">Идёт трансляция</item>
+  <item name="WithoutDocumentHint">Файлы не найдены, откройте файл на ПК и</item>
+  <item name="DocumentRefresh">обновите</item>
+  <item name="DLNAGuide">Руководство DLNA</item>
+  <item name="ComputerGuide">Руководство по трансляции ПК</item>
+  <item name="VideoAPPGuide">Руководство DLNA</item>
+  <item name="DLNATip2">Откройте DLNA-приложение на телефоне, например</item>
+  <item name="DLNATip3">Откройте видео. Нажмите значок "Трансляция" и выберите устройство</item>
+  <item name="ComputerTip2">Откройте LetsView на другом ПК и выберите "Трансляция ПК"</item>
+  <item name="ComputerTip3">Введите PIN-код на другом ПК</item>
+  <item name="VideoPlay">Видео, музыка и фото будут транслироваться на ПК</item>
+  <item name="APP1">Bilibili</item>
+  <item name="APP2">iQiyi</item>
+  <item name="APP3">Tencent Video</item>
+  <item name="Songtips">Ошибка воспроизведения, переключите трек</item>
+  <item name="UnknownSinger">Неизвестный исполнитель</item>
+  <item name="UnknownMusic">Неизвестная композиция</item>
+  <item name="ChooseScreenContent">Сначала выберите контент</item>
+  <item name="Decoding">Режим декодирования</item>
+  <item name="StiffDecode">Высокая скорость</item>
+  <item name="SoftDecoding">Совместимость</item>
+  <item name="ReturnScreen">Попробуйте снова</item>
+  <item name="DecodingTip1">Совместимость: Подходит для всех устройств.</item>
+  <item name="DecodingTip2">Высокая скорость: Меньше нагрузки, лучше качество. Может не работать на некоторых устройствах.</item>
+  <item name="FindService">Обнаружение</item>
+  <item name="PlugTip">Плагин</item>
+  <item name="Cancel">Трансляция отменена</item>
+  <item name="timeout">Нет ответа от устройства</item>
+  <item name="PlugInstallTip">Установка...</item>
+
+  <item name="MirrorEnvironmentCheck">Проверка трансляции</item>
+  <item name="MirrorEnvCheckTips">Не используйте ПК во время проверки</item>
+  <item name="ReCheck">Повторить проверку</item>
+  <item name="MirrorCheck">Проверка трансляции</item>
+  <item name="BaseEnvironment">Основное окружение</item>
+  <item name="AirplayEnvironment">iOS</item>
+  <item name="AndroidEnvironment">Android</item>
+  <item name="OtherEnvironment">Другое</item>
+  <item name="CheckNet">Сеть:</item>
+  <item name="CheckIP">IP:</item>
+  <item name="CheckOS">Система:</item>
+  <item name="CheckDpi">Разрешение:</item>
+  <item name="CheckNetSpeed">Скорость интернета:</item>
+  <item name="CheckDriver">Драйверы:</item>
+  <item name="CheckFireWall">Брандмауэр:</item>
+  <item name="AirPlayService">Служба AirPlay:</item>
+  <item name="AirPlayPort">Порт AirPlay:</item>
+  <item name="BonjourService">Служба Bonjour:</item>
+  <item name="AMcastPort">Порт AMcast:</item>
+  <item name="DLNAService">Служба DLNA:</item>
+  <item name="MiracastService">Служба Miracast:</item>
+  <item name="NetErr">Нет подключения, трансляция невозможна</item>
+  <item name="FireWallOn">Ошибка, трансляция невозможна</item>
+  <item name="Normal">Нормально</item>
+  <item name="AirServErr">Отключено, трансляция iOS невозможна</item>
+  <item name="AirPortErr">Ошибка, перезапустите</item>
+  <item name="BonJErr">Ошибка, трансляция iOS невозможна</item>
+  <item name="AmcastPortErr">Ошибка порта, перезапустите</item>
+  <item name="DlnaServErr">Отключено</item>
+  <item name="MiraServErr">Не поддерживается</item>
+  <item name="CheckHelp">Помощь</item>
+  <item name="CheckResume">Перезапустить</item>
+  <item name="CheckStart">Включить</item>
+  <item name="CheckCourse">Руководства</item>
+  <item name="PrivacyAgreement">Конфиденциальность</item>
+  <item name="AutoMirrorEnvCheck">Автопроверка</item>
+  <item name="ManualCheck">Ручная проверка</item>
+  
+  <item name="BtnFindTip">Найдите больше плагинов</item>
+  <item name="PlugInHelper">Руководство</item>
+  <item name="PlugInAdd">Скачать</item>
+  <item name="PlugInAddCancel">Отмена</item>
+  <item name="PlugInSurvey">Опрос</item>
+  <item name="DrawingTips">Рисование и пометки на ПК</item>
+  <item name="SurveyTips">Исследуйте больше плагинов</item>
+  <item name="DeviceName">Устройство</item>
+  <item name="ScreenGrabTips">Успешное подключение, идёт трансляция</item>
+  <item name="ScreenGrabBtn">Трансляция</item>
+  <item name="ShowMain">Показать главное окно</item>
+  
+  <item name="TopTips1">Режим "Поверх всех окон" включён</item>
+  <item name="TopTips2">Режим "Поверх всех окон" отключён</item>
+  <item name="Tutorialart">Руководства</item>
+  <item name="PhoneToPCart">Как транслировать телефон на ПК</item>
+  <item name="NeverRemind">Больше не показывать</item>
+
+  <item name="MinMaxHotKey">Горячие клавиши (Показать/Скрыть)</item>
+  <item name="HotKeySetTips">Нажмите новые горячие клавиши</item>
+  <item name="SetHotKeyFaildTips">Конфликт с существующими клавишами</item>
+  <item name="DefaultHotKeyTips">Нет</item>
+  <item name="CurrentVersion">Версия:</item>
+
+  <item name="FastModeTip">Низкая нагрузка, высокая производительность</item>
+  <item name="CompatibleModeTip">Совместимость со всеми устройствами</item>
+  <item name="D3DXRender">D3DX(Высокая скорость)</item>
+  <item name="D3DRender">D3D(Совместимость)</item>
+  <item name="GDIRender">GDI(Обычный)</item>
+  <item name="MinToTray">Свернуть в трей</item>
+  <item name="ExitProgram">Выход</item>
+  <item name="MirrorHardDecode">Аппаратное ускорение</item>
+  <item name="CloseActionTitle">Вы хотите</item>
+
+	<item name="HotKeySetting">Настройка горячих клавиш</item>
+	<item name="HideOrShow">Показать/Скрыть окно</item>
+	<item name="QrcodeTip">Введите PIN-код на телефоне/ПК</item>
+	<item name="ChangeSettingTips">Изменения применятся после переподключения</item>
+
+  <item name="AirResolutionTip">Низкое разрешение - более плавно</item>
+  <item name="MirrorNow">Транслировать</item>
+
+  <item name="CloudMirroringTips">Трансляция между разными сетями</item>
+
+  <item name="PCMirrorSenderTips">выберите контент для трансляции</item>
+  <item name="PCMirrorReceiveTips">ожидание контента от отправителя Успешная трансляция</item>
+	<item name="Drawing">Рисование</item>
+	<item name="RemoteCast">Удалённая трансляция</item>
+	<item name="ComputerSetting">Трансляция ПК на другие устройства</item>
+</Apowersoft>
