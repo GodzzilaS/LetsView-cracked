@@ -31,3 +31,6 @@ This crack added for you infinite Pro license.
 Теперь вы можете наслаждаться всеми преимуществами PRO версии бесплатно с полной русскоязычной поддержкой интерфейса!
 
 Now you can enjoy all the benefits of the PRO version for free with full Russian language support in the interface!
+
+Проверка на вирусы:<br>
+![image](https://github.com/user-attachments/assets/c7333c2a-0109-44a0-b145-264476e4f6a8)
